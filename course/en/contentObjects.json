@@ -13,15 +13,15 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
-    "displayTitle": "Introduction ",
-    "title": "Introduction ",
+    "body": "<p dir=\"ltr\">A modern data scientist is expected to be a catalyst for change in an organisation. This requires not only performing complex data manipulation, but also being able to present the outcomes to senior level decision makers. In this module we look at how data has changed the way we tell stories and some significant examples.</p>\n",
+    "displayTitle": "Introduction to data storytelling",
+    "title": "Introduction to data storytelling",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": []
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
     }
   },
   {
@@ -38,15 +38,15 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
-    "displayTitle": "The Four Step Process",
-    "title": "The Four Step Process",
+    "body": "<p dir=\"ltr\">A modern data scientist is expected to undertake many, if not all, of stages from gathering the data to telling the story themselves. To be successful, you need to understand the time requirement of every stage in the process.</p>\n",
+    "displayTitle": "The four step process",
+    "title": "The four step process",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": []
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
     }
   },
   {
@@ -64,14 +64,14 @@
     "linkText": "View",
     "_classes": "",
     "body": "",
-    "displayTitle": "The Legal Bit",
-    "title": "The Legal Bit",
+    "displayTitle": "Understanding your rights to use data",
+    "title": "Understanding your rights to use data",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": []
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
     }
   },
   {
@@ -88,15 +88,36 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
-    "displayTitle": "Organising Data",
-    "title": "Organising Data",
-    "_skillsFramework": {
-      "_skills": []
-    },
+    "body": "<p dir=\"ltr\">Having gathered data from a number different sources, an essential skill of a data scientist is to organise that data ready to be processed. A modern data scientist should design and implement a structure for a dataset that can be understood by the audience.</p>\n",
+    "displayTitle": "Organising data",
+    "title": "Organising data",
     "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Identify a number of good and bad spreadsheet layouts",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Create a number of good column titles for a spreadsheet",
+          "credits": 5,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "Use of header rows and freeze functions in spreadsheets",
+          "credits": 5,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "Use a number of different data types in a spreadsheet",
+          "credits": 5,
+          "level": "practitioner"
+        }
+      ]
     }
   },
   {
@@ -113,15 +134,15 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
-    "displayTitle": "Cleaning Data",
-    "title": "Cleaning Data",
+    "body": "<p dir=\"ltr\">Data containing errors leads to stories containing errors. Before any analysis can take place a data scientist needs to be able to identify and remove errors from data. This module looks at common errors and useful tools to remove them.</p>\n",
+    "displayTitle": "Cleaning data",
+    "title": "Cleaning data",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": []
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
     }
   },
   {
@@ -138,15 +159,36 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
-    "displayTitle": "Filtering and Pivot Tables",
-    "title": "Filtering and Pivot Tables",
-    "_skillsFramework": {
-      "_skills": []
-    },
+    "body": "<p dir=\"ltr\">Once data is clean, it is ready for analysis. This analysis does not have to use complex statistical methods. A modern data scientist should be comfortable using common analysis techniques such as pivot tables.</p>\n",
+    "displayTitle": "Filtering and pivot tables",
+    "title": "Filtering and pivot tables",
     "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Apply filters to a spreadsheet",
+          "credits": 5,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "Sort data in a spreadsheet",
+          "credits": 5,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "Apply formula to a spreadsheet",
+          "credits": 5,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "Create a set of analytics for a spreadsheet",
+          "credits": 10,
+          "level": "practitioner"
+        }
+      ]
     }
   },
   {
@@ -163,40 +205,15 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
+    "body": "<p dir=\"ltr\">A modern data scientist should be comfortable working with many different types of visualisation from common graphs to advanced statistical plots to geographic representations.</p>\n",
     "displayTitle": "Data visualisation formats",
     "title": "Data visualisation formats",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": []
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    }
-  },
-  {
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_id": "57ac437ce396ef981f39e8fb",
-    "_parentId": "course",
-    "_type": "page",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_lockedBy": [],
-    "duration": "",
-    "linkText": "View",
-    "_classes": "",
-    "body": "",
-    "displayTitle": "Visual Deception",
-    "title": "Visual Deception",
-    "_skillsFramework": {
-      "_skills": []
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
     }
   },
   {
@@ -214,8 +231,33 @@
     "linkText": "View",
     "_classes": "",
     "body": "",
-    "displayTitle": "Data Visualisation Best Practice",
-    "title": "Data Visualisation Best Practice",
+    "displayTitle": "Data visualisation best practice",
+    "title": "Data visualisation best practice",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": []
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_id": "57ac437ce396ef981f39e8fb",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Visual deception",
+    "title": "Visual deception",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
@@ -239,14 +281,14 @@
     "linkText": "View",
     "_classes": "",
     "body": "",
-    "displayTitle": "Narrating Your Story",
-    "title": "Narrating Your Story",
+    "displayTitle": "Narrating your story",
+    "title": "Narrating your story",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": []
-    },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
     }
   }
 ]

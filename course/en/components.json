@@ -9,7 +9,7 @@
     "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -290,7 +290,7 @@
     "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-seven",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -298,8 +298,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "attribution": ""
     }
   },
@@ -482,7 +482,7 @@
     "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -624,8 +624,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
-      "small": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
       "attribution": ""
     }
   },
@@ -702,7 +702,7 @@
     "title": "Component title",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -713,22 +713,6 @@
       "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
       "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
       "attribution": ""
-    }
-  },
-  {
-    "_id": "5839a5e44d7b7e82691e4855",
-    "_layout": "right",
-    "_type": "component",
-    "_parentId": "5839a5c74d7b7e82691e4853",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
     }
   },
   {
@@ -1075,8 +1059,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
-      "small": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
       "attribution": ""
     }
   },
@@ -1199,7 +1183,7 @@
     "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-seven",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -1207,8 +1191,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "attribution": ""
     }
   },
@@ -1234,7 +1218,7 @@
     "_layout": "left",
     "_parentId": "57adf677e396ef981f39ea0a",
     "_type": "component",
-    "body": "<p>Communicating impact from data is a key skill of any modern data worker. This module has introduced some of the essential techniques that can help effectively visualise data. It is important to think critically about every detail to ensure that the message is communicated&nbsp;clearly.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+    "body": "<p>Communicating impact from data is a key skill of any modern data worker. This module has introduced some of the essential techniques that can help effectively visualise data.</p>\n\n<p dir=\"ltr\">Choosing the correct visualisation is the first step, but it does not guarantee that it will lead to an effective story. The visualisation will require careful design in order to make the story clear to the audience as we explore in the <a href=\"#/id/57b2c1c9e396ef981f39ea8c\">next module</a>.</p>\n\n<p>&nbsp;</p>\n",
     "displayTitle": "Visualisation essentials",
     "title": "Visualisation essentials",
     "_isAvailable": true,
@@ -1517,23 +1501,6 @@
       "small": "course/en/assets/1eb62af9144c629aad74c6033f0e4244ee367814.png",
       "attribution": ""
     }
-  },
-  {
-    "_id": "57b1c2a7e396ef981f39ea2b",
-    "_layout": "left",
-    "_parentId": "57b1b369e396ef981f39ea2a",
-    "_type": "component",
-    "body": "<p dir=\"ltr\">Finding and telling a story with data can be condensed down into a simple 4 step process.&nbsp;</p>\n\n<p dir=\"ltr\">In this module we will cover what the process is, and what the terms mean:&nbsp;</p>\n\n<p>✓Getting the right data</p>\n\n<p>✓Analysing the data</p>\n\n<p>✓Visualising the data</p>\n\n<p>✓Building a story around the data</p>\n",
-    "displayTitle": "What is the 4 step data storytelling process?",
-    "title": "What is the 4 step data storytelling process?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
   },
   {
     "_id": "57b1c574e396ef981f39ea3a",
@@ -2315,8 +2282,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
-      "small": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
       "attribution": ""
     }
   },
@@ -2704,7 +2671,7 @@
     "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -3012,7 +2979,7 @@
     "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-seven",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -3020,8 +2987,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
-      "small": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "attribution": ""
     }
   },
@@ -3453,23 +3420,6 @@
     }
   },
   {
-    "_id": "57b31eb0e396ef981f39eba2",
-    "_layout": "left",
-    "_parentId": "57b31e9fe396ef981f39eba1",
-    "_type": "component",
-    "body": "<p>Data-cleaning is essential to ensure that when the data is used, the right conclusions are made.</p>\n\n<p>Often errors are not even noticed by data publishers because the data can change over many years. Errors can be the result of human mistakes in data entry, like mistyping or incorrect abbreviations.</p>\n\n<p>Be aware that cleaning may take longer than you think. A careful cleaning process will, however, save substantial time in the long-run.</p>\n\n<p>Follow our data cleaning exercise to get started with Open Refine and discover how easy it is for yourself.</p>\n\n<a class='course_link' href='http://training.theodi.org/resources/Cleaning_Exercise.pdf' target='_blank'>Get started with data cleaning in Open Refine</a>\n",
-    "displayTitle": "Cleaning data",
-    "title": "Cleaning data",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
     "_id": "57b31eb3e396ef981f39eba3",
     "_layout": "right",
     "_parentId": "57b31e9fe396ef981f39eba1",
@@ -3502,7 +3452,7 @@
     "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -3516,86 +3466,8 @@
     }
   },
   {
-    "_id": "57b5c256c71a1cc67f4ee73d",
-    "_layout": "left",
-    "_parentId": "57b59791e396ef981f39ebd4",
-    "_type": "component",
-    "body": "<p dir=\"ltr\">Public domain licences remove copyright altogether. Public domain licences thus permit anyone to do anything with the content, even claim ownership. Public domain licences are thus the most permissive and remove all owners rights. In some cases these licences are used when the creator recognises that the content will have more value if more people can freely use it.</p>\n\n<p dir=\"ltr\">A good example of this exists with the many Google/Alphabet research experiments. After an amount of time, each project is reviewed for adoption by the commercial company Google. However, if no commercial interest can be seen for Google, then in many cases the project is then put in the public domain and others can see if they are interested.</p>\n",
-    "displayTitle": " Public Domain Licences",
-    "title": " Public Domain Licences",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "57b5c266c71a1cc67f4ee73e",
-    "_layout": "right",
-    "_parentId": "57b59791e396ef981f39ebd4",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "  ",
-    "title": "  ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
-      "small": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "57b5c311c71a1cc67f4ee741",
-    "_layout": "right",
-    "_parentId": "57b59bb2e396ef981f39ebdb",
-    "_type": "component",
-    "body": "<p dir=\"ltr\">There are two public domain licences available under the creative commons licence set. CC0 (zero) and the Public Domain Mark.</p>\n",
-    "displayTitle": "Different licence types",
-    "title": "Different licence types",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "accordion",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_items": [
-      {
-        "title": "CC0 Licence ",
-        "body": "<p dir=\"ltr\">The CC0 licence allows creators of works or datasets to place those datasets&nbsp;in the public domain, removing their rights entirely. This licence can only be applied by the copyright holder.</p>\n",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Public Domain Mark",
-        "body": "<p dir=\"ltr\">The Public Domain Mark is very similar to the CC0 licence, except that it it can be retrospectively applied to data that is&nbsp;already known to be public domain, either by previous licence or intent. This mark is most often applied by third parties to data&nbsp;where copyright has expired, or the creator is no longer able to place a CC0 licence on the data.</p>\n\n<p dir=\"ltr\">For example, a library or archive could choose to place a Public Domain Mark on old, out of copyright books.</p>\n",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true
-  },
-  {
     "_id": "57b5c316c71a1cc67f4ee742",
-    "_layout": "left",
+    "_layout": "right",
     "_parentId": "57b59bb2e396ef981f39ebdb",
     "_type": "component",
     "body": "",
@@ -3633,7 +3505,7 @@
     },
     "instruction": "Click the forward arrow to see more.",
     "mobileInstruction": "Select the ‘+’ sign to explore further, then swipe the image to see more.",
-    "_hasNavigationInTextArea": true,
+    "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
     "_items": [
       {
@@ -3780,8 +3652,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
-      "small": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
       "attribution": ""
     }
   },
@@ -4130,7 +4002,7 @@
     "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -4153,7 +4025,7 @@
     "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -4176,7 +4048,7 @@
     "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "logo-intro",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -4335,7 +4207,7 @@
     "title": "  ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -4347,23 +4219,6 @@
       "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
       "attribution": ""
     }
-  },
-  {
-    "_id": "57c19953c8c479d7402de284",
-    "_layout": "left",
-    "_parentId": "57c198b7c8c479d7402de280",
-    "_type": "component",
-    "body": "<p>Once you know which dataset or datasets you are going to use, you can get ready to analyse it. However, if a dataset is not properly organised, it can be hard to ask it fundamental questions in conducting your analysis.&nbsp;</p>\n\n<p>In this module&nbsp;we look at how to effectively structure a spreadsheet for raw data collection. We will cover:</p>\n\n<p>✓ Spreadsheet layouts</p>\n\n<p>✓ Column titles&nbsp;</p>\n\n<p>✓ Header&nbsp;rows and the freeze function</p>\n\n<p>✓ Data types</p>\n\n<p>At the end of this module you can try out what you&#39;ve learnt on a spreadsheet.&nbsp;&nbsp;&nbsp;</p>\n",
-    "displayTitle": "Organising data",
-    "title": "Organising data",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
   },
   {
     "_id": "5838409a4d7b7e82691e475e",
@@ -4597,7 +4452,7 @@
     "title": "  ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-seven",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -4605,8 +4460,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
-      "small": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "attribution": ""
     }
   },
@@ -4650,8 +4505,8 @@
     "_parentId": "57b441b1e396ef981f39ebca",
     "_type": "component",
     "body": "<p>When working with data, you must first ensure that the data is correctly licensed. This module will explore the different licenses available which ensure you are using data correctly and legally.&nbsp;</p>\n\n<p>This module will cover:</p>\n\n<p>✓ Public domain licenses&nbsp;</p>\n\n<p>✓ Open licences&nbsp;</p>\n\n<p>✓ Copyright exceptions&nbsp;</p>\n\n<p>✓ Fair use&nbsp;</p>\n",
-    "displayTitle": "The legal bit",
-    "title": "The legal bit",
+    "displayTitle": "Understanding your rights to use data",
+    "title": "Understanding your rights to use data",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -4679,8 +4534,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
-      "small": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
+      "large": "course/en/assets/26b463eaa6ccf87886ac07dfe7a0e03bd7f79a15.jpg",
+      "small": "course/en/assets/26b463eaa6ccf87886ac07dfe7a0e03bd7f79a15.jpg",
       "attribution": ""
     }
   },
@@ -4723,6 +4578,98 @@
       "small": "course/en/assets/ba96a483366a619817d1b3df4e405c073158f8e0.png",
       "attribution": ""
     }
+  },
+  {
+    "_id": "58399cfd4d7b7e82691e4845",
+    "_layout": "right",
+    "_parentId": "58399c994d7b7e82691e4842",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/e8665f7df3eb3bb19b9c8bcba1bacf34892e333f.mp4",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/4833f117f2b3d5f33f3f11c1dee9ed94a55acb4b.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "57b1c2a7e396ef981f39ea2b",
+    "_layout": "left",
+    "_parentId": "57b1b369e396ef981f39ea2a",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">A modern data scientist is expected to undertake many, if not all, of stages from gathering the data to telling the story themselves. To be successful, you need to understand the time requirement of every stage in the process.</p>\n\n<p dir=\"ltr\">Finding and telling a story with data can be condensed into a simple, four step process.</p>\n\n<p dir=\"ltr\">In this module we will explore this process in detail:</p>\n\n<ul>\n\t<li>Getting the right data</li>\n\t<li>Analysing the data</li>\n\t<li>Visualising the data</li>\n\t<li>Building a story around the data</li>\n</ul>\n",
+    "displayTitle": "What is the four step data storytelling process?",
+    "title": "What is the four step data storytelling process?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58385db94d7b7e82691e479c",
+    "_layout": "left",
+    "_parentId": "58385da74d7b7e82691e4795",
+    "_type": "component",
+    "body": "<p>You can test what you have learned in this module&nbsp;by correcting a&nbsp;messy spreadsheet.&nbsp;</p>\n\n<p><a href=\"https://drive.google.com/open?id=0B1VBoooQ3X5jeEQycHo4OG4tclE\" tabindex=\"0\" target=\"_blank\">Download and open this spreadsheet</a>&nbsp;in your favourite spreadsheet application. Then&nbsp;see if you can fix the errors &nbsp;&ndash;&nbsp;relating to structure, content and&nbsp;layout &ndash; that you learnt about in this module.&nbsp;The spreadsheet contains two sheets of data from the same health facility star-ratings dataset,&nbsp;from different regions in Tanzania.</p>\n\n<p>In order to track your changes on the spreadsheet, you may want to open a new tab or make a new spreadsheet. Create&nbsp;new columns,&nbsp;then add the records from the existing datasets into your new spreadsheet.&nbsp;</p>\n\n<p dir=\"ltr\">At the point where you have structured your data, you may think it&rsquo;s ready for processing or even visualising. As discovered earlier in the <a href=\"#/id/57b1b369e396ef981f39ea28\">four&nbsp;step process</a>, this is unfortunately not the case as you need to ensure that your data is of high quality and accuracy.</p>\n",
+    "displayTitle": "Test your spreadsheet skills",
+    "title": "Test your spreadsheet skills",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5839a8534d7b7e82691e485c",
+    "_layout": "right",
+    "_parentId": "5839a83c4d7b7e82691e485a",
+    "_type": "component",
+    "body": "<p>In this module we have seen how simple it can be to analyse data once it is organised in the correct structure.&nbsp;</p>\n\n<p>If you haven&#39;t already, try applying what you have learnt to the&nbsp;<a href=\"https://drive.google.com/open?id=0B1VBoooQ3X5jT0RSOVk3SnJuWlU\" tabindex=\"0\" target=\"_blank\">course spreadsheet</a>.&nbsp;</p>\n\n<p dir=\"ltr\">At this point there are two possible directions. Further analysis may be required to find a story; this may require further gathering, organising and cleaning. You may even need to employ further advanced statistical techniques such as the ones outlined in the courses and exercises linked below. Alternatively, you might have discovered your story already and be ready to visualise it. The next stage is choosing the most appropriate visualisation for your data.</p>\n",
+    "displayTitle": "Analysing data",
+    "title": "Analysing data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
   },
   {
     "_id": "582dae444d7b7e82691e44a7",
@@ -4770,12 +4717,12 @@
     "_layout": "left",
     "_parentId": "57ac4dd0e396ef981f39e921",
     "_type": "component",
-    "body": "<p>Data is a powerful resource. Analysing raw data can lead to finding new insights, which when presented in a clear and compelling way, has the potential to create impact in a variety of different fields.&nbsp;</p>\n\n<p>No field is more experienced at finding and telling stories than journalism,&nbsp;and likewise no field better at using data than data science. This module looks at what both fields can learn from each other, and what you can learn from them, in order to find and tell compelling stories with data.&nbsp;</p>\n\n<p><strong>In this module we will explore the following:</strong></p>\n\n<p>✓&nbsp;How data has changed the way we find&nbsp;stories</p>\n\n<p>✓&nbsp;How data has changed the way we tell stories</p>\n\n<p>✓ Examples of great storytelling with data</p>\n\n<p>&nbsp;</p>\n",
-    "displayTitle": "Why should we find and tell stories with data?",
-    "title": "Why should we find and tell stories with data?",
+    "body": "<p><span style=\"color:#FF0000\">Data is a powerful resource. Analysing raw data can lead to finding new insights, which when presented in a clear and compelling way, has the potential to create impact in a variety of different fields.&nbsp;</span></p>\n\n<p><span style=\"color:#FF0000\">No field is more experienced at finding and telling stories than journalism,&nbsp;and likewise no field better at using data than data science. This module looks at what both fields can learn from each other, and what you can learn from them, in order to find and tell compelling stories with data.&nbsp;</span></p>\n\n<p><strong>In this module we will explore the following:</strong></p>\n\n<ul>\n\t<li>How data has changed the way we find&nbsp;stories</li>\n\t<li>How data has changed the way we tell stories</li>\n\t<li>Examples of great storytelling with data</li>\n</ul>\n\n<p>&nbsp;</p>\n",
+    "displayTitle": "Introduction to data storytelling",
+    "title": "Introduction to data storytelling",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "ticks",
     "_component": "text",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -5013,46 +4960,6 @@
     }
   },
   {
-    "_id": "58383e5f4d7b7e82691e474d",
-    "_layout": "full",
-    "_parentId": "58383e414d7b7e82691e474c",
-    "_type": "component",
-    "body": "<p dir=\"ltr\">Effective organisation and careful management of data makes it easier&nbsp;to ensure data quality, and analyse or visualise results. This starts with understanding the basics of a spreadsheet and creating a good template in which to collect data.&nbsp;</p>\n\n<p dir=\"ltr\">Discover the fundamentals of spreadsheet layouts below.</p>\n",
-    "displayTitle": "Spreadsheet layouts",
-    "title": "Spreadsheet layouts",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": true,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Rows, Columns and values",
-        "body": "<p>Ensure you understand these important aspects and use them correctly.</p>\n\n<p><strong>Rows:&nbsp;</strong>A row represents a&nbsp;single<strong>&nbsp;</strong>record&nbsp;in your collection. For example, in a dataset about&nbsp;companies, each row must represent a single company.</p>\n\n<p><strong>Columns:&nbsp;</strong>A column defines a feature&nbsp;for every record. For example, in the same dataset about companies, a column might be &#39;number of employees&#39;.&nbsp;</p>\n\n<p><strong>Values: </strong>Values sit in the cells of the spreadsheet, describing the product of what the rows and columns detail. For example, the value of a particular company against the number of employees in that company could be &#39;56&#39;, if that company had 56 employees.&nbsp;</p>\n",
-        "_graphic": {
-          "src": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
-          "alt": ""
-        },
-        "strapline": "rows"
-      },
-      {
-        "title": "Sheets and multiple sheets",
-        "body": "<p>Each sheet in a spreadsheet should&nbsp;only contain one table.</p>\n\n<p>Start your table at row 1, column 1 (the top left corner).</p>\n\n<p>Avoid adding multiple tables starting in different parts of the sheet&nbsp;(for example,&nbsp;column L row 16).</p>\n\n<p>You should also avoid using multiple sheets unless it is&nbsp;necessary to collect multiple different datasets in one spreadsheet.&nbsp;</p>\n\n<p>For example, if you are collecting a dataset of companies, add them all to a single sheet and avoid&nbsp;dividing&nbsp;them by type or location of company. You may end up with a sheet containing many thousands of rows, however it is easier to filter a single sheet than multiple sheets.</p>\n",
-        "_graphic": {
-          "src": "course/en/assets/f47393b9bd20f6e421d25cedd6ffd0d7d4d24f39.png",
-          "alt": ""
-        },
-        "strapline": "table"
-      }
-    ]
-  },
-  {
     "_id": "58383f054d7b7e82691e4751",
     "_layout": "left",
     "_parentId": "58383ef64d7b7e82691e4750",
@@ -5110,8 +5017,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/0242fc59eb73c127fdeaa9275cea8f0aca2774bc.jpg",
-      "small": "course/en/assets/0242fc59eb73c127fdeaa9275cea8f0aca2774bc.jpg",
+      "large": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
+      "small": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
       "attribution": ""
     }
   },
@@ -5167,8 +5074,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
-      "small": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
       "attribution": ""
     }
   },
@@ -5481,23 +5388,6 @@
     }
   },
   {
-    "_id": "58385db94d7b7e82691e479c",
-    "_layout": "left",
-    "_parentId": "58385da74d7b7e82691e4795",
-    "_type": "component",
-    "body": "<p>You can test what you have learned in this module&nbsp;by correcting a&nbsp;messy spreadsheet.&nbsp;</p>\n\n<p><a href=\"https://drive.google.com/open?id=0B1VBoooQ3X5jeEQycHo4OG4tclE\" tabindex=\"0\" target=\"_blank\">Download and open this spreadsheet</a>&nbsp;in your favourite spreadsheet application. Then&nbsp;see if you can fix the errors &nbsp;&ndash;&nbsp;relating to structure, content and&nbsp;layout &ndash; that you learnt about in this module.&nbsp;The spreadsheet contains two sheets of data from the same health facility star-ratings dataset,&nbsp;from different regions in Tanzania.</p>\n\n<p>In order to track your changes on the spreadsheet, you may want to open a new tab or make a new spreadsheet. Create&nbsp;new columns,&nbsp;then add the records from the existing datasets into your new spreadsheet.&nbsp;</p>\n",
-    "displayTitle": "Test your spreadsheet skills",
-    "title": "Test your spreadsheet skills",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
     "_id": "58385dbc4d7b7e82691e479d",
     "_layout": "right",
     "_parentId": "58385da74d7b7e82691e4795",
@@ -5525,12 +5415,12 @@
     "_layout": "left",
     "_parentId": "57c1992cc8c479d7402de283",
     "_type": "component",
-    "body": "<p>Once your data is nicely organised, we can now begin to filter and analyse the data to find interesting things that could lead to a story.&nbsp;</p>\n\n<p>In this module we will learn how to:</p>\n\n<p>✓ Sort and filter&nbsp;data in a spreadsheet</p>\n\n<p>✓ Apply&nbsp;formula to generate simple statistics</p>\n\n<p>✓ Create a number of pivot tables</p>\n\n<p>✓ Create a number of summary graphs</p>\n\n<p>To prepare you for this exercise you will need&nbsp;<a href=\"https://drive.google.com/open?id=0B1VBoooQ3X5jT0RSOVk3SnJuWlU\" target=\"_blank\">this spreadsheet</a>. Note that it has two sheets;&nbsp;the first tab holds the data,&nbsp;and the second tab called &#39;Statistics&#39; will&nbsp;be used when we look at formula.&nbsp;</p>\n",
+    "body": "<p>Once your data is nicely organised, we can now begin to filter and analyse the data.</p>\n\n<p>In this module we will learn how to:</p>\n\n<ul>\n\t<li>Sort and filter&nbsp;data in a spreadsheet</li>\n\t<li>Apply&nbsp;formula to generate simple statistics</li>\n\t<li>Create a number of pivot tables</li>\n\t<li>Create a number of summary graphs</li>\n</ul>\n\n<p>To prepare you for this exercise you will need&nbsp;<a href=\"https://drive.google.com/open?id=0B1VBoooQ3X5jT0RSOVk3SnJuWlU\" target=\"_blank\">this spreadsheet</a>. Note that it has two sheets;&nbsp;the first tab holds the data,&nbsp;and the second tab called &#39;Statistics&#39; will&nbsp;be used when we look at formula.&nbsp;</p>\n",
     "displayTitle": "Filtering and pivot tables",
     "title": "Filtering and pivot tables",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "Ticks",
     "_component": "text",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -5594,7 +5484,7 @@
     "_items": [
       {
         "title": "Averages",
-        "body": "<p>Calculating averages is a common operation with any numeric data. But remember, there is more than one type of average!</p>\n\n<p>In the statistics sheet of the spreadsheet, we want to find out the&nbsp;mean and mode star ratings. These can be added by using the&nbsp;<strong>AVERAGE()</strong>&nbsp;and&nbsp;<strong>MODE()</strong>&nbsp;formula on the star rating column.&nbsp;</p>\n\n<p>To calculate the&nbsp;<strong>AVERAGE()</strong>&nbsp;star rating, type the following formula&nbsp;into the correct cell in the statistics sheet and then follow&nbsp;the instruction in italics.&nbsp;</p>\n\n<p><strong>=AVERAGE(&nbsp;</strong><em>click Star Rating column in data sheet&nbsp;</em><strong>)</strong></p>\n",
+        "body": "<p>Calculating averages is a common operation with any numeric data. But remember, there is more than one type of average!</p>\n\n<p>In the statistics sheet of the spreadsheet, we want to find out the&nbsp;mean and mode star ratings. These can be added by using the&nbsp;<strong>AVERAGE()</strong>&nbsp;and&nbsp;<strong>MODE()</strong>&nbsp;formula on the star rating column.&nbsp;</p>\n\n<p>To calculate the&nbsp;<strong>AVERAGE()</strong>&nbsp;star rating, type the following formula&nbsp;into the correct cell in the statistics sheet and then follow&nbsp;the instruction in italics.&nbsp;</p>\n\n<p><strong>=AVERAGE(&nbsp;</strong><em>click Star Rating column in data sheet&nbsp;</em>)</p>\n",
         "_graphic": {
           "alt": "",
           "src": ""
@@ -5627,7 +5517,7 @@
     "_layout": "left",
     "_parentId": "58399d7a4d7b7e82691e4849",
     "_type": "component",
-    "body": "<p>A pivot table is a powerful&nbsp;data summary tool found in all spreadsheet tools.&nbsp;Among other functions, a pivot table can automatically sort, count, total or give the average of the data stored in one table or spreadsheet, displaying the results in a second table.</p>\n\n<p>Pivot tables also give you the ability to &#39;pivot&#39;&nbsp;or rotate the data,&nbsp;changing the column and row labels used from the original dataset.&nbsp;</p>\n\n<p>The example video demonstrates how to create a simple pivot table that shows the total number of health facilities per star rating. Here, the star ratings are used as the row labels and we have one column of data that represents the total count of facilities for each rating.&nbsp;</p>\n\n<p>Try following this through with your own dataset.&nbsp;</p>\n",
+    "body": "<p>A pivot table is a powerful&nbsp;data summary tool found in all spreadsheet tools.&nbsp;Among other functions, a pivot table can automatically sort, count, total or give the average of the data stored in one table or spreadsheet, displaying the results in a second table.</p>\n\n<p>Pivot tables also give you the ability to &quot;Pivot&quot; or rotate the data,&nbsp;changing the column and row labels used from the original dataset.&nbsp;</p>\n\n<p>The example video demonstrates how to create a simple pivot table that gives the total number of health facilities per star rating. Here, the star ratings are used as the row labels and we have one column of data that represents the total count of facilities for each rating.&nbsp;</p>\n\n<p>Try following this through with your own dataset.&nbsp;</p>\n",
     "displayTitle": "Pivot tables",
     "title": "Pivot tables",
     "_isAvailable": true,
@@ -5675,7 +5565,7 @@
         "_classes": ""
       },
       {
-        "title": "Slicing your data",
+        "title": "Slice your data",
         "body": "<p>The last stage involves adding a&nbsp;slicer&nbsp;(or&nbsp;filter) to the pivot table. This tool can be found in the pivot table options (or toolbar).&nbsp;</p>\n\n<p>Add a slicer to your dataset based upon healthcare facility type. This will now allow you to filter the pivot table by type. As the pivot table updates, so will the graph that you made at the previous stage.&nbsp;&nbsp;</p>\n",
         "_graphic": {
           "alt": "",
@@ -5692,8 +5582,8 @@
     "_parentId": "5839a52b4d7b7e82691e484e",
     "_type": "component",
     "body": "",
-    "displayTitle": "Are you ready to analyse data?",
-    "title": "Are you ready to analyse data?",
+    "displayTitle": "Are you ready to filter and pivot data?",
+    "title": "Are you ready to filter and pivot data?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -5713,7 +5603,7 @@
     "title": "  ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-seven",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -5977,23 +5867,6 @@
     "_pageLevelProgress": {
       "_isEnabled": true
     }
-  },
-  {
-    "_id": "5839a8534d7b7e82691e485c",
-    "_layout": "right",
-    "_parentId": "5839a83c4d7b7e82691e485a",
-    "_type": "component",
-    "body": "<p>In this module we have seen how simple it can be to analyse data once it is organised in the correct structure.&nbsp;</p>\n\n<p>If you haven&#39;t already, try applying what you have learnt to the&nbsp;<a href=\"https://drive.google.com/open?id=0B1VBoooQ3X5jT0RSOVk3SnJuWlU\" tabindex=\"0\" target=\"_blank\">course spreadsheet</a>.&nbsp;</p>\n\n<p>In the next module, we will go on to visualising the results of the analysis.&nbsp;</p>\n",
-    "displayTitle": "Analysing data",
-    "title": "Analysing data",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
   },
   {
     "_id": "57ac5065e396ef981f39e92e",
@@ -6323,8 +6196,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/f47393b9bd20f6e421d25cedd6ffd0d7d4d24f39.png",
-      "small": "course/en/assets/f47393b9bd20f6e421d25cedd6ffd0d7d4d24f39.png",
+      "large": "course/en/assets/029418c3d6a4a6087d14575d291bcb6ee5fa994c.jpg",
+      "small": "course/en/assets/029418c3d6a4a6087d14575d291bcb6ee5fa994c.jpg",
       "attribution": ""
     }
   },
@@ -6346,8 +6219,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/0242fc59eb73c127fdeaa9275cea8f0aca2774bc.jpg",
-      "small": "course/en/assets/0242fc59eb73c127fdeaa9275cea8f0aca2774bc.jpg",
+      "large": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
+      "small": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
       "attribution": ""
     }
   },
@@ -6369,8 +6242,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
-      "small": "course/en/assets/819c25e749d3a1b08083964d1604b8f29aedc806.png",
+      "large": "course/en/assets/26b463eaa6ccf87886ac07dfe7a0e03bd7f79a15.jpg",
+      "small": "course/en/assets/26b463eaa6ccf87886ac07dfe7a0e03bd7f79a15.jpg",
       "attribution": ""
     }
   },
@@ -6490,45 +6363,130 @@
     }
   },
   {
-    "_id": "58399cfd4d7b7e82691e4845",
-    "_layout": "right",
-    "_parentId": "58399c994d7b7e82691e4842",
+    "_id": "57c19953c8c479d7402de284",
+    "_layout": "left",
+    "_parentId": "57c198b7c8c479d7402de280",
     "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
+    "body": "<p>A common challenge&nbsp;in&nbsp;ensuring data quality is difficulties in the use of spreadsheets. When data is properly managed, it is much easier to answer&nbsp;fundamental questions and conduct analysis. Correctly managed data also ensures you aren&#39;t making decisions based on faulty evidence. Knowing how to structure and organise data in a spreadsheet is fundamental to ensuring consistency anywhere.&nbsp;</p>\n\n<p>In this module&nbsp;we look at how to effectively structure a spreadsheet for raw data collection. We will cover:</p>\n\n<ul>\n\t<li>Spreadsheet layouts</li>\n\t<li>Column titles&nbsp;</li>\n\t<li>Header&nbsp;rows and the freeze function</li>\n\t<li>Data types</li>\n</ul>\n\n<p>At the end of this module you can try out what you&#39;ve learnt on a spreadsheet.&nbsp;&nbsp;&nbsp;</p>\n",
+    "displayTitle": "Organising data",
+    "title": "Organising data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58383e5f4d7b7e82691e474d",
+    "_layout": "full",
+    "_parentId": "58383e414d7b7e82691e474c",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Effective organisation and careful management of data makes it easier&nbsp;to ensure data quality, and analyse or visualise results. This starts with understanding the basics of a spreadsheet and creating a good template in which to collect data.&nbsp;</p>\n\n<p dir=\"ltr\">Discover the fundamentals of spreadsheet layouts below.</p>\n",
+    "displayTitle": "Spreadsheet layouts",
+    "title": "Spreadsheet layouts",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
-    "_component": "media",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Rows, columns and values",
+        "body": "<p>Ensure you understand these important aspects and use them correctly.</p>\n\n<p><strong>Rows:&nbsp;</strong>A row represents a&nbsp;<strong>single&nbsp;</strong>record&nbsp;in your collection. For example in a dataset of companies, each row must represent a single company and in a dataset of health facilities each row must only represent a single facility.&nbsp;</p>\n\n<p><strong>Columns:&nbsp;</strong>A column defines a feature (or field) for every record. For example in a dataset of people a good field to collect would be &quot;first name&quot;.</p>\n\n<p><strong>Values:&nbsp;</strong>Values are what is recorded in each row/column. For example &quot;Emily&quot; would be the value for the &quot;first name&quot; of a single person in a dataset of people.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/d2bdbfbb07b24d7561e89b5ff069d5f6d6e39774.jpg",
+          "alt": ""
+        },
+        "strapline": "rows"
+      },
+      {
+        "title": "Sheets and multiple sheets",
+        "body": "<p>Each sheet in a spreadsheet should&nbsp;<strong>only contain one table</strong>.</p>\n\n<p>Start your table at row 1, column 1 (top left corner).</p>\n\n<p>Avoid adding multiple tables starting in different parts of the sheet&nbsp;(e.g. column L row 16).</p>\n\n<p>You should also avoid using multiple sheets unless it is&nbsp;necessary to collect multiple different datasets in one spreadsheet.&nbsp;</p>\n\n<p>For example, if you are collecting a dataset of companies, add them all to a single sheet and avoid&nbsp;dividing&nbsp;them by type or location of company. You may end up with a sheet containing many thousands of rows, however it is easier to filter a single sheet than multiple sheets.</p>\n\n<p><a href=\"#/id/57c1992cc8c479d7402de281\">Module 7</a> looks at filtering data in a spreadsheet in more detail.</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/573957752a5406198646932aca0d3797f675cd7f.jpg",
+          "alt": ""
+        },
+        "strapline": "table"
+      }
+    ]
+  },
+  {
+    "_id": "5839a5e44d7b7e82691e4855",
+    "_layout": "right",
+    "_parentId": "5839a5c74d7b7e82691e4853",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": true
     },
     "instruction": "",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "mp3": "",
-      "source": "",
-      "type": "",
-      "poster": "",
-      "cc": []
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/95916dd3fa40e71f215e130084d9adc240cf363b.jpg",
+      "small": "course/en/assets/95916dd3fa40e71f215e130084d9adc240cf363b.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58873e78b61c46e176e7e679",
+    "_layout": "left",
+    "_parentId": "5839a6d44d7b7e82691e4856",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
     },
-    "_setCompletionOn": "inview",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_allowFullScreen": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fe415bc825dd02ff2ba027e9620bbd46a06c14d4.jpg",
+      "small": "course/en/assets/fe415bc825dd02ff2ba027e9620bbd46a06c14d4.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58873ea7b61c46e176e7e67c",
+    "_layout": "right",
+    "_parentId": "5839a7714d7b7e82691e4858",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
     },
-    "_playerOptions": ""
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f152c001b5cb059172fc7cce1c0aa39e18fd77fc.jpg",
+      "small": "course/en/assets/f152c001b5cb059172fc7cce1c0aa39e18fd77fc.jpg",
+      "attribution": ""
+    }
   },
   {
     "_id": "58399d744d7b7e82691e4848",
@@ -6536,8 +6494,8 @@
     "_parentId": "58399d084d7b7e82691e4846",
     "_type": "component",
     "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
+    "displayTitle": " ",
+    "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -6547,12 +6505,12 @@
     },
     "instruction": "",
     "_media": {
-      "mp4": "",
+      "mp4": "course/en/assets/da7174fb6b713a99418e20ed9293bd6779ee1c60.mp4",
       "ogv": "",
       "mp3": "",
       "source": "",
       "type": "",
-      "poster": "",
+      "poster": "course/en/assets/f4d2e10e93af5fd664243e179da73431dffa24f9.png",
       "cc": []
     },
     "_setCompletionOn": "inview",
@@ -6577,8 +6535,8 @@
     "_parentId": "58399d7a4d7b7e82691e4849",
     "_type": "component",
     "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
+    "displayTitle": " ",
+    "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -6588,12 +6546,12 @@
     },
     "instruction": "",
     "_media": {
-      "mp4": "",
+      "mp4": "course/en/assets/12f8f77a8589db3875d48bfe8db3e59be30e2982.mp4",
       "ogv": "",
       "mp3": "",
       "source": "",
       "type": "",
-      "poster": "",
+      "poster": "course/en/assets/6abc8c7db30233d4ee4ec0dc22125a9fd0219ccd.png",
       "cc": []
     },
     "_setCompletionOn": "inview",
@@ -6611,5 +6569,101 @@
       "transcriptLink": ""
     },
     "_playerOptions": ""
+  },
+  {
+    "_id": "58873a77b61c46e176e7e676",
+    "_layout": "left",
+    "_parentId": "58399db74d7b7e82691e484c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/3f625479e5274063900e516b0d2618d0c4d45239.mp4",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/42f0fafb85c3e9d3617a5fce8695c56466b78f6f.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "57b5c311c71a1cc67f4ee741",
+    "_layout": "left",
+    "_parentId": "57b59bb2e396ef981f39ebdb",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Public domain licences remove copyright altogether. Public domain licences thus permit anyone to do anything with the content, even claim ownership. Public domain licences are thus the most permissive and remove all owners rights. In some cases these licences are used when the creator recognises that the content will have more value if more people can freely use it.</p>\n\n<p dir=\"ltr\">A good example of this exists with the many Google/Alphabet research experiments. After an amount of time, each project is reviewed for adoption by the commercial company Google. However, if no commercial interest can be seen for Google, then in many cases the project is then put in the public domain and others can see if they are interested.</p>\n\n<p dir=\"ltr\">There are two public domain licences available under the creative commons licence set. CC0 (zero) and the Public Domain Mark.</p>\n",
+    "displayTitle": "Public domain licences",
+    "title": "Public domain licences",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "CC0 Licence ",
+        "body": "<p dir=\"ltr\">The CC0 licence allows creators of works or datasets to place those datasets&nbsp;in the public domain, removing their rights entirely. This licence can only be applied by the copyright holder.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Public Domain Mark",
+        "body": "<p dir=\"ltr\">The Public Domain Mark is very similar to the CC0 licence, except that it it can be retrospectively applied to data that is&nbsp;already known to be public domain, either by previous licence or intent. This mark is most often applied by third parties to data&nbsp;where copyright has expired, or the creator is no longer able to place a CC0 licence on the data.</p>\n\n<p dir=\"ltr\">For example, a library or archive could choose to place a Public Domain Mark on old, out of copyright books.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "57b31eb0e396ef981f39eba2",
+    "_layout": "left",
+    "_parentId": "57b31e9fe396ef981f39eba1",
+    "_type": "component",
+    "body": "<p>Data-cleaning is essential to ensure that when the data is used, the right conclusions are made.</p>\n\n<p>Often errors are not even noticed by data publishers because the data can change over many years. Errors can be the result of human mistakes in data entry, like mistyping or incorrect abbreviations.</p>\n\n<p>Be aware that cleaning may take longer than you think. A careful cleaning process will, however, save substantial time in the long-run.</p>\n\n<p>Follow our data cleaning exercise to get started with Open Refine and discover how easy it is for yourself.</p>\n\n<p><a class=\"course_link\" href=\"http://training.theodi.org/resources/Cleaning_Exercise.pdf\" target=\"_blank\">Get started with data cleaning in Open Refine</a></p>\n\n<p dir=\"ltr\">Once data is clean, it is ready for analysis. This analysis does not have to use complex statistical methods. A modern data scientist should be comfortable using common analysis techniques such as pivot tables. In the next module, we&nbsp;explore how to sort and filter pivot tables in&nbsp;spreadsheets.</p>\n",
+    "displayTitle": "Cleaning data",
+    "title": "Cleaning data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
   }
 ]
