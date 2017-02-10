@@ -9,19 +9,26 @@
     "medium": 759,
     "small": 519
   },
-  "_id": "579b77341e2f01b51c77a17e",
+  "_id": "5891cb84b61c46e176e7ed17",
   "_drawer": {
     "_duration": 400,
     "_hideEasing": "easeInQuart",
     "_showEasing": "easeOutQuart"
   },
-  "_courseId": "579b77341e2f01b51c77a17c",
+  "_courseId": "5891cb82b61c46e176e7ebb4",
   "_accessibility": {
     "_isTextProcessorEnabled": false,
     "_shouldSupportLegacyBrowsers": true,
+    "_isDisabledOnTouchDevices": false,
     "_isEnabled": false
   },
   "__v": 0,
+  "_tutor": {
+    "_isEnabled": false
+  },
+  "_licencePage": {
+    "licence": "CC-BY 4.0"
+  },
   "_aboutPage": {
     "_items": [
       {
@@ -50,25 +57,25 @@
       }
     ]
   },
-  "_tutor": {
-    "_isEnabled": false
-  },
   "build": {
     "includes": [
-      "adapt-theme-edsa",
+      "adapt-theme-lloyds",
       "adapt-contrib-boxMenu",
-      "adapt-contrib-aboutPage",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-tutor",
+      "adapt-contrib-resources",
       "adapt-skillsFramework",
-      "adapt-contrib-graphic",
+      "adapt-odi-licence",
+      "adapt-contrib-tutor",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-aboutPage",
       "adapt-contrib-text",
+      "adapt-contrib-graphic",
       "adapt-contrib-narrative",
       "adapt-contrib-mcq",
-      "adapt-contrib-hotgraphic",
       "adapt-contrib-media",
+      "adapt-contrib-responsiveIframe",
       "adapt-contrib-gmcq",
-      "adapt-contrib-accordion"
+      "adapt-contrib-accordion",
+      "adapt-contrib-hotgraphic"
     ]
   }
 }

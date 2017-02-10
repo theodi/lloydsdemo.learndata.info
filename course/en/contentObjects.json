@@ -2,59 +2,9 @@
   {
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/94164aeed2f6885fcdf44f9fe5484855c5238353.jpg"
     },
-    "_id": "57ac4dd0e396ef981f39e91f",
-    "_parentId": "course",
-    "_type": "page",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_lockedBy": [],
-    "duration": "",
-    "linkText": "View",
-    "_classes": "",
-    "body": "<p dir=\"ltr\">A modern data scientist is expected to be a catalyst for change in an organisation. This requires not only performing complex data manipulation, but also being able to present the outcomes to senior level decision makers. In this module we look at how data has changed the way we tell stories and some significant examples.</p>\n",
-    "displayTitle": "Introduction to data storytelling",
-    "title": "Introduction to data storytelling",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_skillsFramework": {
-      "_skills": []
-    }
-  },
-  {
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_id": "57b1b369e396ef981f39ea28",
-    "_parentId": "course",
-    "_type": "page",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_lockedBy": [],
-    "duration": "",
-    "linkText": "View",
-    "_classes": "",
-    "body": "<p dir=\"ltr\">A modern data scientist is expected to undertake many, if not all, of stages from gathering the data to telling the story themselves. To be successful, you need to understand the time requirement of every stage in the process.</p>\n",
-    "displayTitle": "The four step process",
-    "title": "The four step process",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_skillsFramework": {
-      "_skills": []
-    }
-  },
-  {
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_id": "57b441b1e396ef981f39ebc8",
+    "_id": "5894b15efda9f5660ad84268",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -64,68 +14,33 @@
     "linkText": "View",
     "_classes": "",
     "body": "",
-    "displayTitle": "Understanding your rights to use data",
-    "title": "Understanding your rights to use data",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_skillsFramework": {
-      "_skills": []
-    }
-  },
-  {
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_id": "57c198b7c8c479d7402de27e",
-    "_parentId": "course",
-    "_type": "page",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_lockedBy": [],
-    "duration": "",
-    "linkText": "View",
-    "_classes": "",
-    "body": "<p dir=\"ltr\">Having gathered data from a number different sources, an essential skill of a data scientist is to organise that data ready to be processed. A modern data scientist should design and implement a structure for a dataset that can be understood by the audience.</p>\n",
-    "displayTitle": "Organising data",
-    "title": "Organising data",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
+    "displayTitle": "1. What is data?",
+    "title": "1. What is data?",
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Identify a number of good and bad spreadsheet layouts",
+          "outcome": "Define open data",
           "credits": 5,
           "level": "explorer"
         },
         {
-          "outcome": "Create a number of good column titles for a spreadsheet",
+          "outcome": "Explain the need for open data",
           "credits": 5,
-          "level": "practitioner"
-        },
-        {
-          "outcome": "Use of header rows and freeze functions in spreadsheets",
-          "credits": 5,
-          "level": "practitioner"
-        },
-        {
-          "outcome": "Use a number of different data types in a spreadsheet",
-          "credits": 5,
-          "level": "practitioner"
+          "level": "explorer"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/1fc73255e55ba04b56c12fcf0dda29d60db46b4d.jpg"
     },
-    "_id": "57b3182fe396ef981f39eb0f",
+    "_id": "5894b15efda9f5660ad8426f",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -134,69 +49,256 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">Data containing errors leads to stories containing errors. Before any analysis can take place a data scientist needs to be able to identify and remove errors from data. This module looks at common errors and useful tools to remove them.</p>\n",
-    "displayTitle": "Cleaning data",
-    "title": "Cleaning data",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_skillsFramework": {
-      "_skills": []
-    }
-  },
-  {
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_id": "57c1992cc8c479d7402de281",
-    "_parentId": "course",
-    "_type": "page",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_lockedBy": [],
-    "duration": "",
-    "linkText": "View",
-    "_classes": "",
-    "body": "<p dir=\"ltr\">Once data is clean, it is ready for analysis. This analysis does not have to use complex statistical methods. A modern data scientist should be comfortable using common analysis techniques such as pivot tables.</p>\n",
-    "displayTitle": "Filtering and pivot tables",
-    "title": "Filtering and pivot tables",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
+    "body": "",
+    "displayTitle": "2. Unlocking value from open data",
+    "title": "2. Unlocking value from open data",
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Apply filters to a spreadsheet",
+          "outcome": "Describe the benefits of working with open data",
           "credits": 5,
-          "level": "practitioner"
+          "level": "explorer"
         },
         {
-          "outcome": "Sort data in a spreadsheet",
+          "outcome": "Describe successful case studies of using and publishing open data",
           "credits": 5,
-          "level": "practitioner"
+          "level": "explorer"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/487a92d1f0d603836df88c719b96ec30d2a6fad1.png"
+    },
+    "_id": "589b213cfda9f5660ad845a6",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p style=\"margin-left:-.25pt\">Clear, effective communication of the benefits from better use of data is essential to capture your colleagues&nbsp;imaginations and gain their trust and understanding. This module will prepare you to deliver a pitch and convince your colleagues about the better use of data.</p>",
+    "displayTitle": "3. Convincing your colleagues",
+    "title": "3. Convincing your colleagues",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/301936c4e7d37e6647647b3c3e5a305f0ae8a56f.jpg"
+    },
+    "_id": "5891cb83b61c46e176e7ebb5",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">A modern data scientist is expected to undertake many - &nbsp;if not all - of the stages of data storytelling. To be successful, you need to understand the time requirement of every stage in the process.</p>",
+    "displayTitle": "4. The four step process",
+    "title": "4. The four step process",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/2164576f217243b4bc9bfb61f6c5f8a5b9bdbc87.jpg"
+    },
+    "_id": "5891cb83b61c46e176e7ebb7",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Data plays a key role in storytelling, however not all data is easy to find. This module looks at where you can start to find data and how to find data that is hidden on the web.</p>",
+    "displayTitle": "5. Gathering data",
+    "title": "5. Gathering data",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/b0a1356f5ad57eff61e6a22b69a2e1b6d9773220.jpg"
+    },
+    "_id": "5894b15efda9f5660ad8426a",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "6. Data quality",
+    "title": "6. Data quality",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Define the benefits of quality open data",
+          "credits": 5,
+          "level": "explorer"
         },
         {
-          "outcome": "Apply formula to a spreadsheet",
+          "outcome": "Describe two guidelines for open data quality",
           "credits": 5,
-          "level": "practitioner"
-        },
+          "level": "explorer"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/55fdaceae3e61bfad0b68be0efcf8b4e312e1342.jpg"
+    },
+    "_id": "5891cb83b61c46e176e7ebb6",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Having gathered data from&nbsp;different sources, an essential skill of a data scientist is to organise that data ready to be processed. A modern data scientist should design and implement a structure for a dataset that can be understood by the audience.</p>",
+    "displayTitle": "7. Organising data",
+    "title": "7. Organising data",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/33486d36922cc44d7b5832d0c3a21bc1722f88af.jpg"
+    },
+    "_id": "5891cb83b61c46e176e7ebbc",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Data containing errors leads to stories containing errors. Before any analysis can take place a data scientist needs to be able to identify and remove errors from data. This module looks at common errors and useful tools to remove them.</p>",
+    "displayTitle": "8. Cleaning data",
+    "title": "8. Cleaning data",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/42cae611b9faff51566fabe51f7bfb9615f01211.jpg"
+    },
+    "_id": "5891cb83b61c46e176e7ebba",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Once data is clean, it is ready for analysis. This analysis does not have to use complex statistical methods. A modern data scientist should be comfortable using common analysis techniques such as pivot tables.</p>",
+    "displayTitle": "9. Filtering and pivot tables",
+    "title": "9. Filtering and pivot tables",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/3870d2023395291d5f1bd5c0837f8178067fd665.jpg"
+    },
+    "_id": "5894b15efda9f5660ad8426e",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "10. Data formats",
+    "title": "10. Data formats",
+    "_skillsFramework": {
+      "_skills": [
         {
-          "outcome": "Create a set of analytics for a spreadsheet",
+          "outcome": "Identify characteristics of different data formats",
           "credits": 10,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "List criteria for choosing the right data format",
+          "credits": 5,
           "level": "practitioner"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/ca044aca014a764b789ad1c8c4481eaa0e2ef182.jpg"
     },
-    "_id": "57adb0cce396ef981f39e9d4",
+    "_id": "5891cb83b61c46e176e7ebbd",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -205,23 +307,23 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">A modern data scientist should be comfortable working with many different types of visualisation from common graphs to advanced statistical plots to geographic representations.</p>\n",
-    "displayTitle": "Data visualisation formats",
-    "title": "Data visualisation formats",
+    "body": "<p dir=\"ltr\">A modern data scientist should be comfortable working with many different types of visualisation from common graphs to advanced statistical plots to geographic representations.</p>",
+    "displayTitle": "11. Data visualisation formats",
+    "title": "11. Data visualisation formats",
+    "_skillsFramework": {
+      "_skills": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
-    },
-    "_skillsFramework": {
-      "_skills": []
     }
   },
   {
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/d2445a55c3baba4530ca53aef667079d65b9b497.jpg"
     },
-    "_id": "57b2c1c9e396ef981f39ea8c",
+    "_id": "5891cb83b61c46e176e7ebbe",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -230,23 +332,23 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
-    "displayTitle": "Data visualisation best practice",
-    "title": "Data visualisation best practice",
+    "body": "<p>Picking the right visualisation is only the first part of telling effective stories. Plotting the right data in the correct way, making good use of colour and other visual cues is essential to making the story &ldquo;pop out&rdquo; at the audience.</p>",
+    "displayTitle": "12. Data visualisation best practice",
+    "title": "12. Data visualisation best practice",
+    "_skillsFramework": {
+      "_skills": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
-    },
-    "_skillsFramework": {
-      "_skills": []
     }
   },
   {
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/c5ee47a1a79ee4e989b5d26e2b71c7e1892d1e7d.jpg"
     },
-    "_id": "57ac437ce396ef981f39e8fb",
+    "_id": "5891cb83b61c46e176e7ebb8",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -255,23 +357,23 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
-    "displayTitle": "Visual deception",
-    "title": "Visual deception",
+    "body": "<p dir=\"ltr\">The use of visual deception can help create intrigue, however it can also&nbsp;be used to mislead. A modern data scientist should be able to choose deception techniques that engage and inform, and avoid those which intentionally mislead.</p>",
+    "displayTitle": "13. Visual deception",
+    "title": "13. Visual deception",
+    "_skillsFramework": {
+      "_skills": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
-    },
-    "_skillsFramework": {
-      "_skills": []
     }
   },
   {
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/60f5321e92f1c6ea08493dd85e5da0f6b47e654b.jpg"
     },
-    "_id": "57c199cfc8c479d7402de28b",
+    "_id": "5891cb83b61c46e176e7ebbf",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -280,15 +382,15 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
-    "displayTitle": "Narrating your story",
-    "title": "Narrating your story",
+    "body": "<p dir=\"ltr\">A modern data scientist is expected to be a catalyst for change in an organisation. This requires not only performing complex data manipulation, but also being able to present the outcomes to senior level decision makers. This means creating a memorable story which not only requires an effective visualisation but an engaging narrative.</p>",
+    "displayTitle": "14. Narrating your story",
+    "title": "14. Narrating your story",
+    "_skillsFramework": {
+      "_skills": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
-    },
-    "_skillsFramework": {
-      "_skills": []
     }
   }
 ]
