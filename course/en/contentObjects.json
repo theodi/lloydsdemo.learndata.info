@@ -13,7 +13,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
+    "body": "<p dir=\"ltr\">Data is a valuable resource to organisations of all sizes. In this module we explore what data is, why we need data and different ways to classify data types.</p>",
     "displayTitle": "1. What is data?",
     "title": "1. What is data?",
     "_skillsFramework": {
@@ -49,7 +49,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
+    "body": "<p>Data has the potential to help grow economies, transform societies and protect the environment. In this module, we explore how governments, businesses and individuals are using open data to create new value.</p>",
     "displayTitle": "2. Unlocking value from open data",
     "title": "2. Unlocking value from open data",
     "_skillsFramework": {
@@ -85,7 +85,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p style=\"margin-left:-.25pt\">Clear, effective communication of the benefits from better use of data is essential to capture your colleagues&nbsp;imaginations and gain their trust and understanding. This module will prepare you to deliver a pitch and convince your colleagues about the better use of data.</p>",
+    "body": "<p dir=\"ltr\">Clear, effective communication of the benefits from improved data usage is essential to capture your colleagues&rsquo; imaginations and gain their trust and understanding. This module will prepare you to deliver a pitch to convince your colleagues about improving their data usage.</p>",
     "displayTitle": "3. Convincing your colleagues",
     "title": "3. Convincing your colleagues",
     "_skillsFramework": {
@@ -110,9 +110,9 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">A modern data scientist is expected to undertake many - &nbsp;if not all - of the stages of data storytelling. To be successful, you need to understand the time requirement of every stage in the process.</p>",
-    "displayTitle": "4. The four step process",
-    "title": "4. The four step process",
+    "body": "<p dir=\"ltr\">One of the most challenging parts of using data is communicating your findings to others, or telling a story with your data. This module looks into the four step data storytelling process and how to plan your time effectively at every stage.</p>",
+    "displayTitle": "4. The data storytelling process",
+    "title": "4. The data storytelling process",
     "_skillsFramework": {
       "_skills": []
     },
@@ -135,7 +135,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">Data plays a key role in storytelling, however not all data is easy to find. This module looks at where you can start to find data and how to find data that is hidden on the web.</p>",
+    "body": "<p dir=\"ltr\">The growing demand for data has led to an increase in human-friendly data services. However, these only account for a small fraction of the available data on the Web. This module explores where you can start looking for &nbsp;data and how to find data hidden in the web.</p>",
     "displayTitle": "5. Gathering data",
     "title": "5. Gathering data",
     "_skillsFramework": {
@@ -160,7 +160,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
+    "body": "<p dir=\"ltr\">Once you&rsquo;ve gathered your data, how can you tell if your data is of sufficient quality? In this module we explore what data quality is, standards and checklists that you can use and Lloyd&rsquo;s guidelines on data quality.</p>",
     "displayTitle": "6. Data quality",
     "title": "6. Data quality",
     "_skillsFramework": {
@@ -196,59 +196,9 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">Having gathered data from&nbsp;different sources, an essential skill of a data scientist is to organise that data ready to be processed. A modern data scientist should design and implement a structure for a dataset that can be understood by the audience.</p>",
+    "body": "<p dir=\"ltr\">Having gathered data from different sources and ensured its quality, the next step is to organise that data ready to be processed. This module looks at how to design and implement a structure for a dataset that can be understood by the audience.</p>",
     "displayTitle": "7. Organising data",
     "title": "7. Organising data",
-    "_skillsFramework": {
-      "_skills": []
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    }
-  },
-  {
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/33486d36922cc44d7b5832d0c3a21bc1722f88af.jpg"
-    },
-    "_id": "5891cb83b61c46e176e7ebbc",
-    "_parentId": "course",
-    "_type": "page",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_lockedBy": [],
-    "duration": "",
-    "linkText": "View",
-    "_classes": "",
-    "body": "<p dir=\"ltr\">Data containing errors leads to stories containing errors. Before any analysis can take place a data scientist needs to be able to identify and remove errors from data. This module looks at common errors and useful tools to remove them.</p>",
-    "displayTitle": "8. Cleaning data",
-    "title": "8. Cleaning data",
-    "_skillsFramework": {
-      "_skills": []
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    }
-  },
-  {
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/42cae611b9faff51566fabe51f7bfb9615f01211.jpg"
-    },
-    "_id": "5891cb83b61c46e176e7ebba",
-    "_parentId": "course",
-    "_type": "page",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_lockedBy": [],
-    "duration": "",
-    "linkText": "View",
-    "_classes": "",
-    "body": "<p dir=\"ltr\">Once data is clean, it is ready for analysis. This analysis does not have to use complex statistical methods. A modern data scientist should be comfortable using common analysis techniques such as pivot tables.</p>",
-    "displayTitle": "9. Filtering and pivot tables",
-    "title": "9. Filtering and pivot tables",
     "_skillsFramework": {
       "_skills": []
     },
@@ -271,9 +221,9 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
-    "displayTitle": "10. Data formats",
-    "title": "10. Data formats",
+    "body": "<p dir=\"ltr\">From organising data in a spreadsheet to more complex data formats. In this technical module we explore some of the most common data formats and structures.</p>",
+    "displayTitle": "8. Formatting data",
+    "title": "8. Formatting data",
     "_skillsFramework": {
       "_skills": [
         {
@@ -296,6 +246,56 @@
   {
     "_graphic": {
       "alt": "",
+      "src": "course/en/assets/33486d36922cc44d7b5832d0c3a21bc1722f88af.jpg"
+    },
+    "_id": "5891cb83b61c46e176e7ebbc",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Data containing errors leads to analysis and visualisations containing errors. Before any analysis can take place you need &nbsp;to be able to identify and remove errors from data. This module looks at common errors and useful tools to remove them.</p>",
+    "displayTitle": "9. Cleaning data",
+    "title": "9. Cleaning data",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/42cae611b9faff51566fabe51f7bfb9615f01211.jpg"
+    },
+    "_id": "5891cb83b61c46e176e7ebba",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Once data is clean, it is ready for analysis. This analysis does not have to use complex statistical methods. This module introduces key spreadsheet features, including pivot tables, that can help you quickly sort, filter and analyse data.</p>",
+    "displayTitle": "10. Filtering and pivot tables",
+    "title": "10. Filtering and pivot tables",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
       "src": "course/en/assets/ca044aca014a764b789ad1c8c4481eaa0e2ef182.jpg"
     },
     "_id": "5891cb83b61c46e176e7ebbd",
@@ -307,7 +307,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">A modern data scientist should be comfortable working with many different types of visualisation from common graphs to advanced statistical plots to geographic representations.</p>",
+    "body": "<p dir=\"ltr\">Data visualisations help communicate insights in an easy and quick way. However, picking the most appropriate visualisation format can be tricky. This module will enable you to to select appropriate visualisations and provide you with key examples of data visualisations.</p>",
     "displayTitle": "11. Data visualisation formats",
     "title": "11. Data visualisation formats",
     "_skillsFramework": {
@@ -332,7 +332,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>Picking the right visualisation is only the first part of telling effective stories. Plotting the right data in the correct way, making good use of colour and other visual cues is essential to making the story &ldquo;pop out&rdquo; at the audience.</p>",
+    "body": "<p dir=\"ltr\">Visualising data enables us to grasp difficult concepts or identify new patterns quickly. This module introduces the key tricks that help the human eye and brain process and understand data much faster.</p>",
     "displayTitle": "12. Data visualisation best practice",
     "title": "12. Data visualisation best practice",
     "_skillsFramework": {
@@ -357,7 +357,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">The use of visual deception can help create intrigue, however it can also&nbsp;be used to mislead. A modern data scientist should be able to choose deception techniques that engage and inform, and avoid those which intentionally mislead.</p>",
+    "body": "<p dir=\"ltr\">Visual representations of data vastly decrease the amount of time it takes to communicate a message. However, not all data visualisations are equal. In some cases, a combination of tricks are used to either emphasise a point or, in some cases, mislead the viewer. This module looks at such techniques and how they can be used or avoided.</p>",
     "displayTitle": "13. Visual deception",
     "title": "13. Visual deception",
     "_skillsFramework": {
@@ -382,7 +382,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">A modern data scientist is expected to be a catalyst for change in an organisation. This requires not only performing complex data manipulation, but also being able to present the outcomes to senior level decision makers. This means creating a memorable story which not only requires an effective visualisation but an engaging narrative.</p>",
+    "body": "<p dir=\"ltr\">Data visualisations can be a powerful way of bringing data to life, and help others deduce meaning from data. But a data visualisation on its own is rarely enough to convey the whole story in a memorable way. This module looks at how an engaging narrative can bring a story to life.</p>",
     "displayTitle": "14. Narrating your story",
     "title": "14. Narrating your story",
     "_skillsFramework": {
