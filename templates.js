@@ -134,7 +134,14 @@ this["Handlebars"]["templates"]["accordion"] = Handlebars.template({"1":function
     + alias2(alias1(((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.src : stack1), depth0))
     + "\" aria-label=\""
     + alias2(alias1(((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.alt : stack1), depth0))
-    + "\" tabindex=\"0\">\n                    </div>\n";
+    + "\" tabindex=\"0\">\n                    </div>\n"
+    + ((stack1 = helpers["if"].call(depth0 != null ? depth0 : {},((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.attribution : stack1),{"name":"if","hash":{},"fn":container.program(6, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "");
+},"6":function(container,depth0,helpers,partials,data) {
+    var stack1;
+
+  return "                        <div class=\"accordion-item-graphic-attribution\">"
+    + ((stack1 = container.lambda(((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.attribution : stack1), depth0)) != null ? stack1 : "")
+    + "</div>\n";
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1;
 
@@ -202,8 +209,10 @@ this["Handlebars"]["templates"]["gmcq"] = Handlebars.template({"1":function(cont
     + alias4(alias5(((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.large : stack1), depth0))
     + "\" data-small=\""
     + alias4(alias5(((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.small : stack1), depth0))
-    + "\"/>\n\n                <div class=\"gmcq-item-checkbox\">\n                    <div class=\"gmcq-item-state\">\n                        <div class=\"gmcq-item-icon gmcq-answer-icon "
-    + ((stack1 = helpers["if"].call(alias1,(depths[1] != null ? depths[1]._isRadio : depths[1]),{"name":"if","hash":{},"fn":container.program(16, data, 0, blockParams, depths),"inverse":container.program(18, data, 0, blockParams, depths),"data":data})) != null ? stack1 : "")
+    + "\"/>\n"
+    + ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.attribution : stack1),{"name":"if","hash":{},"fn":container.program(16, data, 0, blockParams, depths),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "\n                <div class=\"gmcq-item-checkbox\">\n                    <div class=\"gmcq-item-state\">\n                        <div class=\"gmcq-item-icon gmcq-answer-icon "
+    + ((stack1 = helpers["if"].call(alias1,(depths[1] != null ? depths[1]._isRadio : depths[1]),{"name":"if","hash":{},"fn":container.program(18, data, 0, blockParams, depths),"inverse":container.program(20, data, 0, blockParams, depths),"data":data})) != null ? stack1 : "")
     + " icon\"></div>\n                        <div class=\"gmcq-item-icon gmcq-correct-icon icon icon-tick\"></div>\n                        <div class=\"gmcq-item-icon gmcq-incorrect-icon icon icon-cross\"></div>\n                    </div>\n                    <div class=\"gmcq-item-inner\">\n                        "
     + ((stack1 = ((helper = (helper = helpers.text || (depth0 != null ? depth0.text : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"text","hash":{},"data":data}) : helper))) != null ? stack1 : "")
     + "\n                    </div>\n                </div>\n            </label>\n        </div>\n";
@@ -224,8 +233,14 @@ this["Handlebars"]["templates"]["gmcq"] = Handlebars.template({"1":function(cont
 },"14":function(container,depth0,helpers,partials,data) {
     return "selected";
 },"16":function(container,depth0,helpers,partials,data) {
-    return "radio";
+    var stack1;
+
+  return "                    <div class=\"graphic-attribution\">"
+    + ((stack1 = container.lambda(((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.attribution : stack1), depth0)) != null ? stack1 : "")
+    + "</div>\n";
 },"18":function(container,depth0,helpers,partials,data) {
+    return "radio";
+},"20":function(container,depth0,helpers,partials,data) {
     return "checkbox";
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data,blockParams,depths) {
     var stack1, alias1=depth0 != null ? depth0 : {};
@@ -678,7 +693,9 @@ this["Handlebars"]["templates"]["narrative"] = Handlebars.template({"1":function
     + container.escapeExpression(container.lambda(((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.src : stack1), depth0))
     + "\" "
     + ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.alt : stack1),{"name":"if","hash":{},"fn":container.program(12, data, 0),"inverse":container.program(14, data, 0),"data":data})) != null ? stack1 : "")
-    + "/>\n                </div>\n";
+    + "/>\n"
+    + ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.attribution : stack1),{"name":"if","hash":{},"fn":container.program(16, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "                </div>\n";
 },"10":function(container,depth0,helpers,partials,data) {
     return "visited";
 },"12":function(container,depth0,helpers,partials,data) {
@@ -690,6 +707,12 @@ this["Handlebars"]["templates"]["narrative"] = Handlebars.template({"1":function
 },"14":function(container,depth0,helpers,partials,data) {
     return "class=\"a11y-ignore\" aria-hidden=\"true\" tabindex=\"-1\"";
 },"16":function(container,depth0,helpers,partials,data) {
+    var stack1;
+
+  return "                        <div class=\"graphic-attribution\">"
+    + ((stack1 = container.lambda(((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.attribution : stack1), depth0)) != null ? stack1 : "")
+    + "</div>\n";
+},"18":function(container,depth0,helpers,partials,data) {
     return "                <div class=\"narrative-progress component-item-color component-item-border\"></div>\n";
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1, alias1=container.lambda, alias2=container.escapeExpression, alias3=depth0 != null ? depth0 : {};
@@ -717,7 +740,7 @@ this["Handlebars"]["templates"]["narrative"] = Handlebars.template({"1":function
     + "\">\n                <div class=\"icon icon-controls-right\"></div>\n            </button>\n\n            <div class=\"narrative-slider clearfix\">\n"
     + ((stack1 = helpers.each.call(alias3,(depth0 != null ? depth0._items : depth0),{"name":"each","hash":{},"fn":container.program(9, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "            </div>\n            <div class=\"narrative-indicators\">\n"
-    + ((stack1 = helpers.each.call(alias3,(depth0 != null ? depth0._items : depth0),{"name":"each","hash":{},"fn":container.program(16, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + ((stack1 = helpers.each.call(alias3,(depth0 != null ? depth0._items : depth0),{"name":"each","hash":{},"fn":container.program(18, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "            </div>\n        </div>\n\n        <div class=\"clearfix\"></div>\n\n    </div>    \n</div>\n";
 },"usePartial":true,"useData":true});
 
@@ -1088,7 +1111,7 @@ this["Handlebars"]["templates"]["article"] = Handlebars.template({"1":function(c
     + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.body : depth0),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "\n"
     + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.instruction : depth0),{"name":"if","hash":{},"fn":container.program(5, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "    </div>\n</div>\n<div class=\"block inverted footer footer-logo-links\"><div class=\"block-inner\">\n        <div class=\"block-title\">\n            <div role=\"heading\" tabindex=\"-1\" class=\"block-title-inner h3\" aria-level=\"3\" aria-hidden=\"true\">\n            </div>\n        </div>\n        <div class=\"component-container\">\n            <div class=\"component graphic-component component-left nth-child-1\"><div class=\"graphic-inner component-inner\">\n                <div class=\"graphic-header component-header\">\n                    <div class=\"graphic-header-inner component-header-inner\">\n                        <div class=\"graphic-title component-title\">\n                            <div role=\"heading\" tabindex=\"-1\" class=\"graphic-title-inner component-title-inner\" aria-level=\"4\" aria-hidden=\"true\">\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"graphic-widget component-widget footer-logo\">\n                    <img src=\"adapt/css/assets/logo-small.png\" data-large=\"adapt/css/assets/logo-small.png\" data-small=\"adapt/css/assets/logo-small.png\" class=\"a11y-ignore\" aria-hidden=\"true\" tabindex=\"-1\">\n                </div>\n            </div>\n            <div class=\"accessibility-state\">\n                <span tabindex=\"-1\" role=\"region\" class=\"aria-label a11y-ignore-focus prevent-default\" id=\"buttons-aria-label-incomplete\" aria-hidden=\"true\">  Incomplete</span>\n            </div></div><div class=\"component socialbuttons-component component-right nth-child-2\">\n            <div class=\"socialbuttons-inner component-inner\"><span class=\"aria-label prevent-default a11y-ignore\" tabindex=\"-1\" role=\"region\" aria-hidden=\"true\">This component displays a series of clickable social network buttons. You can customise each one bellow.</span>\n                <a class=\"social\" target=\"_blank\" href=\"https://twitter.com/ODIHQ\"><img src=\"adapt/css/assets/twitter.png\"></a>\n                <a class=\"social\" target=\"_blank\" href=\"https://www.facebook.com/MyODIHQ\"><img src=\"adapt/css/assets/facebook.png\"></a>\n                <a class=\"social\" target=\"_blank\" href=\"https://soundcloud.com/theodi\"><img src=\"adapt/css/assets/soundcloud.png\"></a>\n                <a class=\"social\" target=\"_blank\" href=\"https://www.scribd.com/OpenDataInstitute\"><img src=\"adapt/css/assets/scribd.png\"></a>\n                <a class=\"social\" target=\"_blank\" href=\"https://github.com/theodi\"><img src=\"adapt/css/assets/github.png\"></a>\n                <a class=\"social\" target=\"_blank\" href=\"https://vimeo.com/theodiuk\"><img src=\"adapt/css/assets/vimeo.png\"></a>\n                <a class=\"social\" target=\"_blank\" href=\"https://www.youtube.com/user/OpenDataInstituteUK\"><img src=\"adapt/css/assets/youtube.png\"></a>\n                <a class=\"social\" target=\"_blank\" href=\"https://www.flickr.com/photos/ukodi/\"><img src=\"adapt/css/assets/flickr.png\"></a>\n            </div>\n            <div class=\"about-links\">\n            <a class=\"about\" onClick='callTrigger(\"aboutPage:showAboutPage\");'>About</a> | <a class=\"about\" onClick='callTrigger(\"licencePage:showLicencePage\");'>Licence</a> | <a class=\"skills\" onclick='callTrigger(\"skillsFramework:showSkills\");'>Outcomes</a> | <a class=\"credits\" onClick='callTrigger(\"credits:showCredits\");'>Credits/attribution</a> | <a class=\"contact\" href=\"mailto:training@theodi.org\">Contact</a>\n            </div>\n        <div class=\"accessibility-state\">\n            <span tabindex=\"-1\" role=\"region\" class=\"aria-label a11y-ignore-focus prevent-default\" id=\"buttons-aria-label-incomplete\" aria-hidden=\"true\">Incomplete</span>\n        </div></div></div>\n    </div></div>\n\n";
+    + "    </div>\n</div>";
 },"useData":true});
 
 this["Handlebars"]["templates"]["block"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
@@ -1307,7 +1330,7 @@ this["Handlebars"]["templates"]["page"] = Handlebars.template({"1":function(cont
     + ((stack1 = helpers["if"].call(alias3,(depth0 != null ? depth0.displayTitle : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "\n"
     + ((stack1 = helpers["if"].call(alias3,(depth0 != null ? depth0.body : depth0),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "\n				</div>\n			</div>\n\n		</div>\n	</div>\n</div>\n<div class=\"aria-label relative a11y-ignore-focus prevent-default\" tabindex=\"0\" role=\"region\">"
+    + "\n				</div>\n			</div>\n\n		</div>\n	</div>\n</div>\n<div class=\"block inverted footer footer-logo-links\"><div class=\"block-inner\">\n        <div class=\"block-title\">\n            <div role=\"heading\" tabindex=\"-1\" class=\"block-title-inner h3\" aria-level=\"3\" aria-hidden=\"true\">\n            </div>\n        </div>\n        <div class=\"component-container\">\n            <div class=\"component graphic-component component-left nth-child-1\"><div class=\"graphic-inner component-inner\">\n                <div class=\"graphic-header component-header\">\n                    <div class=\"graphic-header-inner component-header-inner\">\n                        <div class=\"graphic-title component-title\">\n                            <div role=\"heading\" tabindex=\"-1\" class=\"graphic-title-inner component-title-inner\" aria-level=\"4\" aria-hidden=\"true\">\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"graphic-widget component-widget footer-logo\">\n                    <img src=\"adapt/css/assets/logo-small.png\" data-large=\"adapt/css/assets/logo-small.png\" data-small=\"adapt/css/assets/logo-small.png\" class=\"a11y-ignore\" aria-hidden=\"true\" tabindex=\"-1\">\n                </div>\n            </div>\n            <div class=\"accessibility-state\">\n                <span tabindex=\"-1\" role=\"region\" class=\"aria-label a11y-ignore-focus prevent-default\" id=\"buttons-aria-label-incomplete\" aria-hidden=\"true\">  Incomplete</span>\n            </div></div><div class=\"component socialbuttons-component component-right nth-child-2\">\n            <div class=\"socialbuttons-inner component-inner\"><span class=\"aria-label prevent-default a11y-ignore\" tabindex=\"-1\" role=\"region\" aria-hidden=\"true\">This component displays a series of clickable social network buttons. You can customise each one bellow.</span>\n                <a class=\"social\" target=\"_blank\" href=\"https://twitter.com/ODIHQ\"><img src=\"adapt/css/assets/twitter.png\"></a>\n                <a class=\"social\" target=\"_blank\" href=\"https://www.facebook.com/MyODIHQ\"><img src=\"adapt/css/assets/facebook.png\"></a>\n                <a class=\"social\" target=\"_blank\" href=\"https://soundcloud.com/theodi\"><img src=\"adapt/css/assets/soundcloud.png\"></a>\n                <a class=\"social\" target=\"_blank\" href=\"https://www.scribd.com/OpenDataInstitute\"><img src=\"adapt/css/assets/scribd.png\"></a>\n                <a class=\"social\" target=\"_blank\" href=\"https://github.com/theodi\"><img src=\"adapt/css/assets/github.png\"></a>\n                <a class=\"social\" target=\"_blank\" href=\"https://vimeo.com/theodiuk\"><img src=\"adapt/css/assets/vimeo.png\"></a>\n                <a class=\"social\" target=\"_blank\" href=\"https://www.youtube.com/user/OpenDataInstituteUK\"><img src=\"adapt/css/assets/youtube.png\"></a>\n                <a class=\"social\" target=\"_blank\" href=\"https://www.flickr.com/photos/ukodi/\"><img src=\"adapt/css/assets/flickr.png\"></a>\n            </div>\n            <div class=\"about-links\">\n            <a class=\"about\" onClick='callTrigger(\"aboutPage:showAboutPage\");'>About</a> | <a class=\"about\" onClick='callTrigger(\"licencePage:showLicencePage\");'>Licence</a> | <a class=\"skills\" onclick='callTrigger(\"skillsFramework:showSkills\");'>Outcomes</a> | <a class=\"credits\" onClick='callTrigger(\"credits:showCredits\");'>Credits/attribution</a> | <a class=\"contact\" href=\"mailto:training@theodi.org\">Contact</a>\n            </div>\n        <div class=\"accessibility-state\">\n            <span tabindex=\"-1\" role=\"region\" class=\"aria-label a11y-ignore-focus prevent-default\" id=\"buttons-aria-label-incomplete\" aria-hidden=\"true\">Incomplete</span>\n        </div></div></div>\n    </div></div>\n<div class=\"aria-label relative a11y-ignore-focus prevent-default\" tabindex=\"0\" role=\"region\">"
     + alias2(alias1(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._accessibility : stack1)) != null ? stack1._ariaLabels : stack1)) != null ? stack1.pageEnd : stack1), depth0))
     + "</div>\n";
 },"useData":true});
