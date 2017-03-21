@@ -1199,7 +1199,7 @@ this["Handlebars"]["templates"]["navigation"] = Handlebars.template({"compiler":
 
   return "<div class=\"navigation-inner clearfix\" role=\"navigation\" aria-label=\""
     + alias2(alias1(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._accessibility : stack1)) != null ? stack1._ariaLabels : stack1)) != null ? stack1.navigation : stack1), depth0))
-    + "\">\n    <button class=\"base navigation-home-button icon icon-home\" data-event=\"homeButton\" role=\"button\" aria-label=\""
+    + "\">\n	<img class=\"clientLogo\" src=\"adapt/css/assets/lloyds.png\">\n    <button class=\"base navigation-home-button icon icon-home\" data-event=\"homeButton\" role=\"button\" aria-label=\""
     + alias2(alias1(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._accessibility : stack1)) != null ? stack1._ariaLabels : stack1)) != null ? stack1.home : stack1), depth0))
     + "\"></button>\n    <button class=\"base navigation-back-button icon icon-controls-small-left\" data-event=\"backButton\" role=\"button\" aria-label=\""
     + alias2(alias1(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._accessibility : stack1)) != null ? stack1._ariaLabels : stack1)) != null ? stack1.previous : stack1), depth0))

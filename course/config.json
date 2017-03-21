@@ -32,28 +32,28 @@
   "_aboutPage": {
     "_items": [
       {
-        "_graphic": {
-          "src": "adapt/css/assets/edsa-flat.png",
-          "alt": "European Data Science Academy"
-        },
+        "title": "European Data Science Academy",
         "description": "<p>This project has received funding from the&nbsp;European Union&#39;s Horizon 2020&nbsp;research and innovation programme&nbsp;under grant agreement No 643937</p>\n",
-        "title": "European Data Science Academy"
+        "_graphic": {
+          "alt": "European Data Science Academy",
+          "src": "adapt/css/assets/edsa-flat.png"
+        }
       },
       {
-        "_graphic": {
-          "src": "adapt/css/assets/logo-small.png",
-          "alt": "The Open Data Institute"
-        },
+        "title": "The Open Data Institute",
         "description": "<p>Expert knowledge and content development provided by the&nbsp;Open Data Institute.</p>\n",
-        "title": "The Open Data Institute"
+        "_graphic": {
+          "alt": "The Open Data Institute",
+          "src": "adapt/css/assets/logo-small.png"
+        }
       },
       {
-        "_graphic": {
-          "src": "adapt/css/assets/adapt.png",
-          "alt": "Adapt eLearning"
-        },
+        "title": "Adapt eLearning",
         "description": "<p>Open source learning platform developed by&nbsp;Adapt elearning.</p>\n",
-        "title": "Adapt eLearning"
+        "_graphic": {
+          "alt": "Adapt eLearning",
+          "src": "adapt/css/assets/adapt.png"
+        }
       }
     ]
   },
@@ -61,20 +61,20 @@
     "includes": [
       "adapt-theme-lloyds",
       "adapt-contrib-boxMenu",
-      "adapt-contrib-aboutPage",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-tutor",
-      "adapt-odi-licence",
-      "adapt-skillsFramework",
       "adapt-contrib-resources",
-      "adapt-contrib-text",
+      "adapt-skillsFramework",
+      "adapt-odi-licence",
+      "adapt-contrib-tutor",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-aboutPage",
       "adapt-contrib-graphic",
-      "adapt-contrib-narrative",
       "adapt-contrib-mcq",
+      "adapt-contrib-gmcq",
+      "adapt-contrib-text",
+      "adapt-contrib-narrative",
+      "adapt-contrib-accordion",
       "adapt-contrib-media",
       "adapt-contrib-responsiveIframe",
-      "adapt-contrib-gmcq",
-      "adapt-contrib-accordion",
       "adapt-contrib-hotgraphic"
     ]
   }

@@ -13,7 +13,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">Data is a valuable resource to organisations of all sizes. In this module we explore what data is, why we need data and different ways to classify data types.</p>",
+    "body": "<p dir=\"ltr\">Data is a valuable resource to organisations of all sizes. In this module, we explore what data is, why we need it and different ways to classify its types.</p>",
     "displayTitle": "1. What is data?",
     "title": "1. What is data?",
     "_skillsFramework": {
@@ -357,7 +357,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p dir=\"ltr\">Visual representations of data vastly decrease the amount of time it takes to communicate a message. However, not all data visualisations are equal. In some cases, a combination of tricks are used to either emphasise a point or, in some cases, mislead the viewer. This module looks at such techniques and how they can be used or avoided.</p>",
+    "body": "<p dir=\"ltr\">Data visualisations vastly decrease the amount of time it takes to communicate a message. However, not all data visualisations are equal. In some cases, a combination of tricks are used to either emphasise a point or mislead the viewer. This module looks at such techniques and how they can be used or avoided.</p>",
     "displayTitle": "13. Visual deception",
     "title": "13. Visual deception",
     "_skillsFramework": {
