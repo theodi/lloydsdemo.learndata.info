@@ -1,0 +1,326 @@
+[
+  {
+    "_id": "5a5cbf74460f330a3d21c8ac",
+    "_parentId": "5a5cbf74460f330a3d21c8ab",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      },
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  },
+  {
+    "_id": "5a5e4b49460f330a3d21c92e",
+    "_parentId": "5a5e4b49460f330a3d21c92d",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      },
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  },
+  {
+    "_id": "5aa2b55cd618641a050cb3b6",
+    "_type": "article",
+    "_parentId": "5aa2b55cd618641a050cb3b5",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      },
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  },
+  {
+    "_id": "5a5e265d460f330a3d21c905",
+    "_parentId": "5a5cbf74460f330a3d21c8ab",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title",
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "GDPR",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
+      },
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  },
+  {
+    "_id": "5a5e51fe460f330a3d21c97d",
+    "_parentId": "5a5e4b49460f330a3d21c92d",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title",
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "GDPR_Opportunities",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
+      },
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  },
+  {
+    "_id": "5aa66c40d618641a050cb3b9",
+    "_type": "article",
+    "_parentId": "5aa2b55cd618641a050cb3b5",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      },
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  },
+  {
+    "_id": "5a5e34e6460f330a3d21c923",
+    "_parentId": "5a5cbf74460f330a3d21c8ab",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      },
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  },
+  {
+    "_id": "5a5e55cc460f330a3d21c9c0",
+    "_parentId": "5a5e4b49460f330a3d21c92d",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      },
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  },
+  {
+    "_id": "5aa66c41d618641a050cb3bb",
+    "_type": "article",
+    "_parentId": "5aa2b55cd618641a050cb3b5",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      },
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  }
+]

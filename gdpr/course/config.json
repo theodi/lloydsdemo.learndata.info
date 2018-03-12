@@ -1,0 +1,46 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024
+  },
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "_courseId": "5a5cbf46460f330a3d21c8a9",
+  "_accessibility": {
+    "_isEnabled": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isTextProcessorEnabled": false
+  },
+  "__v": 0,
+  "_id": "5a5cbf46460f330a3d21c8aa",
+  "_tutor": {
+    "_isEnabled": false
+  },
+  "build": {
+    "includes": [
+      "adapt-theme-lloyds",
+      "adapt-contrib-boxMenu",
+      "adapt-contrib-tutor",
+      "adapt-contrib-aboutPage",
+      "adapt-odi-licence",
+      "adapt-contrib-assessment",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-skillsFramework",
+      "adapt-contrib-text",
+      "adapt-contrib-graphic",
+      "adapt-contrib-accordion",
+      "adapt-contrib-mcq",
+      "adapt-contrib-matching",
+      "adapt-contrib-narrative"
+    ]
+  }
+}

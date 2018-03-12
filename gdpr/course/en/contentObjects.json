@@ -1,0 +1,143 @@
+[
+  {
+    "_id": "5a5cbf74460f330a3d21c8ab",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/45083b2d4a10e472cf4c73eda3735f8009b5c2e7.png"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>This lesson provides an overview of the General Data Project Regulation (GDPR) and the key differences from the existing Data Protection regulations. By the end of the lesson you should&nbsp;able to work more confidently with the requirements of GDPR and take a number of next steps.</p>",
+    "displayTitle": "Introduction to the General Data Protection Regulation",
+    "title": "Introduction to the General Data Protection Regulation",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe what GDPR is and the implications of not applying it",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "List the key differences between GDPR and existing regulations",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Describe the rights of citizens in GDPR",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Identify the legal basis for processing of personal data and its implications",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Analyse acceptable privacy notices",
+          "credits": 5,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    }
+  },
+  {
+    "_id": "5aa2b55cd618641a050cb3b5",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6b0815e5da4596e0ae1e03ee73c1ae48b74c18f4.jpg"
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>The General Data Protection Regulation (GDPR) comes into effect on 25 May 2018 and will have a significant impact on the way we manage, hold and process data at Lloyd&rsquo;s. This lesson looks at how GDPR affects your role at Lloyds and what to do to ensure compliance.</p>",
+    "displayTitle": "How does the General Data Protection affect my role at Lloyd’s of London?",
+    "title": "How does the General Data Protection affect my role at Lloyd’s of London?",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    }
+  },
+  {
+    "_id": "5a5e4b49460f330a3d21c92d",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/36d1de1b054024e2de84107d77635ba99e5e732d.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>GDPR is first and foremost about guaranteeing strong data protection principles for consumers.<br /><br />However, it shouldn&rsquo;t just be seen as a matter of compliance. Adherence to GDPR also offers many opportunities such as stimulating innovation and strengthening customer relationships.&nbsp;</p><p>This lesson explores some of the opportunities and looks at how GDPR can be turned from a compliance exercise into an opportunity.&nbsp;<br />&nbsp;</p>",
+    "displayTitle": "The opportunities of GDPR",
+    "title": "The opportunities of GDPR",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe how other sectors are embracing the opportunities offered by GDPR",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "List the 5 key opportunities offered by GDPR for the insurance market",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Understand how to position GDPR as an opportunity (rather than a compliance issue) in your organisation",
+          "credits": 5,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    }
+  }
+]
