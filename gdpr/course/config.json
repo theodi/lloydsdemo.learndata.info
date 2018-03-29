@@ -5,20 +5,21 @@
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
   "screenSize": {
-    "small": 519,
+    "large": 1024,
     "medium": 759,
-    "large": 1024
+    "small": 519
   },
   "_drawer": {
-    "_showEasing": "easeOutQuart",
+    "_duration": 400,
     "_hideEasing": "easeInQuart",
-    "_duration": 400
+    "_showEasing": "easeOutQuart"
   },
   "_courseId": "5a5cbf46460f330a3d21c8a9",
   "_accessibility": {
-    "_isEnabled": false,
+    "_isTextProcessorEnabled": false,
     "_shouldSupportLegacyBrowsers": true,
-    "_isTextProcessorEnabled": false
+    "_isDisabledOnTouchDevices": false,
+    "_isEnabled": false
   },
   "__v": 0,
   "_id": "5a5cbf46460f330a3d21c8aa",
@@ -37,10 +38,10 @@
       "adapt-skillsFramework",
       "adapt-contrib-text",
       "adapt-contrib-graphic",
+      "adapt-contrib-narrative",
       "adapt-contrib-accordion",
       "adapt-contrib-mcq",
-      "adapt-contrib-matching",
-      "adapt-contrib-narrative"
+      "adapt-contrib-assessmentResults"
     ]
   }
 }

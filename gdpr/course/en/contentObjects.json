@@ -13,15 +13,12 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>This lesson provides an overview of the General Data Project Regulation (GDPR) and the key differences from the existing Data Protection regulations. By the end of the lesson you should&nbsp;able to work more confidently with the requirements of GDPR and take a number of next steps.</p>",
+    "body": "<p>This lesson provides an overview of the General Data Project Regulation (GDPR) and the key differences from the existing&nbsp;regulations. By the end of the lesson you should&nbsp;able to work more confidently with the requirements of GDPR and take a number of next steps.</p>",
     "displayTitle": "Introduction to the General Data Protection Regulation",
     "title": "Introduction to the General Data Protection Regulation",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
-    },
-    "_ODILicence": {
-      "_items": []
     },
     "_skillsFramework": {
       "_skills": [
@@ -55,6 +52,9 @@
     "_aboutPage": {
       "aboutCredit": "",
       "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
       "_items": []
     }
   },
@@ -137,6 +137,39 @@
     "_aboutPage": {
       "aboutCredit": "",
       "SL_text": "",
+      "_items": []
+    }
+  },
+  {
+    "_id": "5abb5cbcdceff123054ec514",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/45083b2d4a10e472cf4c73eda3735f8009b5c2e7.png"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "hidden",
+    "body": "<p>Are you ready for the GDPR? Test your knowledge with this quiz, Get X% to pass.</p>",
+    "displayTitle": "The GDPR: Test your knowledge",
+    "title": "The GDPR: Test your knowledge",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
       "_items": []
     }
   }
