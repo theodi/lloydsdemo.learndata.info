@@ -1,9 +1,9 @@
 [
   {
-    "_id": "5a5cbf74460f330a3d21c8ab",
+    "_id": "5accb2c07f0f6d130535e9c1",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/45083b2d4a10e472cf4c73eda3735f8009b5c2e7.png"
+      "src": "course/en/assets/920b06ed7712901d594c675160503549989b5d65.jpeg"
     },
     "_parentId": "course",
     "_type": "page",
@@ -13,7 +13,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>This lesson provides an overview of the General Data Project Regulation (GDPR) and the key differences from the existing&nbsp;regulations. By the end of the lesson you should&nbsp;able to work more confidently with the requirements of GDPR and take a number of next steps.</p>",
+    "body": "<p>This lesson provides an overview of the General Data Protection Regulation (GDPR) and the key differences from the existing data protection regulations.</p><p>After completion,&nbsp;you should able to work more confidently with the requirements of the GDPR.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
     "displayTitle": "Introduction to the General Data Protection Regulation",
     "title": "Introduction to the General Data Protection Regulation",
     "_pageLevelProgress": {
@@ -23,17 +23,17 @@
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Describe what GDPR is and the implications of not applying it",
+          "outcome": "Describe what the GDPR is and why it is needed",
           "credits": 5,
           "level": "strategist"
         },
         {
-          "outcome": "List the key differences between GDPR and existing regulations",
+          "outcome": "Identify the scope of the GDPR",
           "credits": 5,
           "level": "strategist"
         },
         {
-          "outcome": "Describe the rights of citizens in GDPR",
+          "outcome": "Explain the different organisational obligations",
           "credits": 5,
           "level": "strategist"
         },
@@ -43,14 +43,24 @@
           "level": "strategist"
         },
         {
+          "outcome": "Explain the fundamental rights of individuals outlined in the GDPR",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
           "outcome": "Analyse acceptable privacy notices",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Create a plan for ensuring compliance with the GDPR",
           "credits": 5,
           "level": "strategist"
         }
       ]
     },
     "_aboutPage": {
-      "aboutCredit": "",
+      "aboutCredit": "<p>This guidance is based upon information from the Regulation <a href=\"https://gdpr-info.eu/\" target=\"_blank\">EU&nbsp;2016/679</a> (General Data Projection Regulation) and the <a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner&#39;s Office</a>&nbsp;(UK).</p>",
       "SL_text": "",
       "_items": []
     },
@@ -59,7 +69,7 @@
     }
   },
   {
-    "_id": "5aa2b55cd618641a050cb3b5",
+    "_id": "5ad740cd7f0f6d130535ed2f",
     "_type": "page",
     "_parentId": "course",
     "_graphic": {
@@ -75,20 +85,20 @@
     "body": "<p>The General Data Protection Regulation (GDPR) comes into effect on 25 May 2018 and will have a significant impact on the way we manage, hold and process data at Lloyd&rsquo;s. This lesson looks at how GDPR affects your role at Lloyds and what to do to ensure compliance.</p>",
     "displayTitle": "How does the General Data Protection affect my role at Lloyd’s of London?",
     "title": "How does the General Data Protection affect my role at Lloyd’s of London?",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_ODILicence": {
+      "_items": []
+    },
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": ""
     },
     "_skillsFramework": {
       "_skills": []
     },
-    "_aboutPage": {
-      "aboutCredit": "",
-      "SL_text": "",
-      "_items": []
-    },
-    "_ODILicence": {
-      "_items": []
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
     }
   },
   {
@@ -141,7 +151,7 @@
     }
   },
   {
-    "_id": "5abb5cbcdceff123054ec514",
+    "_id": "5accb2c07f0f6d130535e9c3",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/45083b2d4a10e472cf4c73eda3735f8009b5c2e7.png"
@@ -154,9 +164,42 @@
     "duration": "",
     "linkText": "View",
     "_classes": "hidden",
-    "body": "<p>Are you ready for the GDPR? Test your knowledge with this quiz, Get X% to pass.</p>",
+    "body": "<p>Are you ready for the GDPR? Test your knowledge with this quiz, Get 8/10 to pass.</p>",
     "displayTitle": "The GDPR: Test your knowledge",
     "title": "The GDPR: Test your knowledge",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    }
+  },
+  {
+    "_id": "5aa2b55cd618641a050cb3b5",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6b0815e5da4596e0ae1e03ee73c1ae48b74c18f4.jpg"
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "hidden",
+    "body": "<p>The General Data Protection Regulation (GDPR) comes into effect on 25 May 2018 and will have a significant impact on the way we manage, hold and process data at Lloyd&rsquo;s. This lesson looks at how GDPR affects your role at Lloyds and what to do to ensure compliance.</p>",
+    "displayTitle": "How does the General Data Protection affect my role at Lloyd’s of London?",
+    "title": "How does the General Data Protection affect my role at Lloyd’s of London?",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
