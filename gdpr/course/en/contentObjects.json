@@ -16,55 +16,16 @@
     "body": "<p>This lesson provides an overview of the General Data Protection Regulation (GDPR) and the key differences from the existing data protection regulations.</p><p>After completion,&nbsp;you should able to work more confidently with the requirements of the GDPR.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
     "displayTitle": "Introduction to the General Data Protection Regulation",
     "title": "Introduction to the General Data Protection Regulation",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_skillsFramework": {
-      "_skills": [
-        {
-          "outcome": "Describe what the GDPR is and why it is needed",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "Identify the scope of the GDPR",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "Explain the different organisational obligations",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "Identify the legal basis for processing of personal data and its implications",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "Explain the fundamental rights of individuals outlined in the GDPR",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "Analyse acceptable privacy notices",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "Create a plan for ensuring compliance with the GDPR",
-          "credits": 5,
-          "level": "strategist"
-        }
-      ]
-    },
     "_aboutPage": {
-      "aboutCredit": "<p>This guidance is based upon information from the Regulation <a href=\"https://gdpr-info.eu/\" target=\"_blank\">EU&nbsp;2016/679</a> (General Data Projection Regulation) and the <a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner&#39;s Office</a>&nbsp;(UK).</p>",
+      "_items": [],
       "SL_text": "",
-      "_items": []
+      "aboutCredit": "<p>This guidance is based upon information from the Regulation <a href=\"https://gdpr-info.eu/\" target=\"_blank\">EU&nbsp;2016/679</a> (General Data Projection Regulation) and the <a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner&#39;s Office</a>&nbsp;(UK).</p>"
     },
-    "_ODILicence": {
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_FooterLink": {
       "_items": []
     }
   },
@@ -85,20 +46,17 @@
     "body": "<p>The General Data Protection Regulation (GDPR) comes into effect on 25 May 2018 and will have a significant impact on the way we manage, hold and process data at Lloyd&rsquo;s. This lesson looks at how GDPR affects your role at Lloyds and what to do to ensure compliance.</p>",
     "displayTitle": "How does the General Data Protection affect my role at Lloyd’s of London?",
     "title": "How does the General Data Protection affect my role at Lloyd’s of London?",
-    "_ODILicence": {
-      "_items": []
-    },
     "_aboutPage": {
       "_items": [],
-      "SL_text": "",
+      "SL_text": "&copy; Lloyd's of London",
       "aboutCredit": ""
-    },
-    "_skillsFramework": {
-      "_skills": []
     },
     "_pageLevelProgress": {
       "_showPageCompletion": true,
       "_isEnabled": true
+    },
+    "_FooterLink": {
+      "_items": []
     }
   },
   {
@@ -118,35 +76,16 @@
     "body": "<p>GDPR is first and foremost about guaranteeing strong data protection principles for consumers.<br /><br />However, it shouldn&rsquo;t just be seen as a matter of compliance. Adherence to GDPR also offers many opportunities such as stimulating innovation and strengthening customer relationships.&nbsp;</p><p>This lesson explores some of the opportunities and looks at how GDPR can be turned from a compliance exercise into an opportunity.&nbsp;<br />&nbsp;</p>",
     "displayTitle": "The opportunities of GDPR",
     "title": "The opportunities of GDPR",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_ODILicence": {
-      "_items": []
-    },
-    "_skillsFramework": {
-      "_skills": [
-        {
-          "outcome": "Describe how other sectors are embracing the opportunities offered by GDPR",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "List the 5 key opportunities offered by GDPR for the insurance market",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "Understand how to position GDPR as an opportunity (rather than a compliance issue) in your organisation",
-          "credits": 5,
-          "level": "strategist"
-        }
-      ]
-    },
     "_aboutPage": {
-      "aboutCredit": "",
+      "_items": [],
       "SL_text": "",
+      "aboutCredit": ""
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_FooterLink": {
       "_items": []
     }
   },
@@ -167,19 +106,16 @@
     "body": "<p>Are you ready for the GDPR? Test your knowledge with this quiz, Get 8/10 to pass.</p>",
     "displayTitle": "The GDPR: Test your knowledge",
     "title": "The GDPR: Test your knowledge",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_skillsFramework": {
-      "_skills": []
-    },
     "_aboutPage": {
-      "aboutCredit": "",
+      "_items": [],
       "SL_text": "",
-      "_items": []
+      "aboutCredit": ""
     },
-    "_ODILicence": {
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_FooterLink": {
       "_items": []
     }
   },
@@ -200,19 +136,16 @@
     "body": "<p>The General Data Protection Regulation (GDPR) comes into effect on 25 May 2018 and will have a significant impact on the way we manage, hold and process data at Lloyd&rsquo;s. This lesson looks at how GDPR affects your role at Lloyds and what to do to ensure compliance.</p>",
     "displayTitle": "How does the General Data Protection affect my role at Lloyd’s of London?",
     "title": "How does the General Data Protection affect my role at Lloyd’s of London?",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_skillsFramework": {
-      "_skills": []
-    },
     "_aboutPage": {
-      "aboutCredit": "",
+      "_items": [],
       "SL_text": "",
-      "_items": []
+      "aboutCredit": ""
     },
-    "_ODILicence": {
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_FooterLink": {
       "_items": []
     }
   }
