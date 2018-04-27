@@ -1162,8 +1162,8 @@
     "_parentId": "5ae324b57f0f6d130535fd37",
     "_type": "component",
     "body": "<p>What is the maximum monetary fine that can be imposed for not complying with GDPR?</p>",
-    "displayTitle": "Consequences of breaching the GDPR",
-    "title": "Consequences of breaching the GDPR",
+    "displayTitle": "Impacts of the GDPR",
+    "title": "Impacts of the GDPR",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -1245,8 +1245,8 @@
     "_parentId": "5ae324b57f0f6d130535fd38",
     "_type": "component",
     "body": "<p>According to a survey of 1,350 businesses, what are the two main concerns of breaching the GDPR for organisations?</p>",
-    "displayTitle": "Consequences of breaching GDPR",
-    "title": "Consequences of breaching GDPR",
+    "displayTitle": "Impacts of the GDPR",
+    "title": "Impacts of the GDPR",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -1285,7 +1285,7 @@
     "_isRandom": true,
     "_recordInteraction": true,
     "_questionWeight": 1,
-    "_selectable": 1,
+    "_selectable": 2,
     "_feedback": {
       "correct": "<p><strong>That&#39;s right!</strong></p><p dir=\"ltr\">According to a survey of 1,350 business decision makers, the Risk:Value report from NTT Security that loss of confidence was the main concern of breaching the GDPR (55% of respondents), followed by damage to brand/reputation (51%) and direct financial loss (43%).</p>",
       "_incorrect": {
@@ -1735,8 +1735,8 @@
     "_parentId": "5ae324b57f0f6d130535fd36",
     "_type": "component",
     "body": "<p>What actions can be taken by authorities for not complying with the GDPR?</p>",
-    "displayTitle": "Consequences of breaching the GDPR",
-    "title": "Consequences of breaching the GDPR",
+    "displayTitle": "Impacts of the GDPR",
+    "title": "Impacts of the GDPR",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -2707,8 +2707,8 @@
     "_parentId": "5ae324b57f0f6d130535fd3f",
     "_type": "component",
     "body": "<p>Which types of organisations does the GDPR apply to?</p>",
-    "displayTitle": "The scope of GDPR",
-    "title": "The scope of GDPR",
+    "displayTitle": "The scope of the GDPR",
+    "title": "The scope of the GDPR",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -2739,7 +2739,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -4005,7 +4005,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -4111,7 +4111,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -4207,7 +4207,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": -1,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
