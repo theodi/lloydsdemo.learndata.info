@@ -82,29 +82,29 @@
     "displayTitle": "",
     "title": "Assessment 2",
     "_assessment": {
-      "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": true,
-      "_scoreToPass": 80,
-      "_isPercentageBased": true,
-      "_questions": {
-        "_canShowModelAnswer": true,
-        "_canShowMarking": true,
-        "_canShowFeedback": true,
-        "_resetType": "soft"
+      "_isEnabled": true,
+      "_id": "lloyds_assessment",
+      "_banks": {
+        "_isEnabled": true,
+        "_split": "1,1,1,1,1,1,1,1,1,1",
+        "_randomisation": false
       },
       "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
+        "_isEnabled": false,
+        "_blockCount": 1
       },
-      "_banks": {
-        "_randomisation": false,
-        "_split": "1,1,1,1,1,1,1,1,1,1",
-        "_isEnabled": true
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       },
-      "_id": "lloyds_assessment",
-      "_isEnabled": true
+      "_isPercentageBased": true,
+      "_scoreToPass": 80,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
     }
   },
   {

@@ -4346,13 +4346,13 @@
         "_classes": ""
       },
       {
-        "_score": 5,
+        "_score": 50,
         "feedback": "You got half or more right, achieving a score of {{score}}/10.  You have some good knowledge but need to brush up in a few areas. Take a look back at the practical lessons to help fill the gaps in your knowledge. ",
         "_allowRetry": true,
         "_classes": ""
       },
       {
-        "_score": 8,
+        "_score": 80,
         "feedback": "You passed, well done! ({{score}}/10).",
         "_allowRetry": true,
         "_classes": ""

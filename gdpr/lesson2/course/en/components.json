@@ -30,13 +30,13 @@
         "_classes": ""
       },
       {
-        "_score": 5,
+        "_score": 50,
         "feedback": "Could do better! You achieved a score of {{score}}/10.  The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.",
         "_allowRetry": true,
         "_classes": ""
       },
       {
-        "_score": 8,
+        "_score": 80,
         "feedback": "You passed, well done! ({{score}}/10)",
         "_allowRetry": true,
         "_classes": ""
