@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "5ae315d97f0f6d130535f72b",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6b0815e5da4596e0ae1e03ee73c1ae48b74c18f4.jpg"
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>The General Data Protection Regulation (GDPR) comes into effect on 25 May 2018 and will have a significant impact on the way we manage, hold and process data at Lloyd&rsquo;s. This lesson looks at how GDPR affects your role at Lloyds and what to do to ensure compliance.</p>",
+    "displayTitle": "How does the General Data Protection Regulation affect my role at Lloyd’s of London?",
+    "title": "How does the General Data Protection Regulation affect my role at Lloyd’s of London?",
+    "_FooterLink": {
+      "_items": []
+    },
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "<p>&copy; Lloyd&#39;s of London</p>",
+      "aboutCredit": ""
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "5ae315d97f0f6d130535f72c",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6b0815e5da4596e0ae1e03ee73c1ae48b74c18f4.jpg"
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "hidden",
+    "body": "<p>Are you ready for the GDPR? Test your knowledge with this quiz, Get 8/10 to pass.</p>",
+    "displayTitle": "Are you ready for the GDPR at Lloyd's of London?",
+    "title": "Are you ready for the GDPR at Lloyd's of London?",
+    "_FooterLink": {
+      "_items": []
+    },
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "<p>&copy; Lloyd&#39;s of London</p>",
+      "aboutCredit": ""
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    }
+  }
+]

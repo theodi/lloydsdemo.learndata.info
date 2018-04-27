@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "5ae324b57f0f6d130535fce1",
+    "_graphic": {
+      "alt": "",
+      "src": "course/assets/920b06ed7712901d594c675160503549989b5d65.jpeg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>This lesson provides an overview of the General Data Protection Regulation (GDPR) and the key differences from the existing data protection regulations.</p><p>After completion,&nbsp;you should able to work more confidently with the requirements of the GDPR.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+    "displayTitle": "Introduction to the General Data Protection Regulation",
+    "title": "Introduction to the General Data Protection Regulation",
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This guidance is based upon information from the Regulation <a href=\"https://gdpr-info.eu/\" target=\"_blank\">EU&nbsp;2016/679</a> (General Data Projection Regulation) and the <a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner&#39;s Office</a>&nbsp;(UK).</p>",
+      "SL_text": "",
+      "_items": []
+    }
+  },
+  {
+    "_id": "5ae324b57f0f6d130535fce0",
+    "_graphic": {
+      "alt": "",
+      "src": "course/assets/45083b2d4a10e472cf4c73eda3735f8009b5c2e7.png"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "hidden",
+    "body": "<p>Are you ready for the GDPR? Test your knowledge with this quiz, Get 8/10 to pass.</p>",
+    "displayTitle": "The GDPR: Test your knowledge",
+    "title": "The GDPR: Test your knowledge",
+    "_FooterLink": {
+      "_items": []
+    },
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": ""
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    }
+  }
+]
