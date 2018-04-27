@@ -3170,7 +3170,7 @@
         "feedback": ""
       },
       {
-        "text": "If an organisation carries out large scale progressing of high risk or sensitive data",
+        "text": "If an organisation carries out large scale processing of high risk or sensitive data",
         "_shouldBeSelected": true,
         "feedback": ""
       },
@@ -3392,7 +3392,7 @@
         "feedback": ""
       },
       {
-        "text": "use their mobile data plan anywhere in the world",
+        "text": "Use their mobile data plan anywhere in the world",
         "_shouldBeSelected": false,
         "feedback": ""
       },
