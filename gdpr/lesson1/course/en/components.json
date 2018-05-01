@@ -150,9 +150,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/0d599d3aae835480634e1f3b0973911bdd484827.jpeg",
-      "small": "course/en/assets/0d599d3aae835480634e1f3b0973911bdd484827.jpeg",
-      "attribution": "<a href=\"https://www.freepik.com/free-vector/applications-speech-bubbles-in-a-shopping-cart_713109.htm#term=trolley&page=1&position=17\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/5be8b25a122424e19d198e303c4cec38ed9d081c.jpg",
+      "small": "course/en/assets/5be8b25a122424e19d198e303c4cec38ed9d081c.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/close-up-photo-of-woman-in-black-coat-using-smartphone-787929/\" target=\"_blank\">bruce mars</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -608,9 +608,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/168aaddb50bd4da70aeb517c65262d077538c3ff.jpg",
-      "small": "course/en/assets/168aaddb50bd4da70aeb517c65262d077538c3ff.jpg",
-      "attribution": "<a href=\"https://www.freepik.com/index.php?goto=74&idfoto=836834&term=magnifying%20glass\" target=\"_blank\">Ibrandify / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "small": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/sign-pen-business-document-48148/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -649,7 +649,7 @@
   },
   {
     "_id": "5ae324b67f0f6d130535fd67",
-    "_layout": "left",
+    "_layout": "full",
     "_type": "component",
     "_parentId": "5ae324b57f0f6d130535fd1c",
     "body": "",
@@ -666,7 +666,7 @@
   },
   {
     "_id": "5ae324b67f0f6d130535fd68",
-    "_layout": "left",
+    "_layout": "full",
     "_type": "component",
     "_parentId": "5ae324b57f0f6d130535fd25",
     "body": "",
@@ -765,7 +765,7 @@
   },
   {
     "_id": "5ae324b67f0f6d130535fd69",
-    "_layout": "left",
+    "_layout": "full",
     "_type": "component",
     "_parentId": "5ae324b57f0f6d130535fd28",
     "body": "",
@@ -814,9 +814,9 @@
         "title": "EU citizen orders from US online store",
         "body": "<p>A French citizen orders online from a merchant based in the US, who has made no effort&nbsp;to target&nbsp;their services to anyone outside of the US. All payments must be in USD.</p><p>Just because they agree to ship the merchandise to the EU does not, by itself, put the merchant in-scope&nbsp;for the GDPR, even if they do collect personal data.</p><p><strong>The GDPR does not apply</strong></p>",
         "_graphic": {
-          "src": "course/en/assets/376f4f70ae8ee6db6860e56074fbfb98a44f6a32.jpeg",
+          "src": "course/en/assets/7a4c06c13b0c1e35b78e54475d2d06344d258ebb.jpg",
           "alt": "",
-          "attribution": "<a href=\"https://www.freepik.com/free-vector/applications-speech-bubbles-in-a-shopping-cart_713109.htm#term=trolley&page=1&position=17\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+          "attribution": "<a href=\"https://www.pexels.com/photo/close-up-photo-of-woman-in-black-coat-using-smartphone-787929/\" target=\"_blank\">bruce mars</a> <span class='assetLicence'>[CC0]</span>"
         },
         "strapline": "EU citizen orders from US online store"
       },
@@ -913,29 +913,6 @@
     "_shouldCollapseItems": true
   },
   {
-    "_id": "5ae324b67f0f6d130535fdb5",
-    "_layout": "right",
-    "_type": "component",
-    "_parentId": "5ae324b57f0f6d130535fd25",
-    "body": "",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "5ae324b67f0f6d130535fdb6",
     "_layout": "right",
     "_type": "component",
@@ -951,52 +928,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "5ae324b67f0f6d130535fdb8",
-    "_layout": "right",
-    "_type": "component",
-    "_parentId": "5ae324b57f0f6d130535fd27",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "color-one",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "5ae324b67f0f6d130535fdb9",
-    "_layout": "right",
-    "_type": "component",
-    "_parentId": "5ae324b57f0f6d130535fd28",
-    "body": "",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "color-four",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
-      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
-      "attribution": ""
-    }
   },
   {
     "_id": "5ae324b67f0f6d130535fdb2",
@@ -1174,22 +1105,22 @@
     "instruction": "Select your answer then click 'submit'",
     "_items": [
       {
-        "text": "€500,000",
+        "text": "€500,000 (or 1% of turnover)",
         "_shouldBeSelected": false,
         "feedback": ""
       },
       {
-        "text": "€2,000,000",
+        "text": "€2,000,000 (or 2% of turnover)",
         "_shouldBeSelected": false,
         "feedback": ""
       },
       {
-        "text": "€20,000,000",
+        "text": "€20,000,000 (or 4% of turnover)",
         "_shouldBeSelected": true,
         "feedback": ""
       },
       {
-        "text": "€200,000,000",
+        "text": "€200,000,000 (or 10% of turnover)",
         "_shouldBeSelected": false,
         "feedback": ""
       }
@@ -1324,7 +1255,7 @@
   },
   {
     "_id": "5ae324b67f0f6d130535fdcb",
-    "_layout": "left",
+    "_layout": "full",
     "_parentId": "5ae324b57f0f6d130535fd21",
     "_type": "component",
     "body": "<p><a class=\"button\" href=\"#/id/5ae324b57f0f6d130535fce0\" target=\"_self\">Take the quiz and test your knowledge</a></p>",
@@ -1446,7 +1377,7 @@
         "feedback": ""
       },
       {
-        "text": "Very small print",
+        "text": "Too short",
         "_shouldBeSelected": false,
         "feedback": ""
       }
@@ -1901,29 +1832,6 @@
     }
   },
   {
-    "_id": "5ae324b67f0f6d130535fdb0",
-    "_layout": "right",
-    "_parentId": "5ae324b57f0f6d130535fd21",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "color-four",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
-      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "5ae324b67f0f6d130535fdbb",
     "_layout": "left",
     "_type": "component",
@@ -1971,7 +1879,7 @@
   },
   {
     "_id": "5ae324b67f0f6d130535fdb7",
-    "_layout": "left",
+    "_layout": "full",
     "_type": "component",
     "_parentId": "5ae324b57f0f6d130535fd27",
     "body": "<p>The GDPR requires everyone to process personal data lawfully and communicate this basis clearly with the individual.</p>",
@@ -2004,9 +1912,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/527081e4c54d29b80e290e1b6831aebe308a73a3.png",
-      "small": "course/en/assets/527081e4c54d29b80e290e1b6831aebe308a73a3.png",
-      "attribution": "<a href=\"https://thenounproject.com/search/?q=clipboard&i=778870\" target=\"_blank\">Allen, US</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/8d9c9fa45fd59e4353ae949ee564e5498d994203.png",
+      "small": "course/en/assets/8d9c9fa45fd59e4353ae949ee564e5498d994203.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -2587,9 +2495,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/168aaddb50bd4da70aeb517c65262d077538c3ff.jpg",
-      "small": "course/en/assets/168aaddb50bd4da70aeb517c65262d077538c3ff.jpg",
-      "attribution": "<a href=\"https://www.freepik.com/index.php?goto=74&idfoto=836834&term=magnifying%20glass\" target=\"_blank\">Ibrandify / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "small": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/sign-pen-business-document-48148/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -2627,32 +2535,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/91627e27077a28d5edb249153a308ab66f3af1b0.png",
-      "small": "course/en/assets/91627e27077a28d5edb249153a308ab66f3af1b0.png",
-      "attribution": "<a href=\"http://www.freepik.com/index.php?goto=74&idfoto=1010276&term=data\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
-    }
-  },
-  {
-    "_id": "5ae324b67f0f6d130535fdac",
-    "_layout": "right",
-    "_parentId": "5ae324b57f0f6d130535fd1c",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "color-seven",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "attribution": ""
+      "large": "course/en/assets/7b0189443d53d1379793bc1c20941af900d9252f.jpg",
+      "small": "course/en/assets/7b0189443d53d1379793bc1c20941af900d9252f.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/index.php?goto=74&idfoto=1010276&term=data\" target=\"_blank\">Freepik / ODI</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -2673,9 +2558,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/647bc36a181b6051c7606c3f90d785a03671901c.png",
-      "small": "course/en/assets/647bc36a181b6051c7606c3f90d785a03671901c.png",
-      "attribution": "<a href=\"https://www.nexor.com/wp/wp-content/uploads/2017/03/Enabling-Secure-Information-Exchange-in-Cloud-environments-white-paper-diagram-1.png\" target=\"_blank\">Nexor</a> <span class='assetLicence'>[All rights reserved]</span>"
+      "large": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "small": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -3036,9 +2921,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/85a90fe27b64a8570fb843f76e58b55d56352c3f.png",
-      "small": "course/en/assets/85a90fe27b64a8570fb843f76e58b55d56352c3f.png",
-      "attribution": "<a href=\"https://www.spirion.com/data-lifecycle-management/\" target=\"_blank\">Spirion</a> <span class='assetLicence'>[All rights reserved]</span>"
+      "large": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "small": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -3359,9 +3244,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/168aaddb50bd4da70aeb517c65262d077538c3ff.jpg",
-      "small": "course/en/assets/168aaddb50bd4da70aeb517c65262d077538c3ff.jpg",
-      "attribution": "<a href=\"https://www.freepik.com/index.php?goto=74&idfoto=836834&term=magnifying%20glass\" target=\"_blank\">Ibrandify / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "small": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/sign-pen-business-document-48148/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -3465,9 +3350,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/168aaddb50bd4da70aeb517c65262d077538c3ff.jpg",
-      "small": "course/en/assets/168aaddb50bd4da70aeb517c65262d077538c3ff.jpg",
-      "attribution": "<a href=\"https://www.freepik.com/index.php?goto=74&idfoto=836834&term=magnifying%20glass\" target=\"_blank\">Ibrandify / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "small": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/sign-pen-business-document-48148/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -3566,9 +3451,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/168aaddb50bd4da70aeb517c65262d077538c3ff.jpg",
-      "small": "course/en/assets/168aaddb50bd4da70aeb517c65262d077538c3ff.jpg",
-      "attribution": "<a href=\"https://www.freepik.com/index.php?goto=74&idfoto=836834&term=magnifying%20glass\" target=\"_blank\">Ibrandify / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "small": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/sign-pen-business-document-48148/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -3667,9 +3552,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/168aaddb50bd4da70aeb517c65262d077538c3ff.jpg",
-      "small": "course/en/assets/168aaddb50bd4da70aeb517c65262d077538c3ff.jpg",
-      "attribution": "<a href=\"https://www.freepik.com/index.php?goto=74&idfoto=836834&term=magnifying%20glass\" target=\"_blank\">Ibrandify / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "small": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/close-up-photo-of-woman-in-black-coat-using-smartphone-787929/\" target=\"_blank\">bruce mars</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -3811,7 +3696,7 @@
         "feedback": ""
       },
       {
-        "text": "It should ask for printed name as well as signature",
+        "text": "Not enough use of colour",
         "_shouldBeSelected": false,
         "feedback": ""
       }
@@ -3912,18 +3797,18 @@
         "feedback": ""
       },
       {
-        "text": "Very small print",
+        "text": "Too short",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Not enough use of colour",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Confusing title and text in first paragraph",
         "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "It should ask for printed name as well as signature",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "The company address must be included",
-        "_shouldBeSelected": false,
         "feedback": ""
       }
     ],
@@ -3977,7 +3862,7 @@
     "_layout": "right",
     "_parentId": "5ae324b67f0f6d130535fd4b",
     "_type": "component",
-    "body": "<p>Which countries can an individual&rsquo;s personal data be transferred to&nbsp;(without needing to gain consent and it is not necessary in order to fulfil the legal basis)?</p>",
+    "body": "<p>Which countries can an individual&rsquo;s personal data be transferred to&nbsp;(without needing to gain consent or the transfer being necessary in order to fulfil the legal basis)?</p>",
     "displayTitle": "International transfers",
     "title": "International transfers",
     "_isAvailable": true,
@@ -3995,7 +3880,7 @@
         "feedback": ""
       },
       {
-        "text": "Any EU country or third country approved by the EU as being GDPR compliant",
+        "text": "Any third country approved by the European Commission that offers an adequate level of data protection.",
         "_shouldBeSelected": true,
         "feedback": ""
       },
