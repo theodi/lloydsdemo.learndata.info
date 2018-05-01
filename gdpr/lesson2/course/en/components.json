@@ -61,9 +61,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/647bc36a181b6051c7606c3f90d785a03671901c.png",
-      "small": "course/en/assets/647bc36a181b6051c7606c3f90d785a03671901c.png",
-      "attribution": "<a href=\"https://www.nexor.com/wp/wp-content/uploads/2017/03/Enabling-Secure-Information-Exchange-in-Cloud-environments-white-paper-diagram-1.png\" target=\"_blank\">Nexor</a> <span class='assetLicence'>[All rights reserved]</span>"
+      "large": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "small": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -218,9 +218,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/5171f0548033d1898a0322fdb2e9245ff2cad10b.png",
-      "small": "course/en/assets/5171f0548033d1898a0322fdb2e9245ff2cad10b.png",
-      "attribution": "<a href=\"https://www.freepik.com/free-vector/anonymous-worker_931287.htm#term=anonymous&page=1&position=0\" target=\"_blank\">Ibrandify / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/fbcb33b1450e744678412cbc5a81867cb214b8ad.jpg",
+      "small": "course/en/assets/fbcb33b1450e744678412cbc5a81867cb214b8ad.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/alone-animal-bird-clouds-395196/\" target=\"_blank\">Gabriela Palai</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -241,14 +241,14 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/647bc36a181b6051c7606c3f90d785a03671901c.png",
-      "small": "course/en/assets/647bc36a181b6051c7606c3f90d785a03671901c.png",
-      "attribution": "<a href=\"https://www.nexor.com/wp/wp-content/uploads/2017/03/Enabling-Secure-Information-Exchange-in-Cloud-environments-white-paper-diagram-1.png\" target=\"_blank\">Nexor</a> <span class='assetLicence'>[All rights reserved]</span>"
+      "large": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "small": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
     "_id": "5ae315da7f0f6d130535f7e9",
-    "_layout": "right",
+    "_layout": "left",
     "_type": "component",
     "_parentId": "5ae315da7f0f6d130535f747",
     "body": "<p>Thought leaders in the insurance industry such as the&nbsp;<a href=\"https://www.abi.org.uk/news/blog-articles/2017/10/gdpr-catalyst-or-deterrent-for-innovation-in-insurance/\">ABI</a>,&nbsp;<a href=\"https://www.pwc.co.uk/industries/financial-services/regulation/are-you-ready-for-the-general-data-protection-regulation.html\">PWC</a>, and&nbsp;<a href=\"http://www.hitachi-solutions.co.uk/wp-content/uploads/2017/09/GDPR-WP-Sept-2017-Final-1.pdf\">Hitachi</a>&nbsp;all agree: GDPR is a big shake-up, and will cause significant disruption to how insurers store, manage and process personal data.&nbsp;However, it should also be treated as an opportunity to provide better, more efficient services to customers.</p>",
@@ -275,7 +275,7 @@
       },
       {
         "title": "Opportunities",
-        "body": "<p>Understanding what personal data an organisation holds and how it is processed helps reduce risk of such data falling into the wrong hands.&nbsp;</p><p>Additionally such practices can help to:</p><ul><li>deduplicate data, saving storage space</li><li>identify linkages between data processing and points of engagement with customers</li><li>deliver a better set of products to customers</li></ul>",
+        "body": "<p>Understanding what personal data an organisation holds and how it is processed helps reduce risk of such data falling into the wrong hands.&nbsp;</p><p>Additionally such practices can help to:</p><ul><li>deduplicate data, saving storage space</li><li>identify linkages between data processing and points of engagement with customers</li><li>deliver a better set of services</li></ul>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -288,7 +288,7 @@
   },
   {
     "_id": "5ae315da7f0f6d130535f7b8",
-    "_layout": "left",
+    "_layout": "right",
     "_type": "component",
     "_parentId": "5ae315da7f0f6d130535f747",
     "body": "",
@@ -337,7 +337,7 @@
     "_layout": "right",
     "_type": "component",
     "_parentId": "5ae315da7f0f6d130535f749",
-    "body": "<p>You must consider data privacy before any work is formally undertaken.&nbsp;</p><p>The GDPR makes &#39;privacy by design&#39; a legal requirement at the start of any project that will be processing personal data in any way.&nbsp;For example when:</p><ul><li>designing and building new IT systems for storing or accessing personal data</li><li>using personal data for new purposes</li><li>onboarding a new supplier</li><li>developing policies&nbsp;or strategies with privacy implications;</li><li>embarking on a data sharing initiative</li></ul><p>If you are introducing a new process you should contact the Data Protection Office to arrange for a Data Protection Impact Assessment (DPIA) to be completed before any action is taken.&nbsp;</p>",
+    "body": "<p>The GDPR makes &#39;privacy by design&#39; a legal requirement at the start of any project that will be processing personal data in any way.&nbsp;For example when:</p><ul><li>designing and building new IT systems for storing or accessing personal data</li><li>using personal data for new purposes</li><li>onboarding a new supplier</li><li>developing policies&nbsp;or strategies with privacy implications;</li><li>embarking on a data sharing initiative</li></ul><p>If you are introducing a new process you should contact the Data Protection Office to arrange for a Data Protection Impact Assessment (DPIA) to be completed before any action is taken.&nbsp;</p>",
     "displayTitle": "If you are introducing a new process...",
     "title": "If you are introducing a new process...",
     "_isAvailable": true,
@@ -354,7 +354,7 @@
     "_layout": "right",
     "_type": "component",
     "_parentId": "5ae315da7f0f6d130535f74b",
-    "body": "<p>The GDPR is breached if a security incident that has affected the confidentiality, integrity or availability of personal data. Personal data breaches include, but are not restricted to the following:</p><ul><li>Loss, theft, alteration or unauthorised destruction of data or documents containing&nbsp;personal data</li><li>Loss or theft of equipment or devices on which personal data is stored (e.g. mobile phone, laptop, computer hard drive, USB stick, CD, iPad/tablet device, voice recorder, servers etc.) either owned by Lloyd&rsquo;s or a personally owned device</li><li>Unauthorised use of, access to or modification of data or IT systems</li><li>Incorrect or unauthorised sharing or disclosure of personal data</li><li>Human error (social media incident, unauthorised access to building &amp; systems etc.)</li></ul><p>Importantly, these include breaches that are the result of both&nbsp;<strong>accidental</strong>&nbsp;and&nbsp;<strong>deliberate</strong>&nbsp;causes.</p>",
+    "body": "<p>The GDPR is breached if a security incident occurs&nbsp;that affects&nbsp;the confidentiality, integrity or availability of personal data. Personal data breaches include, but are not restricted to the following:</p><ul><li>Loss, theft, alteration or unauthorised destruction of data or documents containing&nbsp;personal data</li><li>Loss or theft of equipment or devices on which personal data is stored (e.g. mobile phone, laptop, computer hard drive, USB stick, CD, iPad/tablet device, voice recorder, servers etc.) either owned by Lloyd&rsquo;s or a personally owned device</li><li>Unauthorised use of, access to or modification of data or IT systems</li><li>Incorrect or unauthorised sharing or disclosure of personal data</li><li>Human error (social media incident, unauthorised access to building &amp; systems etc.)</li></ul><p>Importantly, these include breaches that are the result of both&nbsp;<strong>accidental</strong>&nbsp;and&nbsp;<strong>deliberate</strong>&nbsp;causes.</p>",
     "displayTitle": "Recognising a personal data breach?",
     "title": "Recognising a personal data breach?",
     "_isAvailable": true,
@@ -502,46 +502,6 @@
     "instruction": ""
   },
   {
-    "_id": "5ae315da7f0f6d130535f7c0",
-    "_layout": "right",
-    "_type": "component",
-    "_parentId": "5ae315da7f0f6d130535f74d",
-    "body": "<p>Navigating the GDPR can be complex.&nbsp;Lloyd&rsquo;s of London have a dedicated team to help. So if you have any GDPR enquiries, however small, please get in touch with the following people:</p>",
-    "displayTitle": "Who should I contact for GDPR enquiries?",
-    "title": "Who should I contact for GDPR enquiries?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "accordion",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_items": [
-      {
-        "title": "The Data Protection Office",
-        "body": "<p>The Data Protection Office should be your first point of contact for all GDPR enquiries. You can the DPO at&nbsp;<a href=\"mailto:data.protection@lloyds.com\" target=\"_blank\">data.protection@lloyds.com</a></p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Timor Ahmad",
-        "body": "<p>Timor is Lloyd&rsquo;s Head of Data Governance &amp; Privacy and can also also help with certain enquiries.</p><p>Timor Ahmad<br />Head of Data Governance &amp; Privacy<br />timor.ahmad@lloyds.com<br />+44 (0)20 7327 5515</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true
-  },
-  {
     "_id": "5ae315da7f0f6d130535f7bc",
     "_layout": "right",
     "_type": "component",
@@ -559,9 +519,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/ae443dbaacece3c2e56cef4aa80f718b15b36b58.jpg",
-      "small": "course/en/assets/ae443dbaacece3c2e56cef4aa80f718b15b36b58.jpg",
-      "attribution": "<a href=\"http://www.freepik.com/free-vector/security-icon_1086687.htm#term=risk&page=1&position\" target=\"_blank\">Photoroyalty / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/2cf108a37602c3bc5182e8553eb5db7076edc3b7.jpg",
+      "small": "course/en/assets/2cf108a37602c3bc5182e8553eb5db7076edc3b7.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/black-android-smartphone-on-top-of-white-book-39584/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -605,32 +565,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/a2cf7964e88c87419cb331fe181d58b5e1d76317.jpg",
-      "small": "course/en/assets/a2cf7964e88c87419cb331fe181d58b5e1d76317.jpg",
-      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/search-icon-loupe-symbol-application-button-180739841?src=lb-36497927\" target=\"_blank\">Tarchyshnik Andrei</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-    }
-  },
-  {
-    "_id": "5ae315da7f0f6d130535f7b9",
-    "_layout": "right",
-    "_type": "component",
-    "_parentId": "5ae315da7f0f6d130535f748",
-    "body": "",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "color-one",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "attribution": ""
+      "large": "course/en/assets/9b080f9b776f05c7306c86761cc624500d9e0279.jpg",
+      "small": "course/en/assets/9b080f9b776f05c7306c86761cc624500d9e0279.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/cyclone-fence-in-shallow-photography-951408/\" target=\"_blank\">Travis Saylor</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -651,9 +588,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/6b0815e5da4596e0ae1e03ee73c1ae48b74c18f4.jpg",
-      "small": "course/en/assets/6b0815e5da4596e0ae1e03ee73c1ae48b74c18f4.jpg",
-      "attribution": "<a href=\"http://www.freepik.com/free-vector/nice-people-avatars-in-flat-design_844761.htm#term=people&page=1&position=26\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/5afb68be6f941b8fc890fcb46aed22f198de1ebd.jpeg",
+      "small": "course/en/assets/5afb68be6f941b8fc890fcb46aed22f198de1ebd.jpeg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-164731838.html\" target=\"_blank\">STH</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
     }
   },
   {
@@ -661,7 +598,7 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "5ae315da7f0f6d130535f75e",
-    "body": "<p>Every time you handle someone&rsquo;s data you should think of the privacy best practices:</p><ul><li>do I need this data? why?</li><li>is the person aware what I am doing with&nbsp;data about them?</li><li>how should I store the&nbsp;data?</li><li>is the storage secure?</li><li>can I share that data with someone else?</li><li>how can I limit access?</li><li>is the method of transferring data&nbsp;secure?</li><li>how long am I allowed to keep the data?</li><li>do I periodically check whether I still need this data?</li></ul>",
+    "body": "<p>Every time you handle personal data you should think of the privacy best practices:</p><ul><li>do I need this data? why?</li><li>is the person aware what I am doing with&nbsp;the personal data?</li><li>how should I store the&nbsp;data?</li><li>is the storage secure?</li><li>can I share that data with someone else?</li><li>how can I limit access?</li><li>is the method of transferring data&nbsp;secure?</li><li>how long am I allowed to keep the data?</li><li>do I periodically check whether I still need this data?</li></ul>",
     "displayTitle": "Privacy best practices",
     "title": "Privacy best practices",
     "_isAvailable": true,
@@ -802,33 +739,27 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/31942170a9d65693d5222d1bfc11e88216ab9dd0.png",
-      "small": "course/en/assets/31942170a9d65693d5222d1bfc11e88216ab9dd0.png",
-      "attribution": "<a href=\"https://www.freepik.com/index.php?goto=74&idfoto=1082297&term=checklist\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/5b0f2613ff10c446297da00b53ace012fbbebcb1.jpg",
+      "small": "course/en/assets/5b0f2613ff10c446297da00b53ace012fbbebcb1.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/arrows-close-up-dark-energy-394377/\" target=\"_blank\">Isaque Pereira</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
-    "_id": "5ae315da7f0f6d130535f7db",
-    "_layout": "left",
+    "_id": "5ae8712f7f0f6d13053608cd",
+    "_layout": "right",
     "_type": "component",
-    "_parentId": "5ae315da7f0f6d130535f75d",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
+    "_parentId": "5ae315da7f0f6d130535f74d",
+    "body": "<p>Navigating the GDPR can be complex.&nbsp;Lloyd&rsquo;s of London have a dedicated team to help.</p><p><strong>The Data Protection Office</strong></p><p>If you have any GDPR enquiries, however small, please get in touch.</p><p>You can the DPO at&nbsp;<a href=\"mailto:data.protection@lloyds.com\" target=\"_blank\">data.protection@lloyds.com</a></p>",
+    "displayTitle": "Who should I contact for GDPR enquiries?",
+    "title": "Who should I contact for GDPR enquiries?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
-    "_component": "graphic",
+    "_component": "text",
     "_pageLevelProgress": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/ba1d85ab946342636d631b5e9fbcb4a0027c0976.jpg",
-      "small": "course/en/assets/ba1d85ab946342636d631b5e9fbcb4a0027c0976.jpg",
-      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
-    }
+    "instruction": ""
   },
   {
     "_id": "5ae315da7f0f6d130535f7d8",
@@ -871,9 +802,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/31942170a9d65693d5222d1bfc11e88216ab9dd0.png",
-      "small": "course/en/assets/31942170a9d65693d5222d1bfc11e88216ab9dd0.png",
-      "attribution": "<a href=\"https://www.freepik.com/index.php?goto=74&idfoto=1082297&term=checklist\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg",
+      "small": "course/en/assets/e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/banking-business-checklist-commerce-416322/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -911,9 +842,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/647bc36a181b6051c7606c3f90d785a03671901c.png",
-      "small": "course/en/assets/647bc36a181b6051c7606c3f90d785a03671901c.png",
-      "attribution": "<a href=\"https://www.nexor.com/wp/wp-content/uploads/2017/03/Enabling-Secure-Information-Exchange-in-Cloud-environments-white-paper-diagram-1.png\" target=\"_blank\">Nexor</a> <span class='assetLicence'>[All rights reserved]</span>"
+      "large": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "small": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -951,9 +882,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/647bc36a181b6051c7606c3f90d785a03671901c.png",
-      "small": "course/en/assets/647bc36a181b6051c7606c3f90d785a03671901c.png",
-      "attribution": "<a href=\"https://www.nexor.com/wp/wp-content/uploads/2017/03/Enabling-Secure-Information-Exchange-in-Cloud-environments-white-paper-diagram-1.png\" target=\"_blank\">Nexor</a> <span class='assetLicence'>[All rights reserved]</span>"
+      "large": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "small": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -974,9 +905,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/ae443dbaacece3c2e56cef4aa80f718b15b36b58.jpg",
-      "small": "course/en/assets/ae443dbaacece3c2e56cef4aa80f718b15b36b58.jpg",
-      "attribution": "<a href=\"http://www.freepik.com/free-vector/security-icon_1086687.htm#term=risk&page=1&position=30\" target=\"_blank\">Photoroyalty / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/9b080f9b776f05c7306c86761cc624500d9e0279.jpg",
+      "small": "course/en/assets/9b080f9b776f05c7306c86761cc624500d9e0279.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/black-android-smartphone-on-top-of-white-book-39584/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -1007,7 +938,7 @@
         "feedback": ""
       },
       {
-        "text": "Archive the personal data",
+        "text": "Transfer to a personal folder",
         "_shouldBeSelected": false,
         "feedback": ""
       },
@@ -1080,9 +1011,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/403451836f853eb59b55e64e924b44daf603ff18.png",
-      "small": "course/en/assets/403451836f853eb59b55e64e924b44daf603ff18.png",
-      "attribution": "<a href=\"https://www.freepik.com/free-vector/computer-wallpaper-with-icons_1087359.htm#term=request&page=1&position=5\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/2cf108a37602c3bc5182e8553eb5db7076edc3b7.jpg",
+      "small": "course/en/assets/2cf108a37602c3bc5182e8553eb5db7076edc3b7.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/black-android-smartphone-on-top-of-white-book-39584/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -1120,9 +1051,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/403451836f853eb59b55e64e924b44daf603ff18.png",
-      "small": "course/en/assets/403451836f853eb59b55e64e924b44daf603ff18.png",
-      "attribution": "<a href=\"https://www.freepik.com/free-vector/computer-wallpaper-with-icons_1087359.htm#term=request&page=1&position=5\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/2cf108a37602c3bc5182e8553eb5db7076edc3b7.jpg",
+      "small": "course/en/assets/2cf108a37602c3bc5182e8553eb5db7076edc3b7.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/black-android-smartphone-on-top-of-white-book-39584/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -1182,7 +1113,7 @@
         "feedback": ""
       },
       {
-        "text": "An employee emails a spreadsheet containing personal to their own personal email address ",
+        "text": "An employee emails a spreadsheet containing personal data to their own personal email address ",
         "_shouldBeSelected": true,
         "feedback": ""
       },
@@ -1466,9 +1397,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/31942170a9d65693d5222d1bfc11e88216ab9dd0.png",
-      "small": "course/en/assets/31942170a9d65693d5222d1bfc11e88216ab9dd0.png",
-      "attribution": "<a href=\"https://www.freepik.com/index.php?goto=74&idfoto=1082297&term=checklist\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg",
+      "small": "course/en/assets/e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/banking-business-checklist-commerce-416322/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -1556,7 +1487,7 @@
   },
   {
     "_id": "5ae315da7f0f6d130535f7c7",
-    "_layout": "left",
+    "_layout": "full",
     "_type": "component",
     "_parentId": "5ae315da7f0f6d130535f751",
     "body": "<p>This section looks at how to protect against, recognise and respond&nbsp;to&nbsp;data breaches.</p>",
@@ -1647,29 +1578,6 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "5ae315da7f0f6d130535f7c6",
-    "_layout": "right",
-    "_type": "component",
-    "_parentId": "5ae315da7f0f6d130535f751",
-    "body": "",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "color-four",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "attribution": ""
     }
   },
   {
@@ -1811,7 +1719,7 @@
         "feedback": ""
       },
       {
-        "text": "Personal data is any information that relates directly to myself",
+        "text": "Personal data is any information that only relates directly to myself",
         "_shouldBeSelected": false,
         "feedback": ""
       }
@@ -1859,29 +1767,6 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "5ae315da7f0f6d130535f7c4",
-    "_layout": "right",
-    "_type": "component",
-    "_parentId": "5ae315da7f0f6d130535f74f",
-    "body": "",
-    "displayTitle": "",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "attribution": ""
     }
   },
   {
@@ -1969,7 +1854,7 @@
   },
   {
     "_id": "5ae315da7f0f6d130535f7c3",
-    "_layout": "left",
+    "_layout": "full",
     "_type": "component",
     "_parentId": "5ae315da7f0f6d130535f74f",
     "body": "",
@@ -2151,14 +2036,14 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/5171f0548033d1898a0322fdb2e9245ff2cad10b.png",
-      "small": "course/en/assets/5171f0548033d1898a0322fdb2e9245ff2cad10b.png",
-      "attribution": "<a href=\"https://www.freepik.com/free-vector/anonymous-worker_931287.htm#term=anonymous&page=1&position=0\" target=\"_blank\">Ibrandify / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/fbcb33b1450e744678412cbc5a81867cb214b8ad.jpg",
+      "small": "course/en/assets/fbcb33b1450e744678412cbc5a81867cb214b8ad.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/alone-animal-bird-clouds-395196/\" target=\"_blank\">Gabriela Palai</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
     "_id": "5ae315da7f0f6d130535f7cd",
-    "_layout": "left",
+    "_layout": "full",
     "_type": "component",
     "_parentId": "5ae315da7f0f6d130535f748",
     "body": "<p>This section looks at how some of these apply at different stages of the data lifecycle.</p>",
@@ -2172,29 +2057,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "5ae315da7f0f6d130535f7c1",
-    "_layout": "left",
-    "_type": "component",
-    "_parentId": "5ae315da7f0f6d130535f74d",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/ba1d85ab946342636d631b5e9fbcb4a0027c0976.jpg",
-      "small": "course/en/assets/ba1d85ab946342636d631b5e9fbcb4a0027c0976.jpg",
-      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
-    }
   },
   {
     "_id": "5ae315da7f0f6d130535f7e4",
@@ -2272,6 +2134,52 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5ae315da7f0f6d130535f7c1",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ae315da7f0f6d130535f74d",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2249240d21c144badd90c5b70215369fd1517610.jpg",
+      "small": "course/en/assets/2249240d21c144badd90c5b70215369fd1517610.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/sidewalk_flying/2421382093/in/photolist-4FYdx8-aw5nsY-ctCrvy-kZSzJ3-c4NKt5-bCQnXf-vjXqxq-c4PrH3-6m8o8u-ctCrwf-6m8okS-55M9FE-amvEVw-55up3V-9NyWbq-diNzWE-9zjD2H-ctrmKf-mmRpk4-2k2AUx-6zutHb-9quDWx-4MLzSY-b7XoU8-6juyC9-KhQBjM-amsRgx-55LRLD-4MGqwn-wMBbjw-3ZRpmW-xJCfTR-5YCgZp-57QDF5-57QFYq-6bUH5y-f1JUj5-57QF7w-2MeFT-3ZRqN7-64cpXL-3sog6n-6RSRwZ-7AeePA-aCNuwZ-vmquGc-bZGm-ysgm7B-22EijS6-ZK6DPA\" target=\"_blank\">Seth Sawyers</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5ae315da7f0f6d130535f7db",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ae315da7f0f6d130535f75d",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2249240d21c144badd90c5b70215369fd1517610.jpg",
+      "small": "course/en/assets/2249240d21c144badd90c5b70215369fd1517610.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/sidewalk_flying/2421382093/in/photolist-4FYdx8-aw5nsY-ctCrvy-kZSzJ3-c4NKt5-bCQnXf-vjXqxq-c4PrH3-6m8o8u-ctCrwf-6m8okS-55M9FE-amvEVw-55up3V-9NyWbq-diNzWE-9zjD2H-ctrmKf-mmRpk4-2k2AUx-6zutHb-9quDWx-4MLzSY-b7XoU8-6juyC9-KhQBjM-amsRgx-55LRLD-4MGqwn-wMBbjw-3ZRpmW-xJCfTR-5YCgZp-57QDF5-57QFYq-6bUH5y-f1JUj5-57QF7w-2MeFT-3ZRqN7-64cpXL-3sog6n-6RSRwZ-7AeePA-aCNuwZ-vmquGc-bZGm-ysgm7B-22EijS6-ZK6DPA\" target=\"_blank\">Seth Sawyers</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   }
 ]
