@@ -68,7 +68,7 @@
       },
       {
         "title": "Right to data portability",
-        "body": "<p>The GDPR introduces a new data portability right&nbsp;&ndash;&nbsp;the right, under certain circumstances,&nbsp;for an individual to receive personal data they have provided to the controller, or that has been gathered automatically by the controller.</p><p>This must be provided in a commonly used and machine readable format. Additionally, the individual has the right to request that the data is transmitted directly to another controller.</p>",
+        "body": "<p>The right to data portability allows individuals to obtain and reuse their personal data across different services. It allows them to copy or transfer personal data easily from one IT environment to another in secure way, without hindrance to usability. The right of portability only applies:</p><ul><li>to personal data directly provided by an individual</li><li>where the processing is based on the individual&rsquo;s consent or for the performance of a contract</li><li>when processing is carried out by automated means</li></ul>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -618,7 +618,7 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "5ae324b57f0f6d130535fd2b",
-    "body": "<p>Controllers are liable for their compliance with the GDPR and must only appoint processors who can provide &lsquo;sufficient guarantees&rsquo; that the requirements of the GDPR will be met and people&#39;s rights&nbsp;protected.</p><p>Processors must only act on the documented instructions of a controller and&nbsp;must not engage another processor without prior specific or general written authorisation of the controller. This said, processors are still required to comply with the law and contest any instruction from the controller that may result in illegal processing.</p><p>The processor must also fully comply with controllers instructions to delete or return all personal data to the controller at the end of the contract.&nbsp;</p>",
+    "body": "<p>Controllers are liable for their compliance with the GDPR and must only appoint processors who can provide &lsquo;sufficient guarantees&rsquo; that the requirements of the GDPR will be met and people&#39;s rights&nbsp;protected.</p><p>Processors must only act on the documented instructions of a controller and&nbsp;must not engage another processor without prior specific or general written authorisation of the controller. This said, processors are still required to comply with the law and contest any instruction from the controller that may result in illegal processing.</p><p>The processor must also fully comply with controllers&#39; instructions to delete or return all personal data to the controller at the end of the contract.&nbsp;</p>",
     "displayTitle": "Obligations of the processor",
     "title": "Obligations of the processor",
     "_isAvailable": true,
@@ -730,7 +730,7 @@
       },
       {
         "title": "Data breaches",
-        "body": "<p>The GDPR introduces a duty on all organisations to report any serious data breach to the relevant supervisory authority.</p><p>A personal data breach means a breach of security leading to the&nbsp;unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data. This includes both accidental and deliberate breaches.</p><p>You should ensure you have robust breach detection, investigation and internal reporting procedures in place. This will facilitate decision making about whether or not you need to notify the relevant supervisory authority and the affected individuals.<br /><br />Breach notification is mandatory where a data breach is likely to result in a risk for the rights and freedoms of individuals. You must do this within 72 hours of becoming aware of the breach.&nbsp;You must also&nbsp;inform those affected individuals without undue delay under certain conditions.</p><p>You must also&nbsp;keep a record of any personal data breaches, regardless of whether you are required to notify.</p>",
+        "body": "<p>The GDPR introduces a duty on all organisations to report any serious data breach to the relevant supervisory authority.</p><p>A personal data breach means a breach of security leading to the&nbsp;unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data. This includes both accidental and deliberate breaches.</p><p>You should ensure you have robust breach detection, investigation and internal reporting procedures in place. This will facilitate decision making about whether or not you need to notify the relevant supervisory authority and the affected individuals.<br /><br />Breach notification is mandatory where a data breach is likely to result in a risk for the rights and freedoms of individuals. You must do this within 72 hours of becoming aware of the breach. Under certain conditions, you must also&nbsp;inform the&nbsp;individuals affected.</p><p>You must also&nbsp;keep a record of any personal data breaches, regardless of whether you are required to notify.</p>",
         "_graphic": {
           "src": "course/en/assets/eb7c7b7bfff664aef851578a795efa612ea1a806.jpg",
           "alt": "",
@@ -2465,7 +2465,7 @@
     "_layout": "left",
     "_parentId": "5ae324b57f0f6d130535fd22",
     "_type": "component",
-    "body": "<p dir=\"ltr\">The GDPR replaces the existing data protection regulations throughout Europe. The GDPR is&nbsp;designed to provide&nbsp;a greater level of protection of fundamental rights and freedoms of individuals through accountability and transparency.</p><p dir=\"ltr\">The GDPR applies to the processing of all personal data by organisations in the EU, regardless of whether the processing takes place in the EU or not.</p><p dir=\"ltr\">Significant penalties and orders can be imposed on organisations who breach the GDPR, including fines of up to 20 million euros or 4% of a company&rsquo;s turnover (whichever is larger).</p><p dir=\"ltr\">One of main changes brought in by the GDPR is the addition or enhancement of a number of individual rights.</p><p dir=\"ltr\">The GDPR requires everyone to process personal data lawfully and communicate this basis clearly. This is done through an organisations privacy notice; the most visible part of the GDPR.</p><p dir=\"ltr\">For more details on the GDPR&nbsp;we recommend the dedicated <a href=\"https://gdpr-info.eu/\" target=\"_blank\">EU GDPR website</a>&nbsp;and the&nbsp;<a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner Office&nbsp;guide</a>. If you reside in a member state, then you should also check for additional data protection regulations specific to this state.</p>",
+    "body": "<p dir=\"ltr\">The GDPR replaces the existing data protection regulations throughout Europe. The GDPR is&nbsp;designed to provide&nbsp;a greater level of protection of fundamental rights and freedoms of individuals through accountability and transparency.</p><p dir=\"ltr\">The GDPR applies to the processing of all personal data by organisations in the EU, regardless of whether the processing takes place in the EU or not.</p><p dir=\"ltr\">Significant penalties and orders can be imposed on organisations who breach the GDPR, including fines of up to 20 million euros or 4% of a company&rsquo;s turnover (whichever is larger).</p><p dir=\"ltr\">One of main changes brought in by the GDPR is the addition or enhancement of a number of individual rights.</p><p dir=\"ltr\">The GDPR requires everyone to process personal data lawfully and communicate this basis clearly. This is done through an organisations privacy notice; the most visible part of the GDPR.</p><p dir=\"ltr\">For more details on the GDPR&nbsp;we recommend the dedicated <a href=\"https://gdpr-info.eu/\" target=\"_blank\">EU GDPR website</a>&nbsp;and the&nbsp;<a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner Office&nbsp;guide</a>&nbsp;for data protection laws in the UK. If you reside in another EU member state, then you should also check for additional data protection regulations specific to this state.</p>",
     "displayTitle": "Summary",
     "title": "Summary",
     "_isAvailable": true,
@@ -2752,7 +2752,7 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "5ae324b57f0f6d130535fd40",
-    "body": "<p>You work for a price comparison website who collect personal data in order to recommend energy companies to individuals. What is your lawful basis for collecting personal data?</p>",
+    "body": "<p>You work for a price comparison website that collects personal data in order to recommend energy companies to individuals. What is your lawful basis for collecting personal data?</p>",
     "displayTitle": "Establishing lawful basis for processing personal data",
     "title": "Establishing lawful basis for processing personal data",
     "_isAvailable": true,
@@ -3191,9 +3191,9 @@
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>Breach notification is mandatory where a data breach is likely to result in a risk for the rights and freedoms of individuals. You must do this within 72 hours of becoming aware of the breach.&nbsp;You must also&nbsp;inform those affected individuals without undue delay.</p><p>You must also&nbsp;keep a record of any personal data breaches, regardless of whether you are required to notify.</p>",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Breach notification is mandatory where a data breach is likely to result in a risk for the rights and freedoms of individuals. You must do this within 72 hours of becoming aware of the breach. Under certain circumstances, you must also&nbsp;inform those&nbsp;individuals affected.</p><p>You must also&nbsp;keep a record of any personal data breaches, regardless of whether you are required to notify.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>Breach notification is mandatory where a data breach is likely to result in a risk for the rights and freedoms of individuals. You must do this within 72 hours of becoming aware of the breach.&nbsp;You must also&nbsp;inform those affected individuals without undue delay.</p><p>You must also&nbsp;keep a record of any personal data breaches, regardless of whether you are required to notify.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Breach notification is mandatory where a data breach is likely to result in a risk for the rights and freedoms of individuals. You must do this within 72 hours of becoming aware of the breach. Under certain circumstances, you must also&nbsp;inform those&nbsp;individuals affected.</p><p>You must also&nbsp;keep a record of any personal data breaches, regardless of whether you are required to notify.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -3562,7 +3562,7 @@
     "_layout": "left",
     "_parentId": "5ae324b67f0f6d130535fd48",
     "_type": "component",
-    "body": "<p dir=\"ltr\">Under the GDPR, in certain circumstances, individuals have the right to request a copy of data they have provided. How much can be changed for this service?</p>",
+    "body": "<p dir=\"ltr\">Under the GDPR, in certain circumstances, individuals have the right to request a copy of data they have provided. How much can be charged for this service?</p>",
     "displayTitle": "Individual rights",
     "title": "Individual rights",
     "_isAvailable": true,
