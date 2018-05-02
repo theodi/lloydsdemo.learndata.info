@@ -1344,7 +1344,7 @@
     "_layout": "right",
     "_parentId": "5ae324b57f0f6d130535fd2f",
     "_type": "component",
-    "body": "<p>What is wrong with the privacy notice shown&nbsp;here?</p>",
+    "body": "<p>Privacy notices are one of the most visible aspects of GDPR adoption. In the UK the Information Commissioner&#39;s Office (ICO) provide a <a href=\"https://ico.org.uk/media/for-organisations/documents/1625136/good-and-bad-examples-of-privacy-notices.pdf\" target=\"_blank\">guide</a>&nbsp;to good and bad privacy notices.&nbsp;</p><p>Using the guide from the ICO to help you, what is wrong with the privacy notice shown&nbsp;here?</p>",
     "displayTitle": "Privacy notices",
     "title": "Privacy notices",
     "_isAvailable": true,
@@ -2465,7 +2465,7 @@
     "_layout": "left",
     "_parentId": "5ae324b57f0f6d130535fd22",
     "_type": "component",
-    "body": "<p dir=\"ltr\">The GDPR replaces the existing data protection regulations throughout Europe. The GDPR is&nbsp;designed to provide&nbsp;a greater level of protection of fundamental rights and freedoms of individuals through accountability and transparency.</p><p dir=\"ltr\">The GDPR applies to the processing of all personal data by organisations in the EU, regardless of whether the processing takes place in the EU or not.</p><p dir=\"ltr\">Significant penalties and orders can be imposed on organisations who breach the GDPR, including fines of up to 20 million euros or 4% of a company&rsquo;s turnover (whichever is larger).</p><p dir=\"ltr\">One of main changes brought in by the GDPR is the addition or enhancement of a number of individual rights.</p><p dir=\"ltr\">The GDPR requires everyone to process personal data lawfully and communicate this basis clearly. This is done through an organisations privacy notice; the most visible part of the GDPR.</p><p dir=\"ltr\">For more details on the GDPR&nbsp;we recommend the dedicated <a href=\"https://gdpr-info.eu/\" target=\"_blank\">EU GDPR website</a>&nbsp;and the&nbsp;<a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner Office&nbsp;guide</a>&nbsp;for data protection laws in the UK. If you reside in another EU member state, then you should also check for additional data protection regulations specific to this state.</p>",
+    "body": "<p dir=\"ltr\">The GDPR replaces the existing data protection regulations throughout Europe. The GDPR is&nbsp;designed to provide&nbsp;a greater level of protection of fundamental rights and freedoms of individuals through accountability and transparency.</p><p dir=\"ltr\">The GDPR applies to the processing of all personal data by organisations in the EU, regardless of whether the processing takes place in the EU or not.</p><p dir=\"ltr\">Significant penalties and orders can be imposed on organisations who breach the GDPR, including fines of up to 20 million euros or 4% of a company&rsquo;s turnover (whichever is larger).</p><p dir=\"ltr\">One of main changes brought in by the GDPR is the addition or enhancement of a number of individual rights.</p><p dir=\"ltr\">The GDPR requires everyone to process personal data lawfully and communicate this basis clearly. This is done through an organisations privacy notice; the most visible part of the GDPR.</p><p dir=\"ltr\">For more details on the GDPR&nbsp;we recommend the dedicated <a href=\"https://gdpr-info.eu/\" target=\"_blank\">EU GDPR website</a>&nbsp;and the&nbsp;<a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner&#39;s Office&nbsp;guide</a>&nbsp;for data protection laws in the UK. If you reside in another EU member state, then you should also check for additional data protection regulations specific to this state.</p>",
     "displayTitle": "Summary",
     "title": "Summary",
     "_isAvailable": true,
@@ -3663,7 +3663,7 @@
     "_layout": "right",
     "_parentId": "5ae324b67f0f6d130535fd49",
     "_type": "component",
-    "body": "<p>What is wrong with the privacy notice shown here?</p>",
+    "body": "<p>Privacy notices are one of the most visible aspects of GDPR adoption. In the UK the Information Commissioner&#39;s Office (ICO) provide a <a href=\"https://ico.org.uk/media/for-organisations/documents/1625136/good-and-bad-examples-of-privacy-notices.pdf\" target=\"_blank\">guide</a>&nbsp;to good and bad privacy notices.&nbsp;</p><p>Using the guide from the ICO to help you, what is wrong with the privacy notice shown&nbsp;here?</p>",
     "displayTitle": "Privacy notices",
     "title": "Privacy notices",
     "_isAvailable": true,
@@ -3774,7 +3774,7 @@
     "_layout": "right",
     "_parentId": "5ae324b67f0f6d130535fd4a",
     "_type": "component",
-    "body": "<p>What is wrong with the privacy notice shown here?</p>",
+    "body": "<p>Privacy notices are one of the most visible aspects of GDPR adoption. In the UK the Information Commissioner&#39;s Office (ICO) provide a <a href=\"https://ico.org.uk/media/for-organisations/documents/1625136/good-and-bad-examples-of-privacy-notices.pdf\" target=\"_blank\">guide</a>&nbsp;to good and bad privacy notices.&nbsp;</p><p>Using the guide from the ICO to help you, what is wrong with the privacy notice shown&nbsp;here?</p>",
     "displayTitle": "Privacy notices",
     "title": "Privacy notices",
     "_isAvailable": true,
@@ -4205,7 +4205,7 @@
     "_layout": "full",
     "_type": "component",
     "_parentId": "5ae324b67f0f6d130535fd4e",
-    "body": "",
+    "body": "<p>Complete the assessment to see your result here.</p>",
     "displayTitle": "How did you do?",
     "title": "How did you do?",
     "_isAvailable": true,
@@ -4226,19 +4226,19 @@
     "_bands": [
       {
         "_score": 0,
-        "feedback": "Could do better! You achieved a score of {{score}}/10.  The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz!",
+        "feedback": "<h2>Could do better!</h2><b>You achieved a score of {{score}}/10</b>.<br/>A score of at least 8/10 is required to pass.<br/><br/> The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.",
         "_allowRetry": true,
         "_classes": ""
       },
       {
         "_score": 50,
-        "feedback": "You got half or more right, achieving a score of {{score}}/10.  You have some good knowledge but need to brush up in a few areas. Take a look back at the practical lessons to help fill the gaps in your knowledge. ",
+        "feedback": "<h2>Could do better!</h2><b>You achieved a score of {{score}}/10</b>.<br/>A score of at least 8/10 is required to pass.<br/><br/>The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.",
         "_allowRetry": true,
         "_classes": ""
       },
       {
         "_score": 80,
-        "feedback": "You passed, well done! ({{score}}/10).",
+        "feedback": "<b>You passed, well done! ({{score}}/10)</b>",
         "_allowRetry": true,
         "_classes": ""
       }
