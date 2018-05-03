@@ -66,7 +66,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 5,
-    "_classes": "summary footer",
+    "_classes": "summary footer inverted",
     "body": "",
     "displayTitle": "",
     "title": "Block title",
@@ -127,7 +127,7 @@
     "_isOptional": false,
     "_trackingId": 9,
     "_classes": "color-one",
-    "body": "<p>Thought leaders in the insurance industry such as the <a href=\"https://www.abi.org.uk/news/blog-articles/2017/10/gdpr-catalyst-or-deterrent-for-innovation-in-insurance/\">ABI</a>, <a href=\"https://www.pwc.co.uk/industries/financial-services/regulation/are-you-ready-for-the-general-data-protection-regulation.html\">PWC</a>, and <a href=\"http://www.hitachi-solutions.co.uk/wp-content/uploads/2017/09/GDPR-WP-Sept-2017-Final-1.pdf\">Hitachi</a> all agree: GDPR is a big shake-up, and will cause significant disruption to how insurers store, manage and process personal data.&nbsp;However, it should also be treated as an opportunity to provide better, more efficient services to customers.</p>",
+    "body": "<p>Thought leaders in the insurance industry such as the <a href=\"https://www.abi.org.uk/news/blog-articles/2017/10/gdpr-catalyst-or-deterrent-for-innovation-in-insurance/\" target=\"_blank\">ABI</a>, <a href=\"https://www.pwc.co.uk/industries/financial-services/regulation/are-you-ready-for-the-general-data-protection-regulation.html\" target=\"_blank\">PwC</a>, and <a href=\"http://www.hitachi-solutions.co.uk/wp-content/uploads/2017/09/GDPR-WP-Sept-2017-Final-1.pdf\" target=\"_blank\">Hitachi</a> all agree: GDPR is a big shake-up, and will cause significant disruption to how insurers store, manage and process personal data.&nbsp;However, it should also be treated as an opportunity to provide better, more efficient services to customers.</p>",
     "displayTitle": "Impacts of the GDPR",
     "title": "Impacts of the GDPR",
     "_assessment": {

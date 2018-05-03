@@ -428,7 +428,7 @@
       },
       {
         "title": "Reduction in data storage costs",
-        "body": "<p>Better management and control over personal data in an organisation can help deduplicate customer records as well as identify data that is no longer required.&nbsp;</p><p>As well as being able to <a href=\"https://storageservers.wordpress.com/2014/12/23/a-look-into-data-deduplication-feature-and-its-advantages/\">reduce storage costs significantly,</a>&nbsp;deduplication can also help identify links between products that are offered and which customers purchase a multitude of&nbsp;products.</p>",
+        "body": "<p>Better management and control over personal data in an organisation can help deduplicate customer records as well as identify data that is no longer required.&nbsp;</p><p>As well as being able to <a href=\"https://storageservers.wordpress.com/2014/12/23/a-look-into-data-deduplication-feature-and-its-advantages/\" target=\"_blank\">reduce storage costs significantly,</a>&nbsp;deduplication can also help identify links between products that are offered and which customers purchase a multitude of&nbsp;products.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -697,48 +697,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "5ae324b67f0f6d130535fdb3",
-    "_layout": "full",
-    "_parentId": "5ae324b57f0f6d130535fd1e",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Other organisational obligations",
-    "title": "Other organisational obligations",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "inview",
-    "_items": [
-      {
-        "title": "Data protection officers",
-        "body": "<p>The GDPR requires the appointment of a data protection officer (DPO) if you are a public authority&nbsp;or if you carry out certain types of processing activities involving large scales of personal data or&nbsp;special categories of personal data.&nbsp;Other organisations can appoint DPOs too.</p><p>DPOs&nbsp;monitor internal compliance, inform and advise on your data protection obligations, provide advice regarding Data Protection Impact Assessments (DPIAs) and act as a contact point for the organisation both internally and externally.</p><p>The DPO must be independent, an expert in data protection, adequately resourced, and report to the highest management level.</p>",
-        "_graphic": {
-          "src": "course/en/assets/7dc322f66f88a2c72a1b38247ba913885a8569cf.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.pexels.com/photo/brown-concrete-building-with-pillars-against-clear-skies-121732/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
-        },
-        "strapline": "Data protection officers"
-      },
-      {
-        "title": "Data breaches",
-        "body": "<p>The GDPR introduces a duty on all organisations to report any serious data breach to the relevant supervisory authority.</p><p>A personal data breach means a breach of security leading to the&nbsp;unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data. This includes both accidental and deliberate breaches.</p><p>You should ensure you have robust breach detection, investigation and internal reporting procedures in place. This will facilitate decision making about whether or not you need to notify the relevant supervisory authority and the affected individuals.<br /><br />Breach notification is mandatory where a data breach is likely to result in a risk for the rights and freedoms of individuals. You must do this within 72 hours of becoming aware of the breach. Under certain conditions, you must also&nbsp;inform the&nbsp;individuals affected.</p><p>You must also&nbsp;keep a record of any personal data breaches, regardless of whether you are required to notify.</p>",
-        "_graphic": {
-          "src": "course/en/assets/eb7c7b7bfff664aef851578a795efa612ea1a806.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.flickr.com/photos/132053576@N03/17765606909/\" target=\"_blank\">Owen Moore</a> <span class='assetLicence'>[CC-BY]</span>"
-        },
-        "strapline": "Reporting data breaches"
-      }
-    ]
   },
   {
     "_id": "5ae324b67f0f6d130535fdaf",
@@ -1168,6 +1126,29 @@
       },
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5aeadf93dcb281370519244d",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5ae324b57f0f6d130535fd1e",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0aff27048c7040bc8d25a3ef20f76f1798fc69a4.jpeg",
+      "small": "course/en/assets/0aff27048c7040bc8d25a3ef20f76f1798fc69a4.jpeg",
+      "attribution": "<a href=\"https://www.freepik.com/free-photo/silhouette-of-an-executive-holding-a-clipboard_864239.htm#term=boardroom&page=1\" target=\"_blank\">Pressfoto / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -2158,7 +2139,7 @@
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>&nbsp;</p><p dir=\"ltr\"><a href=\"http://ec.europa.eu/justice/data-protection/reform/files/regulation_oj_en.pdf#page=33\">Under the GDPR&nbsp;</a>&rsquo;personal data; means any information relating to an identified or identifiable person.&nbsp;</p><p>This covers any piece of information that can result in the identification of a person, either&nbsp;directly or indirectly.</p><p>Names are not needed to identify someone;&nbsp;you probably don&#39;t know the names of all your neighbours but you can identify them in a picture. A digital picture may also offer other information, such as location and timestamp.</p>",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p dir=\"ltr\"><a href=\"http://ec.europa.eu/justice/data-protection/reform/files/regulation_oj_en.pdf#page=33\" target=\"_blank\">Under the GDPR&nbsp;</a>&rsquo;personal data; means any information relating to an identified or identifiable person.&nbsp;</p><p>This covers any piece of information that can result in the identification of a person, either&nbsp;directly or indirectly.</p><p>Names are not needed to identify someone;&nbsp;you probably don&#39;t know the names of all your neighbours but you can identify them in a picture. A digital picture may also offer other information, such as location and timestamp.</p>",
       "_incorrect": {
         "final": "<p><strong>Are you sure about that?</strong></p><p>&nbsp;</p><p dir=\"ltr\"><a href=\"http://ec.europa.eu/justice/data-protection/reform/files/regulation_oj_en.pdf#page=33\">Under the GDPR&nbsp;</a>&rsquo;personal data; means any information relating to an identified or identifiable person.&nbsp;</p><p>This covers any piece of information that can result in the identification of a person, either&nbsp;directly or indirectly.</p><p>Names are not needed to identify someone;&nbsp;you probably don&#39;t know the names of all your neighbours but you can identify them in a picture. A digital picture may also offer other information, such as location and timestamp.</p>",
         "notFinal": ""
@@ -2585,6 +2566,46 @@
       "small": "course/en/assets/14bb855951dfe14c5a20171da1f99337cb140ca1.jpg",
       "attribution": "<a href=\"https://www.freepik.com/index.php?goto=74&idfoto=861919&term=people%20silhouette\" target=\"_blank\">Kjpargeter / Freepik / ODI</a> <span class='assetLicence'>[CC-BY]</span>"
     }
+  },
+  {
+    "_id": "5aeade8edcb281370519244c",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5ae324b57f0f6d130535fd1e",
+    "body": "<p>The GDPR introduces a duty on all organisations to report any serious data breach to the relevant supervisory authority. Additionally,&nbsp;an organisation may be required to appoint&nbsp;a data protection officer.</p>",
+    "displayTitle": "Other organisational obligations",
+    "title": "Other organisational obligations",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Find out more about data breaches and data protection officers below:",
+    "_items": [
+      {
+        "title": "Data breaches",
+        "body": "<p>The GDPR introduces a duty on all organisations to report any serious data breach to the relevant supervisory authority.</p><p>A personal data breach means a breach of security leading to the&nbsp;unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data. This includes both accidental and deliberate breaches.</p><p>You should ensure you have robust breach detection, investigation and internal reporting procedures in place. This will facilitate decision making about whether or not you need to notify the relevant supervisory authority and the affected individuals.<br /><br />Breach notification is mandatory where a data breach is likely to result in a risk for the rights and freedoms of individuals. You must do this within 72 hours of becoming aware of the breach. Under certain conditions, you must also&nbsp;inform the&nbsp;individuals affected.</p><p>You must also&nbsp;keep a record of any personal data breaches, regardless of whether you are required to notify.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data protection officers",
+        "body": "<p>The GDPR requires the appointment of a data protection officer (DPO) if you are a public authority&nbsp;or if you carry out certain types of processing activities involving large scales of personal data or&nbsp;special categories of personal data.&nbsp;Other organisations can appoint DPOs too.</p><p>DPOs&nbsp;monitor internal compliance, inform and advise on your data protection obligations, provide advice regarding Data Protection Impact Assessments (DPIAs) and act as a contact point for the organisation both internally and externally.</p><p>The DPO must be independent, an expert in data protection, adequately resourced, and report to the highest management level.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
   },
   {
     "_id": "5ae324b67f0f6d130535fde5",
@@ -4165,7 +4186,7 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "5ae324b57f0f6d130535fd32",
-    "body": "<p>Test your knowledge of the GDPR with the 10 questions below.&nbsp;</p><p><strong>Warning</strong>: Do not leave your assessment session as you will not be able to resume your assessment.&nbsp;</p>",
+    "body": "<p>Are you ready for GDPR at Lloyd&#39;s of London?&nbsp;</p><p>Please scroll down to progress through the quiz questions.&nbsp;Feedback will appear indicating if you have chosen the right answer.</p><p>To pass you need to get 80% right.&nbsp;You will be advised if you have passed or failed once you have completed the questions.</p><p><strong>Warning</strong>: Do not leave your assessment session as you will not be able to resume your assessment.</p>",
     "displayTitle": "Test your knowledge of the GDPR",
     "title": "Test your knowledge of the GDPR",
     "_isAvailable": true,
@@ -4226,19 +4247,19 @@
     "_bands": [
       {
         "_score": 0,
-        "feedback": "<h2>Could do better!</h2><b>You achieved a score of {{score}}/10</b>.<br/>A score of at least 8/10 is required to pass.<br/><br/> The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.",
+        "feedback": "<h2>Could do better!</h2><b>You achieved a result of {{scoreAsPercent}}%</b>.<br/>A result of at least 80% is required to pass.<br/><br/> The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.",
         "_allowRetry": true,
         "_classes": ""
       },
       {
         "_score": 50,
-        "feedback": "<h2>Could do better!</h2><b>You achieved a score of {{score}}/10</b>.<br/>A score of at least 8/10 is required to pass.<br/><br/>The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.",
+        "feedback": "<h2>Could do better!</h2><b>You achieved a result of {{scoreAsPercent}}%</b>.<br/>A result of at least 80% is required to pass.<br/><br/> The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.",
         "_allowRetry": true,
         "_classes": ""
       },
       {
         "_score": 80,
-        "feedback": "<b>You passed, well done! ({{score}}/10)</b>",
+        "feedback": "<h1>You passed, well done! {{scoreAsPercent}}%</h1>",
         "_allowRetry": true,
         "_classes": ""
       }

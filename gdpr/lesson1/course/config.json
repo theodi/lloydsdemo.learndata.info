@@ -62,8 +62,8 @@
       "adapt-contrib-text",
       "adapt-contrib-accordion",
       "adapt-contrib-graphic",
-      "adapt-contrib-narrative",
       "adapt-contrib-mcq",
+      "adapt-contrib-narrative",
       "adapt-contrib-assessmentResults"
     ]
   }

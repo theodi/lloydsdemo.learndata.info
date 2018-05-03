@@ -25,19 +25,19 @@
     "_bands": [
       {
         "_score": 0,
-        "feedback": "<h2>Could do better!</h2><b>You achieved a score of {{score}}/10</b>.<br/>A score of at least 8/10 is required to pass.<br/><br/> The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.",
+        "feedback": "<h2>You achieved a result of {{scoreAsPercent}}%</h2><br/><b>Could do better!</b><br/><br/>A result of at least 80% is required to pass.<br/><br/> The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.",
         "_allowRetry": true,
         "_classes": ""
       },
       {
         "_score": 50,
-        "feedback": "<h2>Could do better!</h2><b>You achieved a score of {{score}}/10</b>.<br/>A score of at least 8/10 is required to pass.<br/><br/>The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.",
+        "feedback": "<h2>You achieved a result of {{scoreAsPercent}}%</h2><br/><b>Could do better!</b><br/><br/>A result of at least 80% is required to pass.<br/><br/> The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.",
         "_allowRetry": true,
         "_classes": ""
       },
       {
         "_score": 80,
-        "feedback": "<b>You passed, well done! ({{score}}/10)</b>",
+        "feedback": "<h2>You passed, well done! {{scoreAsPercent}}%</h2>",
         "_allowRetry": true,
         "_classes": ""
       }
@@ -251,7 +251,7 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "5ae315da7f0f6d130535f747",
-    "body": "<p>Thought leaders in the insurance industry such as the&nbsp;<a href=\"https://www.abi.org.uk/news/blog-articles/2017/10/gdpr-catalyst-or-deterrent-for-innovation-in-insurance/\" target=\"_blank\">ABI</a>,&nbsp;<a href=\"https://www.pwc.co.uk/industries/financial-services/regulation/are-you-ready-for-the-general-data-protection-regulation.html\" target=\"_blank\">PWC</a>, and&nbsp;<a href=\"http://www.hitachi-solutions.co.uk/wp-content/uploads/2017/09/GDPR-WP-Sept-2017-Final-1.pdf\" target=\"_blank\">Hitachi</a>&nbsp;all agree: GDPR is a big shake-up, and will cause significant disruption to how insurers store, manage and process personal data.&nbsp;However, it should also be treated as an opportunity to provide better, more efficient services to customers.</p>",
+    "body": "<p>Thought leaders in the insurance industry such as the&nbsp;<a href=\"https://www.abi.org.uk/news/blog-articles/2017/10/gdpr-catalyst-or-deterrent-for-innovation-in-insurance/\" target=\"_blank\">ABI</a>,&nbsp;<a href=\"https://www.pwc.co.uk/industries/financial-services/regulation/are-you-ready-for-the-general-data-protection-regulation.html\" target=\"_blank\">PwC</a>, and&nbsp;<a href=\"http://www.hitachi-solutions.co.uk/wp-content/uploads/2017/09/GDPR-WP-Sept-2017-Final-1.pdf\" target=\"_blank\">Hitachi</a>&nbsp;all agree: GDPR is a big shake-up, and will cause significant disruption to how insurers store, manage and process personal data.&nbsp;However, it should also be treated as an opportunity to provide better, more efficient services to customers.</p>",
     "displayTitle": "",
     "title": "What are the impacts of the GDPR for Lloyd's of London?",
     "_isAvailable": true,
@@ -492,6 +492,23 @@
     "body": "<p>One of main changes&nbsp;brought in by the GDPR is the addition or enhancement of a number of individual&nbsp;rights. Depending on the lawful basis individuals have the right to:</p><ul><li>be informed about how personal data about them is being&nbsp;being processed;</li><li>be given a description of the personal data, the reasons it is being processed, and whether it will be given to any other organisations or people;</li><li>be given a copy of the information comprising the data; and given details of the source of the data (where this is available).</li></ul><p>An individual can also request information about the reasoning behind any automated decisions, such as a computer-generated decision to grant or deny credit.</p><p>If you receive a data subject request (including a subject access request) you should immediately contact the Data Protection Office at data.protection@lloyds.com. Failure to do so could result in the request not being responded to within the legal time frame.&nbsp;</p>",
     "displayTitle": "Respecting the rights of individuals",
     "title": "Respecting the rights of individuals",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5ae315da7f0f6d130535f7f0",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5ae315da7f0f6d130535f762",
+    "body": "<p>Are you ready for GDPR at Lloyd&#39;s of London?&nbsp;</p><p>Please scroll down to progress through the quiz questions.&nbsp;Feedback will appear indicating if you have chosen the right answer.</p><p>To pass you need to get 80% right.&nbsp;You will be advised if you have passed or failed once you have completed the questions.</p><p><strong>Warning</strong>: Do not leave your assessment session as you will not be able to resume your assessment.</p>",
+    "displayTitle": "Test your knowledge of how the GDPR affects your role at Lloyd's of London",
+    "title": "Test your knowledge of how the GDPR affects your role at Lloyd's of London",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -812,7 +829,7 @@
     "_layout": "right",
     "_type": "component",
     "_parentId": "5ae315da7f0f6d130535f746",
-    "body": "<p>The data covered by the GDPR is &lsquo;<strong>personal data</strong>&rsquo;. This means any information relating to a living person who can be directly or indirectly identified, in particular by reference to an identifier such as an email address or date of birth.<br /><br />In the case of Lloyd&rsquo;s, data that would fall into the scope of &lsquo;personal data&#39; includes (but is not limited to):&nbsp; HR and employee records, supplier&nbsp;lists, member information, market participation information, third party&nbsp;information, complaints information,&nbsp;and, in certain circumstances, policy holder information.</p>",
+    "body": "<p>The data covered by the GDPR is &lsquo;<strong>personal data</strong>&rsquo;. This means any information relating to a living person who can be directly or indirectly identified, in particular by reference to an identifier such as an email address or date of birth.<br /><br />In the case of Lloyd&rsquo;s, data that would fall into the scope of &lsquo;personal data&#39; includes (but is not limited to):&nbsp; HR and employee records, supplier&nbsp;lists, member information, market participation information, third party&nbsp;information, complaints information,&nbsp;and, in certain circumstances, policyholder information.</p>",
     "displayTitle": "",
     "title": "What data processed and held by Lloyd's is subject to the GDPR?",
     "_isAvailable": true,
@@ -846,23 +863,6 @@
       "small": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
-  },
-  {
-    "_id": "5ae315da7f0f6d130535f7f0",
-    "_layout": "full",
-    "_type": "component",
-    "_parentId": "5ae315da7f0f6d130535f762",
-    "body": "<p>Are you ready for GDPR at Lloyd&#39;s of London? Scroll down to test your knowledge of how the GDPR affects your role at Lloyd&#39;s of London&nbsp;with the 10 questions below.&nbsp;</p><p><strong>Warning</strong>: Do not leave your assessment session as you will not be able to resume your assessment.</p>",
-    "displayTitle": "Test your knowledge of how the GDPR affects your role at Lloyd's of London",
-    "title": "Test your knowledge of how the GDPR affects your role at Lloyd's of London",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
   },
   {
     "_id": "5ae315da7f0f6d130535f7d4",
