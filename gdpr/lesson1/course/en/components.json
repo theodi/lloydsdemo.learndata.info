@@ -4247,19 +4247,19 @@
     "_bands": [
       {
         "_score": 0,
-        "feedback": "<h2>Could do better!</h2><b>You achieved a result of {{scoreAsPercent}}%</b>.<br/>A result of at least 80% is required to pass.<br/><br/> The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.",
+        "feedback": "<h2>{{scoreAsPercent}}%</h2><br/><b>Could do better!</b><br/><br/>A result of at least 80% is required to pass.<br/><br/> The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.",
         "_allowRetry": true,
         "_classes": ""
       },
       {
         "_score": 50,
-        "feedback": "<h2>Could do better!</h2><b>You achieved a result of {{scoreAsPercent}}%</b>.<br/>A result of at least 80% is required to pass.<br/><br/> The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.",
+        "feedback": "<h2>{{scoreAsPercent}}%</h2><br/><b>Could do better!</b><br/><br/>A result of at least 80% is required to pass.<br/><br/>You have some good knowledge but need to brush up in a few areas. Take a look back at the practical lessons to help fill the gaps in your knowledge. ",
         "_allowRetry": true,
         "_classes": ""
       },
       {
         "_score": 80,
-        "feedback": "<h1>You passed, well done! {{scoreAsPercent}}%</h1>",
+        "feedback": "<h2>{{scoreAsPercent}}%</h2><br/><b>You passed, well done!</b><br/><br/>You have now completed the assessment and can close this window/tab.",
         "_allowRetry": true,
         "_classes": ""
       }
