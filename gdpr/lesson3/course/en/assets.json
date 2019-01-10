@@ -1,0 +1,151 @@
+{
+  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
+    "title": "ODI Learning Roundal Green-Blue",
+    "description": "Main ODI logo",
+    "source": "http://theodi.org/",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": [
+      {
+        "title": "ODI logo",
+        "_id": "58481cbf4d7b7e82691e4bc0"
+      },
+      {
+        "title": "intro logo",
+        "_id": "58beddf9d084d5167a04ae89"
+      }
+    ]
+  },
+  "a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png": {
+    "title": "Burst white",
+    "description": "Source: ODI",
+    "tags": [
+      {
+        "title": "ODI splash",
+        "_id": "58480b904d7b7e82691e4bb2"
+      }
+    ]
+  },
+  "91d7d44849aaa32d953399c315d3338572889c74.png": {
+    "title": "ODI Burst theme colour",
+    "description": "Takes the theme colour as it's background colour",
+    "tags": []
+  },
+  "39c343aca81e82ac6fbc3702050816c1269be49f.jpg": {
+    "title": "733.jpg",
+    "description": "Close-up of judges gavel",
+    "source": "http://www.freepik.com",
+    "licence": "CC-BY",
+    "attribution": "awesomecontent / Freepik",
+    "tags": []
+  },
+  "6b0815e5da4596e0ae1e03ee73c1ae48b74c18f4.jpg": {
+    "title": "People faces",
+    "description": "People faces audience",
+    "source": "http://www.freepik.com/free-vector/nice-people-avatars-in-flat-design_844761.htm#term=people&page=1&position=26",
+    "licence": "CC-BY",
+    "attribution": "Freepik",
+    "tags": [
+      {
+        "title": "people",
+        "_id": "584ed53e4e62ce485eb14558"
+      },
+      {
+        "title": "audience",
+        "_id": "58fdddbad084d5167a04dccc"
+      },
+      {
+        "title": "face",
+        "_id": "58fdddbbd084d5167a04dccd"
+      }
+    ]
+  },
+  "403451836f853eb59b55e64e924b44daf603ff18.png": {
+    "title": "Computer wallpaper with icons",
+    "description": "Computer wallpaper with icons",
+    "source": "https://www.freepik.com/free-vector/computer-wallpaper-with-icons_1087359.htm#term=request&page=1&position=5",
+    "licence": "CC-BY",
+    "attribution": "Freepik",
+    "tags": []
+  },
+  "647bc36a181b6051c7606c3f90d785a03671901c.png": {
+    "title": "Data lifecycle",
+    "description": "Data lifecycle",
+    "source": "https://www.nexor.com/wp/wp-content/uploads/2017/03/Enabling-Secure-Information-Exchange-in-Cloud-environments-white-paper-diagram-1.png",
+    "licence": "All rights reserved",
+    "attribution": "Nexor",
+    "tags": []
+  },
+  "5171f0548033d1898a0322fdb2e9245ff2cad10b.png": {
+    "title": " Anonymous worker",
+    "description": "Anonymous worker",
+    "source": "https://www.freepik.com/free-vector/anonymous-worker_931287.htm#term=anonymous&page=1&position=0",
+    "licence": "CC-BY",
+    "attribution": "Ibrandify / Freepik",
+    "tags": []
+  },
+  "1ae320099f47473b5aad51b02874e8d011ccecef.jpg": {
+    "title": "Contractual document",
+    "description": "Contractual document",
+    "source": "https://www.pexels.com/photo/sign-pen-business-document-48148/",
+    "licence": "CC0",
+    "attribution": "Pixabay",
+    "tags": []
+  },
+  "2249240d21c144badd90c5b70215369fd1517610.jpg": {
+    "title": "Rolodex",
+    "description": "Rolodex",
+    "source": "https://www.flickr.com/photos/sidewalk_flying/2421382093/in/photolist-4FYdx8-aw5nsY-ctCrvy-kZSzJ3-c4NKt5-bCQnXf-vjXqxq-c4PrH3-6m8o8u-ctCrwf-6m8okS-55M9FE-amvEVw-55up3V-9NyWbq-diNzWE-9zjD2H-ctrmKf-mmRpk4-2k2AUx-6zutHb-9quDWx-4MLzSY-b7XoU8-6juyC9-KhQBjM-amsRgx-55LRLD-4MGqwn-wMBbjw-3ZRpmW-xJCfTR-5YCgZp-57QDF5-57QFYq-6bUH5y-f1JUj5-57QF7w-2MeFT-3ZRqN7-64cpXL-3sog6n-6RSRwZ-7AeePA-aCNuwZ-vmquGc-bZGm-ysgm7B-22EijS6-ZK6DPA",
+    "licence": "CC-BY",
+    "attribution": "Seth Sawyers",
+    "tags": []
+  },
+  "0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg": {
+    "title": "data-lifecycle",
+    "description": "data-lifecycle",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "23cd95335b7d50cbb539e196dc5df4543ddba989.png": {
+    "title": "Lloyd's PPL Global",
+    "description": "Lloyd's PPL Global",
+    "source": "https://tomsupports.london/placing-platform-limited",
+    "licence": "All rights reserved",
+    "attribution": "London Market Group",
+    "tags": []
+  },
+  "ad76b307b95614fe4787e34ed2eeefd4c4c7e8e4.png": {
+    "title": "Lloyd's files",
+    "description": "Lloyd's files",
+    "source": "https://tomsupports.london/placing-platform-limited",
+    "licence": "All rights reserved",
+    "attribution": "London Market Group",
+    "tags": []
+  },
+  "96b6cd0425d0e6c097364266c019094dfabaea62.jpg": {
+    "title": "achievement action adventure trust",
+    "description": "achievement action adventure trust",
+    "source": "https://www.pexels.com/photo/achievement-action-adventure-backlit-209209/",
+    "licence": "CC0",
+    "attribution": "Pixabay",
+    "tags": []
+  },
+  "6d4b41794aea1a80d14783b0076bc75380ea4c83.png": {
+    "title": "Lloyd's process desk",
+    "description": "Lloyd's process desk",
+    "source": "https://tomsupports.london/placing-platform-limited",
+    "licence": "All rights reserved",
+    "attribution": "London Market Group",
+    "tags": []
+  },
+  "0ce659b95a5fc40b79769cf1172c40669864fa30.jpg": {
+    "title": "architecture blue building sky scraper",
+    "description": "architecture blue building sky scraper",
+    "source": "https://www.pexels.com/photo/architecture-blue-building-business-373557/",
+    "licence": "CC0",
+    "attribution": "Pixabay",
+    "tags": []
+  }
+}

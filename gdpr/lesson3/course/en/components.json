@@ -1,0 +1,1481 @@
+[
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data Protection: An Opportunity for Growth",
+    "displayTitle": "Data Protection: An Opportunity for Growth",
+    "body": "<p>Data protection is of paramount importance and this covers both market-sensitive data and personal data.&nbsp;Lloyd&rsquo;s sees such regulations as an opportunity to streamline the delivery of data services, increase trust and deliver growth in the market.</p><p>In this lesson we&rsquo;ll explore:</p><ul><li>Why data protection regulations are an opportunity, not simply a compliance exercise</li><li>Streamlining the global transfer of data</li><li>Using standards to deliver compliance and efficiency</li><li>Opportunities to improve data management</li><li>Advantages of reducing unnecessary data and process duplication</li><li>How data protection regulations strengthen customer trust</li><li>Why respecting the rights of individuals is critical</li></ul>",
+    "instruction": "",
+    "_id": "5c372c6f5b80120554175379",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175357",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q10: Contacts for data protection enquiries",
+    "displayTitle": "Contacts for data protection enquiries",
+    "body": "<p>If you have questions or concerns about data protection or require help to enable you to work with personal data what should you do?</p>",
+    "instruction": "Select one answer then click 'submit'",
+    "_id": "5c372c6f5b801205541753b0",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b8012055417536f",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "Talk to your line manager"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": true,
+        "text": "Contact the Data Protection Office"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "Keep them to yourself "
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The Data Protection office should be your first point of contact for all GDPR enquiries. You can contact the DPO at <a href=\"mailto:data.protection@lloyds.com\">data.protection@lloyds.com</a></p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The Data Protection office should be your first point of contact for all GDPR enquiries. You can contact the DPO at <a href=\"mailto:data.protection@lloyds.com\">data.protection@lloyds.com</a></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c372c6f5b80120554175397",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b8012055417536c",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "small": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/sign-pen-business-document-48148/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Why data protection regulations are an opportunity, not simply a compliance exercise",
+    "displayTitle": "Introduction",
+    "body": "<p>Data protection is of paramount importance and this covers both market-sensitive data and personal data. Recent changes in data protection regulations &ndash; notably the EU General Data Protection Regulation (GDPR) &ndash; mean that organisations not only have increased compliance responsibilities, but they must also respect the <a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/\" target=\"_blank\">individuals&rsquo; personal data rights</a>.</p><p>Lloyd&rsquo;s sees such regulations as an opportunity to streamline the delivery of data services, increase trust and deliver growth in the market.&nbsp;</p><p>Moving away from loosely connected paper systems to streamlined digital services leads to benefits such as a significant reduction in audits for coverholders. Such systems include growth-focused common standards and data management practices that also encapsulate regulation compliance. Why take the risk of utilising outdated practices?</p>",
+    "instruction": "",
+    "_id": "5c372c6f5b80120554175384",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175361",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c372c6f5b80120554175378",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175357",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "attribution": "",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "alt": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Streamlining the global transfer of data",
+    "displayTitle": "Streamlining the global transfer of data",
+    "body": "<p>One key aspect of the new data protection regulations is the increased clarity determining with whom data can be shared. The GDPR also provides standardisation of data protection laws across all European member states, making it easier for organisations to provide services to people in the EU.&nbsp;</p><p>Transfers outside of the EU may be made:</p><ul><li>to locations that the European Commission decide provide an adequate level of protection</li><li>to organisations where appropriate protection is provided through contractual clauses</li><li>with the individual&#39;s informed consent</li><li>where it is absolutely necessary to fulfil the lawful basis</li></ul>",
+    "instruction": "",
+    "_id": "5c372c6f5b8012055417537a",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175358",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "How data protection regulations strengthen customer trust",
+    "displayTitle": "How data protection regulations strengthen customer trust",
+    "body": "<p>Insurance was established as a trust mechanism, providing a service to cover risk. Today, the element of trust between customer and insurer &lsquo;<a href=\"http://www.hitachi-solutions.co.uk/wp-content/uploads/2017/09/GDPR-WP-Sept-2017-Final-1.pdf\" target=\"_blank\">skates on thin ice</a>&rsquo;.&nbsp;</p><p><a href=\"https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2017/11/ico-survey-shows-most-uk-citizens-don-t-trust-organisations-with-their-data/\" target=\"_blank\">Research from the Information Commissioner&#39;s Office</a>, the UK&#39;s independent body set up to uphold information rights, found that only 20% of the UK public have trust and confidence in companies and organisations storing personal information.&nbsp;</p><p><a href=\"https://theodi.org/article/who-do-we-trust-with-personal-data-odi-commissioned-survey-reveals-most-and-least-trusted-sectors-across-europe/\" target=\"_blank\">A more detailed study by the Open Data Institute</a> found that within the commercial sector, 57% of consumers trust banks with personal information while only 22% trust online retailers. One third (33%) of respondents said clearer explanation about how personal data is used would make them feel more comfortable .&nbsp;</p><p>Lloyd&rsquo;s has already taken key steps to not only improve privacy notices, but to take a lead in ensuring that they are clear for everyone to read and understand, such as the <a href=\"https://www.lloydsbridge.com/assets/Lloyds%20Bridge%20Privacy%20Notice.pdf\" target=\"_blank\">Lloyd&rsquo;s Bridge platform privacy notice</a>.</p>",
+    "instruction": "",
+    "_id": "5c372c6f5b801205541753a3",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175370",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "How did you do?",
+    "displayTitle": "How did you do?",
+    "body": "<p>Complete the assessment to see your result here.</p>",
+    "instruction": "",
+    "_id": "5c372c6f5b801205541753ab",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175375",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_isVisibleBeforeCompletion": true,
+    "_assessmentId": "lloyds_assessment",
+    "_retry": {
+      "button": "Retry Assessment",
+      "feedback": ""
+    },
+    "_completionBody": "<p>{{{feedback}}}</p>",
+    "_bands": [
+      {
+        "_score": 0,
+        "feedback": "<h2>{{scoreAsPercent}}%</h2><p><br /><strong>Could do better!</strong><br /><br />A result of at least 80% is required to pass.<br /><br />The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.</p>",
+        "_allowRetry": true,
+        "_classes": ""
+      },
+      {
+        "_classes": "",
+        "_allowRetry": true,
+        "feedback": "<h2>{{scoreAsPercent}}%</h2><br/><b>Could do better!</b><br/><br/>A result of at least 80% is required to pass.<br/><br/>You have some good knowledge but need to brush up in a few areas. Take a look back at the practical lessons to help fill the gaps in your knowledge. ",
+        "_score": 50
+      },
+      {
+        "_score": 80,
+        "feedback": "<h2>{{scoreAsPercent}}%</h2><p><br /><strong>You passed, well done!</strong><br /><br />You have now completed the assessment and can close this window/tab.</p>",
+        "_allowRetry": true,
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c372c6f5b801205541753a9",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175373",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/96b6cd0425d0e6c097364266c019094dfabaea62.jpg",
+      "small": "course/en/assets/96b6cd0425d0e6c097364266c019094dfabaea62.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/achievement-action-adventure-backlit-209209/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Is data protection an opportunity for growth for you?",
+    "displayTitle": "Is data protection an opportuity for growth for you?",
+    "body": "<p><a class=\"button\" href=\"#/id/5c372c6f5b80120554175352\">Take the quiz and test your knowledge</a></p>",
+    "instruction": "",
+    "_id": "5c372c6f5b80120554175383",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175360",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Advantages of reducing unnecessary data and process duplication",
+    "displayTitle": "Advantages of reducing unnecessary data and process duplication",
+    "body": "<p>New &lsquo;privacy by design&rsquo; principles are designed to ensure that only data absolutely necessary for the delivery of a service is collected and maintained.&nbsp;</p><p>Adopting a data minimisation approach will help the market eliminate duplication of process and data, while optimising the collection and retention policies that ensure risk is minimised. A focus on data minimisation can lead to faster innovation through lack of distraction caused by irrelevant data.&nbsp;</p><p>The <a href=\"https://tomsupports.london/news/da-sats-frequently-asked-questions\" target=\"_blank\">Delegated Authority Submission, Access and Transformation Services (DA SATS) platform</a> uses premium, claim and risk data which it then transforms and validates before distribution to managing agents. This process brings consistent data to the market and removes the inefficiencies and problems around collection and retention policies inherent in spreadsheet-based systems.</p>",
+    "instruction": "",
+    "_id": "5c372c6f5b8012055417538c",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b8012055417535b",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q5: Advantages of reducing unnecessary data and process duplication",
+    "displayTitle": "Advantages of reducing unnecessary data and process duplication",
+    "body": "<p>Which of the following can help reduce impact of data breaches?</p>",
+    "instruction": "Select one answer then click 'submit'",
+    "_id": "5c372c6f5b8012055417539c",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175369",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Privacy by design",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Data minimisation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Data deduplication",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Deleting data that is no longer required",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>New &lsquo;privacy by design&rsquo; principles are designed to ensure that only data absolutely necessary for the delivery of a service is collected and maintained.&nbsp;</p><p>Adopting a data minimisation approach will help the market eliminate duplication of process and data, while optimising the collection and retention policies that ensure risk is minimised.&nbsp;</p><p>The&nbsp;<a href=\"https://tomsupports.london/news/da-sats-frequently-asked-questions\" target=\"_blank\">Delegated Authority Submission, Access and Transformation Services (DA SATS) platform</a>&nbsp;uses premium, claim and risk data which it then transforms and validates before distribution to managing agents. This process brings consistent data to the market and removes the inefficiencies and problems around collection and retention policies inherent in spreadsheet-based systems.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>New &lsquo;privacy by design&rsquo; principles are designed to ensure that only data absolutely necessary for the delivery of a service is collected and maintained.&nbsp;</p><p>Adopting a data minimisation approach will help the market eliminate duplication of process and data, while optimising the collection and retention policies that ensure risk is minimised.&nbsp;</p><p>The&nbsp;<a href=\"https://tomsupports.london/news/da-sats-frequently-asked-questions\" target=\"_blank\">Delegated Authority Submission, Access and Transformation Services (DA SATS) platform</a>&nbsp;uses premium, claim and risk data which it then transforms and validates before distribution to managing agents. This process brings consistent data to the market and removes the inefficiencies and problems around collection and retention policies inherent in spreadsheet-based systems.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c372c6f5b80120554175394",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175369",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ad76b307b95614fe4787e34ed2eeefd4c4c7e8e4.png",
+      "small": "course/en/assets/ad76b307b95614fe4787e34ed2eeefd4c4c7e8e4.png",
+      "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q7: Why respecting the rights of individuals is critical",
+    "displayTitle": "Why respecting the rights of individuals is critical",
+    "body": "<p>The most significant change in recent data protection regulations has been the introduction of the rights that individuals have over personal data. Depending on the basis for processing, which of the follow rights do our customers have over personal data about them.</p>",
+    "instruction": "Select three answers then click 'submit'",
+    "_id": "5c372c6f5b8012055417539f",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c372c6f5b8012055417536c",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "right to rectify",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "right to restrict processing",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "right to data transfer",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "right to complain",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "right to obtain commercial IP",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The most significant change in recent data protection regulations has been the introduction of the rights that individuals have over personal data.&nbsp;</p><p>Depending on the basis for processing, individuals have the right to rectify, restrict processing or transfer personal data held by Lloyd&rsquo;s and the marketplace.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>The most significant change in recent data protection regulations has been the introduction of the rights that individuals have over personal data.&nbsp;</p><p>Depending on the basis for processing, individuals have the right to rectify, restrict processing&nbsp;or transfer personal data held by Lloyd&rsquo;s and the marketplace.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Why respecting the rights of individuals is critical",
+    "displayTitle": "Why respecting the rights of individuals is critical",
+    "body": "<p>The most significant change in recent data protection regulations has been the introduction of the rights that individuals have over personal data.&nbsp;</p><p>Depending on the basis for processing, individuals have the right to rectify, restrict processing or transfer personal data held by Lloyd&rsquo;s and the marketplace.&nbsp;</p><p>Through streamlining the processing of data within the market, such rights can be upheld easily with minimal impact on day-to-day operations. In fact the right to data transfer provides increased opportunities for the market to obtain data directly from customers through a direct transfer from another provider.</p><p>Insurance isn&rsquo;t the first industry to harness the opportunity presented by increased portability and common standards. In the banking sector the <a href=\"https://www.openbanking.org.uk/\" target=\"_blank\">Open Banking</a> initiative is helping customers gain access to new products and services that are tailored specifically to their needs.</p>",
+    "instruction": "",
+    "_id": "5c372c6f5b8012055417537d",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b8012055417535c",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c372c6f5b8012055417538a",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175359",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0ce659b95a5fc40b79769cf1172c40669864fa30.jpg",
+      "small": "course/en/assets/0ce659b95a5fc40b79769cf1172c40669864fa30.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/architecture-blue-building-business-373557/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c372c6f5b80120554175393",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175368",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0ce659b95a5fc40b79769cf1172c40669864fa30.jpg",
+      "small": "course/en/assets/0ce659b95a5fc40b79769cf1172c40669864fa30.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/architecture-blue-building-business-373557/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c372c6f5b8012055417537b",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175358",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/23cd95335b7d50cbb539e196dc5df4543ddba989.png",
+      "small": "course/en/assets/23cd95335b7d50cbb539e196dc5df4543ddba989.png",
+      "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Using standards to deliver compliance and efficiency",
+    "displayTitle": "Using standards to deliver compliance and efficiency",
+    "body": "<p>New data protection regulations promote the use of common standards for data exchange. Lloyd&rsquo;s is already pushing forward activities that define standards and agree formats for data exchange, not just with customers, but also within the market.&nbsp;</p><p>While previously sharing and exchanging data was associated with significant time and resource, the <a href=\"https://tomsupports.london/data-integration-glossary\" target=\"_blank\">Market Business Glossary</a> provides an efficient alternative and already contains a number of key standards related to premiums, claims and risks that can be freely used by anyone in the <a href=\"https://admin.tomsupports.london/wp-content/uploads/2017/12/Delegated-Authority-Risk-Standards_December-2017.pdf\" target=\"_blank\">Delegated Authority</a>.&nbsp;</p><p>This will enable the faster and more accurate exchange of data across the market, leading to huge efficiencies and common approaches to data protection.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5c372c6f5b801205541753ac",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175359",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Test your knowledge of how data protection provides an opportunity for growth",
+    "displayTitle": "Test your knowledge of how data protection provides an opportunity for growth",
+    "body": "<p>Is data protection an opportunity for growth for you?</p><p>Please scroll down to progress through the quiz questions.&nbsp;Feedback will appear indicating if you have chosen the right answer.</p><p>To pass you need to get 80% right (6/8).&nbsp;You will be advised if you have passed or failed once you have completed the questions.</p><p><strong>Warning</strong>: Do not leave your assessment session as you will not be able to resume your assessment.</p>",
+    "instruction": "",
+    "_id": "5c372c6f5b801205541753af",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175374",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c372c6f5b8012055417537e",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c372c6f5b8012055417535c",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "small": "course/en/assets/1ae320099f47473b5aad51b02874e8d011ccecef.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/sign-pen-business-document-48148/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c372c6f5b80120554175392",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175367",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/23cd95335b7d50cbb539e196dc5df4543ddba989.png",
+      "small": "course/en/assets/23cd95335b7d50cbb539e196dc5df4543ddba989.png",
+      "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Opportunities to improve data management",
+    "displayTitle": "Opportunities to improve data management",
+    "body": "<p>Like many industries, insurance is data rich, but much of this data is on paper or in non-standard spreadsheets that are emailed across organisations. An obvious risk here is accidental data breach: paper or electronic copies may inadvertently reach unintended recipients.&nbsp;</p><p>Lloyd&rsquo;s sees this as an opportunity to futureproof data management and IT of all data: to improve quality; standardise the collection and usage principles; at the same time as reducing the costs associated with storing only the data required to deliver value.&nbsp;</p><p>For example, Placing Platform Limited&rsquo;s <a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">electronic placing platform</a> enables brokers and underwriters to quote, negotiate, bind and endorse business digitally, all in one place. This straight-through processing removes paper from the process, increases efficiency, reduces risk and improves customer service.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5c372eaa5b80120554175569",
+    "_parentId": "5c372c6f5b8012055417535a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q2: Streamlining the global transfer of data",
+    "displayTitle": "Streamlining the global transfer of data",
+    "body": "<p dir=\"ltr\">Which countries can an individual&rsquo;s personal data be transferred to in order to provide requested services?</p>",
+    "instruction": "Select one answer then click 'submit'",
+    "_id": "5c372c6f5b80120554175390",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175367",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Any EU country",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Any country",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Any EU country and any third country approved by the European Commission that offers an adequate level of data protection.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The GDPR makes it much easier to transfer data within&nbsp;the EU.</p><p>Transfers outside of the EU may be made:</p><ul><li>to locations&nbsp;the European Commission has decided an adequate level of protection is afforded</li><li>to organisations where appropriate protection is afforded through contractual clauses</li><li>with the individual&#39;s informed consent</li><li>where it is absolutely necessary for the fulfilment of the lawful basis</li></ul>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The GDPR makes it much easier to transfer data within&nbsp;the EU.</p><p>Transfers outside of the EU may be made:</p><ul><li>to locations&nbsp;the European Commission has decided an adequate level of protection is afforded</li><li>to organisations where appropriate protection is afforded through contractual clauses</li><li>with the individual&#39;s informed consent</li><li>where it is absolutely necessary for the fulfilment of the lawful basis</li></ul>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c372c6f5b80120554175395",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c372c6f5b8012055417536a",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "small": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q3: Using standards to deliver compliance and efficiency",
+    "displayTitle": "Using standards to deliver compliance and efficiency",
+    "body": "<p>New data protection regulations promote the use of common standards for data exchange. What should you do to ensure your data uses common standards?</p>",
+    "instruction": "Select one answer then click 'submit'",
+    "_id": "5c372c6f5b8012055417539b",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175368",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Create a new standard for the market",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Check the Market Business Glossary for existing standards",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Throw all your data away and start again",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Lloyd&rsquo;s is already pushing forward activities that define standards and agree formats for data exchange, not just with customers, but also within the market.&nbsp;</p><p>While previously sharing and exchanging data was associated with significant time and resource, the&nbsp;<a href=\"https://tomsupports.london/data-integration-glossary\" target=\"_blank\">Market Business Glossary</a>&nbsp;provides an efficient alternative and already contains a number of key standards related to premiums, claims and risks that can be freely used by anyone in the&nbsp;<a href=\"https://admin.tomsupports.london/wp-content/uploads/2017/12/Delegated-Authority-Risk-Standards_December-2017.pdf\" target=\"_blank\">Delegated Authority</a>.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Lloyd&rsquo;s is already pushing forward activities that define standards and agree formats for data exchange, not just with customers, but also within the market.&nbsp;</p><p>While previously sharing and exchanging data was associated with significant time and resource, the&nbsp;<a href=\"https://tomsupports.london/data-integration-glossary\" target=\"_blank\">Market Business Glossary</a>&nbsp;provides an efficient alternative and already contains a number of key standards related to premiums, claims and risks that can be freely used by anyone in the&nbsp;<a href=\"https://admin.tomsupports.london/wp-content/uploads/2017/12/Delegated-Authority-Risk-Standards_December-2017.pdf\" target=\"_blank\">Delegated Authority</a>.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q1: Data Protection: An Opportunity for Growth",
+    "displayTitle": "Data Protection: An Opportunity for Growth",
+    "body": "<p>Which of the following does Lloyd&#39;s see as direct opportunities relating to new data protection regulations?</p>",
+    "instruction": "Select one answer then click 'submit'",
+    "_id": "5c372c6f5b8012055417539a",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175376",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Streamline the delivery of data services",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Increase trust",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Deliver growth in the market",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Lloyd&rsquo;s sees data protection regulations as an opportunity to streamline the delivery of data services, increase trust and deliver growth in the market.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Lloyd&rsquo;s sees data protection regulations as an opportunity to streamline the delivery of data services, increase trust and deliver growth in the market.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c3739d05b80120554175571",
+    "_parentId": "5c372c6f5b8012055417535b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ad76b307b95614fe4787e34ed2eeefd4c4c7e8e4.png",
+      "small": "course/en/assets/ad76b307b95614fe4787e34ed2eeefd4c4c7e8e4.png",
+      "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-one",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c372c6f5b801205541753a2",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175370",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/96b6cd0425d0e6c097364266c019094dfabaea62.jpg",
+      "small": "course/en/assets/96b6cd0425d0e6c097364266c019094dfabaea62.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/achievement-action-adventure-backlit-209209/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c372c6f5b80120554175391",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175376",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6d4b41794aea1a80d14783b0076bc75380ea4c83.png",
+      "small": "course/en/assets/6d4b41794aea1a80d14783b0076bc75380ea4c83.png",
+      "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c372c6f5b801205541753b2",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5c372c6f5b8012055417536f",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "attribution": "<a href=\"https://www.flickr.com/photos/sidewalk_flying/2421382093/in/photolist-4FYdx8-aw5nsY-ctCrvy-kZSzJ3-c4NKt5-bCQnXf-vjXqxq-c4PrH3-6m8o8u-ctCrwf-6m8okS-55M9FE-amvEVw-55up3V-9NyWbq-diNzWE-9zjD2H-ctrmKf-mmRpk4-2k2AUx-6zutHb-9quDWx-4MLzSY-b7XoU8-6juyC9-KhQBjM-amsRgx-55LRLD-4MGqwn-wMBbjw-3ZRpmW-xJCfTR-5YCgZp-57QDF5-57QFYq-6bUH5y-f1JUj5-57QF7w-2MeFT-3ZRqN7-64cpXL-3sog6n-6RSRwZ-7AeePA-aCNuwZ-vmquGc-bZGm-ysgm7B-22EijS6-ZK6DPA\" target=\"_blank\">Seth Sawyers</a> <span class='assetLicence'>[CC-BY]</span>",
+      "small": "course/en/assets/2249240d21c144badd90c5b70215369fd1517610.jpg",
+      "large": "course/en/assets/2249240d21c144badd90c5b70215369fd1517610.jpg",
+      "alt": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q4: Opportunities to improve data management",
+    "displayTitle": "Opportunities to improve data management",
+    "body": "<p>What are the benefits and opportunities associated with better management of data?</p>",
+    "instruction": "Select one answer then click 'submit'",
+    "_id": "5c372c6f5b8012055417539d",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b8012055417536a",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "To demonstrate compliance with data protection regulations",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To improve the quality of data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To provide straight-through processing",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Lloyd&rsquo;s sees the requirements of new data protection regulations as an opportunity to futureproof data management and IT of all data. This will help improve quality; standardise the collection and usage principles; at the same time as reducing the costs associated with&nbsp;storing only the data required to deliver value.&nbsp;</p><p>For example, Placing Platform Limited&rsquo;s&nbsp;<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">electronic placing platform</a>&nbsp;enables brokers and underwriters to quote, negotiate, bind and endorse business digitally, all in one place. This straight-through processing removes paper from the process, increases efficiency, reduces risk and improves customer service.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Lloyd&rsquo;s sees the requirements of new data protection regulations as an opportunity to futureproof data management and IT of all data. This will help improve quality; standardise the collection and usage principles; at the same time as reducing the costs associated with&nbsp;storing only the data required to deliver value.&nbsp;</p><p>For example, Placing Platform Limited&rsquo;s&nbsp;<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">electronic placing platform</a>&nbsp;enables brokers and underwriters to quote, negotiate, bind and endorse business digitally, all in one place. This straight-through processing removes paper from the process, increases efficiency, reduces risk and improves customer service.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c373de45b8012055417557c",
+    "_parentId": "5c372c6f5b80120554175361",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6d4b41794aea1a80d14783b0076bc75380ea4c83.png",
+      "small": "course/en/assets/6d4b41794aea1a80d14783b0076bc75380ea4c83.png",
+      "attribution": "<a href=\"https://tomsupports.london/placing-platform-limited\" target=\"_blank\">London Market Group</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c372c6f5b8012055417537c",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b8012055417535a",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "small": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q6: How data protection regulations strengthen customer trust",
+    "displayTitle": "How data protection regulations strengthen trust",
+    "body": "<p>The privacy notice is a key part of new data protection regulations.</p><p>It should be...</p>",
+    "instruction": "Select one answer then click 'submit'",
+    "_id": "5c372c6f5b801205541753aa",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5c372c6f5b80120554175373",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "full of complex legal terminology",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "vague, allowing free use of personal data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "clear for everyone to read and understand",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>A privacy notice should be clear for everyone to read and understand.&nbsp;Lloyd&rsquo;s has already taken key steps to improve privacy notices such as the&nbsp;<a href=\"https://www.lloydsbridge.com/assets/Lloyds%20Bridge%20Privacy%20Notice.pdf\" target=\"_blank\">Lloyd&rsquo;s Bridge platform privacy notice</a>.</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>A privacy notice should be clear for everyone to read and understand.&nbsp;Lloyd&rsquo;s has already taken key steps to improve privacy notices such as the&nbsp;<a href=\"https://www.lloydsbridge.com/assets/Lloyds%20Bridge%20Privacy%20Notice.pdf\" target=\"_blank\">Lloyd&rsquo;s Bridge platform privacy notice</a>.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]

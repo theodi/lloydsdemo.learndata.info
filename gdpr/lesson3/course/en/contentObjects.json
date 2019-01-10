@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Data Protection: An Opportunity for Growth",
+    "displayTitle": "Data Protection: An Opportunity for Growth",
+    "body": "<p>Data protection is of paramount importance and this covers both market-sensitive data and personal data.&nbsp;Lloyd&rsquo;s sees such regulations as an opportunity to streamline the delivery of data services, increase trust and deliver growth in the market. Find out how in this lesson.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175351",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6b0815e5da4596e0ae1e03ee73c1ae48b74c18f4.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "<p>&copy; Lloyd&#39;s of London</p>",
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "Is data protection an opportunity for growth for you?",
+    "displayTitle": "Is data protection an opportunity for growth for you?",
+    "body": "<p>Is data protection an opportunity for growth for you? Test your knowledge with this quiz, Get 6/8 to pass.</p>",
+    "_classes": "hidden",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175352",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6b0815e5da4596e0ae1e03ee73c1ae48b74c18f4.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "<p>&copy; Lloyd&#39;s of London</p>",
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  }
+]

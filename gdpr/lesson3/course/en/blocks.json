@@ -1,0 +1,424 @@
+[
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175374",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175355",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q1: Data Protection: An Opportunity for Growth",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-four inverted",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175376",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175354",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": null
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "summary footer inverted",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175375",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175356",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Data Protection: An Opportunity for Growth",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175357",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175353",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Why data protection regulations are an opportunity, not simply a compliance exercise",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-four",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175361",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175353",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q2: Streamlining the global transfer of data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-four",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175367",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175354",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": null
+    }
+  },
+  {
+    "title": "Streamlining the global transfer of data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-two",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175358",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175353",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q3: Using standards to deliver compliance and efficiency",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-four inverted",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175368",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175354",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q4: Opportunities to improve data management",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-four",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b8012055417536a",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175354",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Using standards to deliver compliance and efficiency",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-four inverted",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175359",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175353",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Opportunities to improve data management",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-four",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b8012055417535a",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175353",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q5: Advantages of reducing unnecessary data and process duplication",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one inverted",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175369",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175354",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": null
+    }
+  },
+  {
+    "title": "Advantages of reducing unnecessary data and process duplication",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one inverted",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b8012055417535b",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175353",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q6: How data protection regulations strengthen customer trust",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175373",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175354",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q7: Why respecting the rights of individuals is critical",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one inverted",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b8012055417536c",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175354",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "How data protection regulations strengthen customer trust",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175370",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175353",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Why respecting the rights of individuals is critical",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one inverted",
+    "_trackingId": 17,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b8012055417535c",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175353",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q8: Contacts for GDPR enquiries",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-six",
+    "_trackingId": 18,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b8012055417536f",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175354",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "section-banner color-five inverted",
+    "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c372c6f5b80120554175360",
+    "_type": "block",
+    "_parentId": "5c372c6f5b80120554175353",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  }
+]
