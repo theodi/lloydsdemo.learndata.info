@@ -30,7 +30,7 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Q10: Contacts for data protection enquiries",
+    "title": "Q8: Contacts for data protection enquiries",
     "displayTitle": "Contacts for data protection enquiries",
     "body": "<p>If you have questions or concerns about data protection or require help to enable you to work with personal data what should you do?</p>",
     "instruction": "Select one answer then click 'submit'",
@@ -148,7 +148,7 @@
     "_isVisible": true,
     "title": "Why data protection regulations are an opportunity, not simply a compliance exercise",
     "displayTitle": "Introduction",
-    "body": "<p>Data protection is of paramount importance and this covers both market-sensitive data and personal data. Recent changes in data protection regulations &ndash; notably the EU General Data Protection Regulation (GDPR) &ndash; mean that organisations not only have increased compliance responsibilities, but they must also respect the <a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/\" target=\"_blank\">individuals&rsquo; personal data rights</a>.</p><p>Lloyd&rsquo;s sees such regulations as an opportunity to streamline the delivery of data services, increase trust and deliver growth in the market.&nbsp;</p><p>Moving away from loosely connected paper systems to streamlined digital services leads to benefits such as a significant reduction in audits for coverholders. Such systems include growth-focused common standards and data management practices that also encapsulate regulation compliance. Why take the risk of utilising outdated practices?</p>",
+    "body": "<p>Data protection is of paramount importance and this covers both market-sensitive data and personal data. Recent changes in data protection regulations &ndash; notably the EU General Data Protection Regulation (GDPR) &ndash; mean that organisations not only have increased compliance responsibilities, but they must also respect the <a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/\" target=\"_blank\">individuals&rsquo; personal data rights</a>.</p><p>Lloyd&rsquo;s sees such regulations as an opportunity to streamline the delivery of data services, increase trust and deliver growth in the market.&nbsp;</p><p>Moving away from loosely connected paper systems to streamlined digital services leads to benefits such as a significant reduction in audits for coverholders. Such systems include growth-focused common standards and data management practices that also encapsulate regulation compliance. Lloyd&#39;s sees data protection as an opportunity to drive best practices in handling of all data &ndash;&nbsp;why take the risk of using outdated practices?</p>",
     "instruction": "",
     "_id": "5c372c6f5b80120554175384",
     "_layout": "right",
@@ -197,7 +197,7 @@
     "_isVisible": true,
     "title": "Streamlining the global transfer of data",
     "displayTitle": "Streamlining the global transfer of data",
-    "body": "<p>One key aspect of the new data protection regulations is the increased clarity determining with whom data can be shared. The GDPR also provides standardisation of data protection laws across all European member states, making it easier for organisations to provide services to people in the EU.&nbsp;</p><p>Transfers outside of the EU may be made:</p><ul><li>to locations that the European Commission decide provide an adequate level of protection</li><li>to organisations where appropriate protection is provided through contractual clauses</li><li>with the individual&#39;s informed consent</li><li>where it is absolutely necessary to fulfil the lawful basis</li></ul>",
+    "body": "<p>One key aspect of the new data protection regulations is the increased clarity determining with whom data can be shared. The GDPR also provides standardisation of data protection laws across all European member states, making it easier for organisations to provide services to people in the EEA.&nbsp;</p><p>Transfers outside of the EEA&nbsp;(including to another Lloyd&#39;s office) may only be made:</p><ul><li>to locations that the European Commission decide provide an adequate level of protection</li><li>to organisations where appropriate protection is provided through contractual clauses</li></ul>",
     "instruction": "",
     "_id": "5c372c6f5b8012055417537a",
     "_layout": "left",
@@ -221,7 +221,7 @@
     "_isVisible": true,
     "title": "How data protection regulations strengthen customer trust",
     "displayTitle": "How data protection regulations strengthen customer trust",
-    "body": "<p>Insurance was established as a trust mechanism, providing a service to cover risk. Today, the element of trust between customer and insurer &lsquo;<a href=\"http://www.hitachi-solutions.co.uk/wp-content/uploads/2017/09/GDPR-WP-Sept-2017-Final-1.pdf\" target=\"_blank\">skates on thin ice</a>&rsquo;.&nbsp;</p><p><a href=\"https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2017/11/ico-survey-shows-most-uk-citizens-don-t-trust-organisations-with-their-data/\" target=\"_blank\">Research from the Information Commissioner&#39;s Office</a>, the UK&#39;s independent body set up to uphold information rights, found that only 20% of the UK public have trust and confidence in companies and organisations storing personal information.&nbsp;</p><p><a href=\"https://theodi.org/article/who-do-we-trust-with-personal-data-odi-commissioned-survey-reveals-most-and-least-trusted-sectors-across-europe/\" target=\"_blank\">A more detailed study by the Open Data Institute</a> found that within the commercial sector, 57% of consumers trust banks with personal information while only 22% trust online retailers. One third (33%) of respondents said clearer explanation about how personal data is used would make them feel more comfortable .&nbsp;</p><p>Lloyd&rsquo;s has already taken key steps to not only improve privacy notices, but to take a lead in ensuring that they are clear for everyone to read and understand, such as the <a href=\"https://www.lloydsbridge.com/assets/Lloyds%20Bridge%20Privacy%20Notice.pdf\" target=\"_blank\">Lloyd&rsquo;s Bridge platform privacy notice</a>.</p>",
+    "body": "<p><a href=\"https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2017/11/ico-survey-shows-most-uk-citizens-don-t-trust-organisations-with-their-data/\" target=\"_blank\">Research from the Information Commissioner&#39;s Office</a>, the UK&#39;s independent body set up to uphold information rights, found that only 20% of the UK public have trust and confidence in companies and organisations storing personal information.&nbsp;</p><p><a href=\"https://theodi.org/article/who-do-we-trust-with-personal-data-odi-commissioned-survey-reveals-most-and-least-trusted-sectors-across-europe/\" target=\"_blank\">A more detailed study by the Open Data Institute</a> found that within the commercial sector, 57% of consumers trust banks with personal information while only 22% trust online retailers. One third (33%) of respondents said clearer explanation about how personal data is used would make them feel more comfortable .&nbsp;</p><p>Lloyd&rsquo;s has already taken key steps to not only improve privacy notices, but to take a lead in ensuring that they are clear for everyone to read and understand, such as the <a href=\"https://www.lloydsbridge.com/assets/Lloyds%20Bridge%20Privacy%20Notice.pdf\" target=\"_blank\">Lloyd&rsquo;s Bridge platform privacy notice</a>.</p>",
     "instruction": "",
     "_id": "5c372c6f5b801205541753a3",
     "_layout": "left",
@@ -350,7 +350,7 @@
     "_isVisible": true,
     "title": "Advantages of reducing unnecessary data and process duplication",
     "displayTitle": "Advantages of reducing unnecessary data and process duplication",
-    "body": "<p>New &lsquo;privacy by design&rsquo; principles are designed to ensure that only data absolutely necessary for the delivery of a service is collected and maintained.&nbsp;</p><p>Adopting a data minimisation approach will help the market eliminate duplication of process and data, while optimising the collection and retention policies that ensure risk is minimised. A focus on data minimisation can lead to faster innovation through lack of distraction caused by irrelevant data.&nbsp;</p><p>The <a href=\"https://tomsupports.london/news/da-sats-frequently-asked-questions\" target=\"_blank\">Delegated Authority Submission, Access and Transformation Services (DA SATS) platform</a> uses premium, claim and risk data which it then transforms and validates before distribution to managing agents. This process brings consistent data to the market and removes the inefficiencies and problems around collection and retention policies inherent in spreadsheet-based systems.</p>",
+    "body": "<p>Under the GDPR &#39;Privacy by design&#39; is a legal requirement. It requires organisations to consider people&rsquo;s privacy from the start of the design of any system or service and not just bolt it on at the end. One of the main&nbsp;&#39;privacy by design&rsquo; principles is that of data minimisation. This helps ensure that&nbsp;only data absolutely necessary for the delivery of a service is collected and maintained.</p><p>Adopting a data minimisation approach will help the market eliminate duplication of process and data, while optimising the collection and retention policies that ensure risk is minimised. A focus on data minimisation can lead to faster innovation through lack of distraction caused by irrelevant data.&nbsp;</p><p>The <a href=\"https://tomsupports.london/news/da-sats-frequently-asked-questions\" target=\"_blank\">Delegated Authority Submission, Access and Transformation Services (DA SATS) platform</a> uses premium, claim and risk data which it then transforms and validates before distribution to managing agents. This process brings consistent data to the market and removes the inefficiencies and problems around collection and retention policies inherent in spreadsheet-based systems.</p>",
     "instruction": "",
     "_id": "5c372c6f5b8012055417538c",
     "_layout": "right",
@@ -500,7 +500,7 @@
     "_isVisible": true,
     "title": "Q7: Why respecting the rights of individuals is critical",
     "displayTitle": "Why respecting the rights of individuals is critical",
-    "body": "<p>The most significant change in recent data protection regulations has been the introduction of the rights that individuals have over personal data. Depending on the basis for processing, which of the follow rights do our customers have over personal data about them.</p>",
+    "body": "<p>A significant change in recent data protection regulations has been the introduction of rights that individuals have over personal data. Depending on the basis for processing, which of the following rights do people who entrust personal data to us have?</p>",
     "instruction": "Select three answers then click 'submit'",
     "_id": "5c372c6f5b8012055417539f",
     "_layout": "left",
@@ -517,27 +517,22 @@
     "_items": [
       {
         "text": "right to rectify",
-        "_shouldBeSelected": true,
+        "_shouldBeSelected": false,
         "feedback": ""
       },
       {
         "text": "right to restrict processing",
-        "_shouldBeSelected": true,
+        "_shouldBeSelected": false,
         "feedback": ""
       },
       {
         "text": "right to data transfer",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
         "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "right to complain",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "right to obtain commercial IP",
-        "_shouldBeSelected": false,
         "feedback": ""
       }
     ],
@@ -546,10 +541,10 @@
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
-    "_isRandom": true,
+    "_isRandom": false,
     "_recordInteraction": true,
     "_questionWeight": 1,
-    "_selectable": 3,
+    "_selectable": 1,
     "_feedback": {
       "title": "",
       "correct": "<p><strong>That&#39;s right!</strong></p><p>The most significant change in recent data protection regulations has been the introduction of the rights that individuals have over personal data.&nbsp;</p><p>Depending on the basis for processing, individuals have the right to rectify, restrict processing or transfer personal data held by Lloyd&rsquo;s and the marketplace.&nbsp;</p>",
@@ -596,7 +591,7 @@
     "_isVisible": true,
     "title": "Why respecting the rights of individuals is critical",
     "displayTitle": "Why respecting the rights of individuals is critical",
-    "body": "<p>The most significant change in recent data protection regulations has been the introduction of the rights that individuals have over personal data.&nbsp;</p><p>Depending on the basis for processing, individuals have the right to rectify, restrict processing or transfer personal data held by Lloyd&rsquo;s and the marketplace.&nbsp;</p><p>Through streamlining the processing of data within the market, such rights can be upheld easily with minimal impact on day-to-day operations. In fact the right to data transfer provides increased opportunities for the market to obtain data directly from customers through a direct transfer from another provider.</p><p>Insurance isn&rsquo;t the first industry to harness the opportunity presented by increased portability and common standards. In the banking sector the <a href=\"https://www.openbanking.org.uk/\" target=\"_blank\">Open Banking</a> initiative is helping customers gain access to new products and services that are tailored specifically to their needs.</p>",
+    "body": "<p>The most significant change in recent data protection regulations has been the introduction of the rights that individuals have over personal data that they entrust to us.</p><p>Depending on the basis for processing, individuals have the right to rectify, restrict processing or transfer personal data held by Lloyd&rsquo;s and the marketplace.&nbsp;</p><p>Through streamlining the processing of data within the market, such rights can be upheld easily with minimal impact on day-to-day operations. In fact the right to data transfer provides increased opportunities for the market to obtain data directly from customers through a direct transfer from another provider.</p><p>Insurance isn&rsquo;t the first industry to harness the opportunity presented by increased portability and common standards. In the banking sector the <a href=\"https://www.openbanking.org.uk/\" target=\"_blank\">Open Banking</a> initiative is helping customers gain access to new products and services that are tailored specifically to their needs.</p>",
     "instruction": "",
     "_id": "5c372c6f5b8012055417537d",
     "_layout": "right",
@@ -858,7 +853,7 @@
     },
     "_items": [
       {
-        "text": "Any EU country",
+        "text": "Any EEA country",
         "_shouldBeSelected": false,
         "feedback": ""
       },
@@ -868,7 +863,7 @@
         "feedback": ""
       },
       {
-        "text": "Any EU country and any third country approved by the European Commission that offers an adequate level of data protection.",
+        "text": "Any EEA country and any third country approved by the European Commission that offers an adequate level of data protection.",
         "_shouldBeSelected": true,
         "feedback": ""
       }
@@ -884,7 +879,7 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>The GDPR makes it much easier to transfer data within&nbsp;the EU.</p><p>Transfers outside of the EU may be made:</p><ul><li>to locations&nbsp;the European Commission has decided an adequate level of protection is afforded</li><li>to organisations where appropriate protection is afforded through contractual clauses</li><li>with the individual&#39;s informed consent</li><li>where it is absolutely necessary for the fulfilment of the lawful basis</li></ul>",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Transfers outside of the EEA&nbsp;(including to another Lloyd&#39;s office) may only be made:</p><ul><li>to locations&nbsp;the European Commission has decided an adequate level of protection is afforded</li><li>to organisations where appropriate protection is afforded through contractual clauses</li></ul>",
       "_incorrect": {
         "final": "<p><strong>Are you sure about that?</strong></p><p>The GDPR makes it much easier to transfer data within&nbsp;the EU.</p><p>Transfers outside of the EU may be made:</p><ul><li>to locations&nbsp;the European Commission has decided an adequate level of protection is afforded</li><li>to organisations where appropriate protection is afforded through contractual clauses</li><li>with the individual&#39;s informed consent</li><li>where it is absolutely necessary for the fulfilment of the lawful basis</li></ul>",
         "notFinal": ""

@@ -29,9 +29,6 @@
     "_level": null,
     "_console": false
   },
-  "_devtools": {
-    "_isEnabled": true
-  },
   "_spoor": {
     "_isEnabled": true,
     "_tracking": {
@@ -66,7 +63,6 @@
       "adapt-contrib-tutor",
       "adapt-odi-footerLink",
       "adapt-contrib-spoor",
-      "adapt-devtools",
       "adapt-contrib-text",
       "adapt-contrib-graphic",
       "adapt-contrib-mcq",

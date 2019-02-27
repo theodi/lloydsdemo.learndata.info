@@ -72,14 +72,8 @@
       "_text": {
         "ariaRegion": ""
       },
-      "_accordion": {
-        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
-      },
       "_mcq": {
         "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
-      },
-      "_narrative": {
-        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
       }
     },
     "_extensions": {
@@ -89,7 +83,7 @@
         "contactEMail": "training@theodi.org",
         "contactLinkText": "Contact",
         "aboutCredit": "",
-        "SL_text": "<p>&copy; Lloyd&#39;s of London / The Open Data Institute</p>",
+        "SL_text": "<p>Developed for&nbsp;<a href=\"https://www.lloyds.com/\" target=\"_blank\">Lloyd&#39;s of London</a> by&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">The Open Data Institute</a><br />&copy; Lloyd&#39;s of London</p>",
         "SL_facebook": "",
         "SL_flickr": "",
         "SL_github": "",
