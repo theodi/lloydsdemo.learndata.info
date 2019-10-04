@@ -10,6 +10,19 @@ function createResetButton(API) {
 	});
 }
 
+function storageWarning() {
+	var Adapt;
+	var notificationMethod = alert;
+	this.__storageWarningTimeoutId = null;
+	if (require) Adapt = require('coreJS/adapt');
+	if (Adapt && Adapt.config && Adapt.config.has('_spoor')) {
+		if (Adapt.config.get('_spoor')._advancedSettings &&
+			Adapt.config.get('_spoor')._advancedSettings._suppressErrors === true) {
+			notificationMethod = console.error;
+		}
+	}
+	notificationMethod('Warning: possible cookie storage limit exceeded - tracking may malfunction');
+}
 
 var API = {
 	
@@ -20,7 +33,8 @@ var API = {
 		if (!API.LMSFetch()) {
 			this.data["cmi.core.lesson_status"] = "not attempted";
 			this.data["cmi.suspend_data"] = "";
-			this.data["cmi.core.student_name"] = "Test Student";
+			this.data["cmi.core.student_name"] = "Surname, Sam";
+			this.data["cmi.core.student_id"] = "sam.surname@example.org";
 			this.data["cmi.interactions._count"] = 0;
 			API.LMSStore(true);
 		}
@@ -43,7 +57,7 @@ var API = {
 
 			_.each(_.keys(this.data), function(key) {
 				var index = key.indexOf(str);
-				if (index != -1) map[key.substr(strLen, 1)] = true;
+				if (index != -1) map[key.substring(strLen, key.indexOf(".", strLen))] = true;
 			});
 			
 			this.data["cmi.interactions._count"] = _.compact(map).length;
@@ -62,12 +76,23 @@ var API = {
 		return "Fake error string.";
 	},
 	LMSGetDiagnostic: function() {
-		return "Fake diagnostic information."
+		return "Fake diagnostic information.";
 	},
 	LMSStore: function(force) {
 		if (window.ISCOOKIELMS === false) return;
 		if (!force && API.cookie("_spoor") === undefined) return;
-		API.cookie("_spoor", JSON.stringify(this.data));
+
+		var stringified = JSON.stringify(this.data);
+
+		API.cookie("_spoor", stringified);
+
+		// a length mismatch will most likely indicate cookie storage limit exceeded
+		if (API.cookie("_spoor").length != stringified.length) {
+			// defer call to avoid excessive alerts
+			if (this.__storageWarningTimeoutId == null) {
+				this.__storageWarningTimeoutId = setTimeout(function() {storageWarning.apply(API);}, 1000);
+			}
+		}
 	},
 	LMSFetch: function() {
 		if (window.ISCOOKIELMS === false) {
@@ -76,7 +101,7 @@ var API = {
 		}
 		this.data = API.cookie("_spoor");
 		if (this.data === undefined) {
-			this.data = {}
+			this.data = {};
 			return false;
 		} else {
 			this.data = JSON.parse(this.data);
@@ -97,7 +122,8 @@ var API_1484_11 = {
 		if (!API_1484_11.LMSFetch()) {
 			this.data["cmi.completion_status"] = "not attempted";
 			this.data["cmi.suspend_data"] = "";
-			this.data["cmi.learner_name"] = "Test Student";
+			this.data["cmi.learner_name"] = "Surname, Sam";
+			this.data["cmi.learner_id"] = "sam.surname@example.org";
 			this.data["cmi.interactions._count"] = 0;
 			API_1484_11.LMSStore(true);
 		}
@@ -120,7 +146,7 @@ var API_1484_11 = {
 
 			_.each(_.keys(this.data), function(key) {
 				var index = key.indexOf(str);
-				if (index != -1) map[key.substr(strLen, 1)] = true;
+				if (index != -1) map[key.substring(strLen, key.indexOf(".", strLen))] = true;
 			});
 			
 			this.data["cmi.interactions._count"] = _.compact(map).length;
@@ -139,12 +165,23 @@ var API_1484_11 = {
 		return "Fake error string.";
 	},
 	GetDiagnostic: function() {
-		return "Fake diagnostic information."
+		return "Fake diagnostic information.";
 	},
 	LMSStore: function(force) {
 		if (window.ISCOOKIELMS === false) return;
 		if (!force && API_1484_11.cookie("_spoor") === undefined) return;
-		API_1484_11.cookie("_spoor", JSON.stringify(this.data));
+
+		var stringified = JSON.stringify(this.data);
+
+		API_1484_11.cookie("_spoor", stringified);
+
+		// a length mismatch will most likely indicate cookie storage limit exceeded
+		if (API_1484_11.cookie("_spoor").length != stringified.length) {
+			// defer call to avoid excessive alerts
+			if (this.__storageWarningTimeoutId == null) {
+				this.__storageWarningTimeoutId = setTimeout(function() {storageWarning.apply(API_1484_11);}, 1000);
+			}
+		}
 	},
 	LMSFetch: function() {
 		if (window.ISCOOKIELMS === false) {
@@ -153,7 +190,7 @@ var API_1484_11 = {
 		}
 		this.data = API_1484_11.cookie("_spoor");
 		if (this.data === undefined) {
-			this.data = {}
+			this.data = {};
 			return false;
 		} else {
 			this.data = JSON.parse(this.data);
@@ -217,16 +254,17 @@ var API_1484_11 = {
 
 		var pluses = /\+/g;
 
-		function encode(s) {
-			return config.raw ? s : encodeURIComponent(s);
-		}
-
-		function decode(s) {
-			return config.raw ? s : decodeURIComponent(s);
-		}
-
-		function stringifyCookieValue(value) {
-			return encode(config.json ? JSON.stringify(value) : String(value));
+		/**
+		 * Safari-for-iOS 10 doesn't like values in JSON strings to contain commas, and will simply
+		 * truncate the data at the point it finds one - see https://github.com/adaptlearning/adapt_framework/issues/1589
+		 * We can't just URL-encode the entire thing as that pretty much doubles the size of the data, see:
+		 * https://github.com/adaptlearning/adapt_framework/issues/1535
+		 * According to https://developer.mozilla.org/en-US/docs/Web/API/document/cookie, semi-colons and whitespace
+		 * are also disallowed, but so far we don't seem to be having problems because of them
+		 */
+		function urlEncodeDisallowedChars(value) {
+			var s = (config.json ? JSON.stringify(value) : String(value));
+			return s.replace(/,/g, '%2C');
 		}
 
 		function parseCookieValue(s) {
@@ -262,7 +300,7 @@ var API_1484_11 = {
 				}
 
 				return (document.cookie = [
-					encode(key), '=', stringifyCookieValue(value),
+					key, '=', urlEncodeDisallowedChars(value),
 					options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IE
 					options.path    ? '; path=' + options.path : '',
 					options.domain  ? '; domain=' + options.domain : '',
@@ -281,7 +319,7 @@ var API_1484_11 = {
 
 			for (var i = 0, l = cookies.length; i < l; i++) {
 				var parts = cookies[i].split('=');
-				var name = decode(parts.shift());
+				var name = parts.shift();
 				var cookie = parts.join('=');
 
 				if (key && key === name) {

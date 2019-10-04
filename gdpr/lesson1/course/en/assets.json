@@ -1,0 +1,366 @@
+{
+  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
+    "title": "ODI Learning Roundal Green-Blue",
+    "description": "Main ODI logo",
+    "source": "http://theodi.org/",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": [
+      {
+        "title": "ODI logo",
+        "_id": "58481cbf4d7b7e82691e4bc0"
+      },
+      {
+        "title": "intro logo",
+        "_id": "58beddf9d084d5167a04ae89"
+      }
+    ]
+  },
+  "a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png": {
+    "title": "Burst white",
+    "description": "Source: ODI",
+    "tags": [
+      {
+        "title": "ODI splash",
+        "_id": "58480b904d7b7e82691e4bb2"
+      }
+    ]
+  },
+  "91d7d44849aaa32d953399c315d3338572889c74.png": {
+    "title": "ODI Burst theme colour",
+    "description": "Takes the theme colour as it's background colour",
+    "tags": []
+  },
+  "9a8689446ed8573abc470b29943634d776fa4795.jpg": {
+    "title": "Magnifying glass people",
+    "description": "Magnifying glass people",
+    "source": "http://www.shutterstock.com/pic-203736538",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Digital Storm",
+    "tags": [
+      {
+        "title": "Magnifying glass",
+        "_id": "588894d2b61c46e176e7e72c"
+      },
+      {
+        "title": "people",
+        "_id": "584ed53e4e62ce485eb14558"
+      }
+    ]
+  },
+  "a2cf7964e88c87419cb331fe181d58b5e1d76317.jpg": {
+    "title": "Magnifying glass",
+    "description": "Magnifying glass",
+    "source": "https://www.shutterstock.com/image-vector/search-icon-loupe-symbol-application-button-180739841?src=lb-36497927",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Tarchyshnik Andrei",
+    "tags": [
+      {
+        "title": "Magnifying glass",
+        "_id": "588894d2b61c46e176e7e72c"
+      }
+    ]
+  },
+  "527081e4c54d29b80e290e1b6831aebe308a73a3.png": {
+    "title": "Lloyds clipboard black",
+    "description": "Lloyds clipboard black",
+    "source": "https://thenounproject.com/search/?q=clipboard&i=778870",
+    "licence": "CC-BY",
+    "attribution": "Allen, US",
+    "tags": []
+  },
+  "39c343aca81e82ac6fbc3702050816c1269be49f.jpg": {
+    "title": "733.jpg",
+    "description": "Close-up of judges gavel",
+    "source": "http://www.freepik.com",
+    "licence": "CC-BY",
+    "attribution": "awesomecontent / Freepik",
+    "tags": []
+  },
+  "c7c39a53b1f755cdd9d80c1f076f62b5c8a646b2.jpg": {
+    "title": "Behind the camera",
+    "description": "Behind the camera",
+    "source": "https://www.flickr.com/photos/mrzeon/5336485299",
+    "licence": "CC-BY-SA",
+    "attribution": "Daniel Dionne",
+    "tags": [
+      {
+        "title": "camera",
+        "_id": "58fa28bdd084d5167a04dc26"
+      },
+      {
+        "title": "lense",
+        "_id": "58fa28c0d084d5167a04dc27"
+      }
+    ]
+  },
+  "6b0815e5da4596e0ae1e03ee73c1ae48b74c18f4.jpg": {
+    "title": "People faces",
+    "description": "People faces audience",
+    "source": "http://www.freepik.com/free-vector/nice-people-avatars-in-flat-design_844761.htm#term=people&page=1&position=26",
+    "licence": "CC-BY",
+    "attribution": "Freepik",
+    "tags": [
+      {
+        "title": "people",
+        "_id": "584ed53e4e62ce485eb14558"
+      },
+      {
+        "title": "audience",
+        "_id": "58fdddbad084d5167a04dccc"
+      },
+      {
+        "title": "face",
+        "_id": "58fdddbbd084d5167a04dccd"
+      }
+    ]
+  },
+  "ba1d85ab946342636d631b5e9fbcb4a0027c0976.jpg": {
+    "title": "Callcenter yellow background and contact icons",
+    "description": "Support",
+    "source": "http://www.freepik.com",
+    "licence": "CC-BY",
+    "attribution": "Freepik",
+    "tags": []
+  },
+  "d28ef400d5d11d9984ac313007e55a2d27589939.png": {
+    "title": "Road map",
+    "description": "roadmap",
+    "source": "http://www.freepik.com",
+    "licence": "CC-BY",
+    "attribution": "Freepik",
+    "tags": []
+  },
+  "484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png": {
+    "title": "Clipboard Black (NEW)",
+    "description": "Clipboard Black (NEW)",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "ae443dbaacece3c2e56cef4aa80f718b15b36b58.jpg": {
+    "title": "Security icon",
+    "description": "Security icon",
+    "source": "http://www.freepik.com/free-vector/security-icon_1086687.htm#term=risk&page=1&position=30",
+    "licence": "CC-BY",
+    "attribution": "Photoroyalty / Freepik",
+    "tags": []
+  },
+  "c8983566fcee8bb217d473f37e4f7839c3fdf58e.png": {
+    "title": "globe face connected",
+    "description": "globe people world connected connection faces",
+    "source": "https://pixabay.com/en/social-media-faces-photo-album-550767/",
+    "licence": "CC0",
+    "attribution": "geralt",
+    "tags": []
+  },
+  "43a1c4e720876e49432ecf95c181d05f705252e2.png": {
+    "title": "Privacy policies GDPR",
+    "description": "Privacy policies GDPR",
+    "source": "https://ico.org.uk/media/for-organisations/documents/1625136/good-and-bad-examples-of-privacy-notices.pdf",
+    "licence": "CC-BY",
+    "attribution": "ICO / ODI",
+    "tags": []
+  },
+  "14bb855951dfe14c5a20171da1f99337cb140ca1.jpg": {
+    "title": "People Europe white bg",
+    "description": "People Europe white bg",
+    "source": "https://www.freepik.com/index.php?goto=74&idfoto=861919&term=people%20silhouette",
+    "licence": "CC-BY",
+    "attribution": "Kjpargeter / Freepik / ODI",
+    "tags": []
+  },
+  "683fa85518a69dd0039d9924646b2bdd8264a2da.jpg": {
+    "title": "Stacked money",
+    "description": "Stacked money",
+    "source": "https://www.freepik.com/index.php?goto=74&idfoto=998271&term=euros",
+    "licence": "CC-BY",
+    "attribution": "Asierromero / Freepik",
+    "tags": []
+  },
+  "9666374900330d96dad755893fb9770bc06bcd61.png": {
+    "title": "GDPR statement",
+    "description": "GDPR statement",
+    "source": "https://ico.org.uk/media/for-organisations/documents/1625136/good-and-bad-examples-of-privacy-notices.pdf",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "62a6776b92c6efd3f89fc8c1783dc00cb2fe5c42.jpg": {
+    "title": "handshake",
+    "description": "handshake",
+    "source": "https://www.freepik.com/index.php?goto=74&idfoto=793930&term=handshake",
+    "licence": "CC-BY",
+    "attribution": "Freepik",
+    "tags": []
+  },
+  "4119125daedd47ca713bb79a67c8fa48b8d8de04.jpg": {
+    "title": "agency young adult profession stress",
+    "description": "agency young adult profession stress",
+    "source": "https://www.freepik.com/index.php?goto=74&idfoto=1077974&term=understand",
+    "licence": "CC-BY",
+    "attribution": "creativeart / Freepik",
+    "tags": []
+  },
+  "36d1de1b054024e2de84107d77635ba99e5e732d.jpg": {
+    "title": "Opportunity growth",
+    "description": "Opportunity growth",
+    "source": "https://www.freepik.com/index.php?goto=74&idfoto=1215804&term=opportunity",
+    "licence": "CC-BY",
+    "attribution": "vectorpocket / Freepik",
+    "tags": []
+  },
+  "5cfe2768f03a4ec47caea8d1b8703b28986b81d3.jpg": {
+    "title": "promotion megaphone",
+    "description": "promotion megaphone",
+    "source": "https://www.freepik.com/index.php?goto=74&idfoto=1000116&term=megaphone",
+    "licence": "CC-BY",
+    "attribution": "Lexamer / Freepik",
+    "tags": []
+  },
+  "31942170a9d65693d5222d1bfc11e88216ab9dd0.png": {
+    "title": "Checklist",
+    "description": "Checklist",
+    "source": "https://www.freepik.com/index.php?goto=74&idfoto=1082297&term=checklist",
+    "licence": "CC-BY",
+    "attribution": "Freepik",
+    "tags": []
+  },
+  "a02cea4b081589481dcd9553b10629e8c3c2b307.jpg": {
+    "title": "Handshake square",
+    "description": "Handshake square",
+    "source": "https://www.freepik.com/index.php?goto=74&idfoto=793930&term=handshake",
+    "licence": "CC-BY",
+    "attribution": "Freepik",
+    "tags": []
+  },
+  "227ec3ba18daa1824a914f2618601d4d647802b8.jpeg": {
+    "title": "Glasses data",
+    "description": "Glasses data",
+    "source": "https://www.pexels.com/photo/coding-computer-data-depth-of-field-577585/",
+    "licence": "CC0",
+    "attribution": "Pexels",
+    "tags": []
+  },
+  "f84f4e376b456fe29023669ec13f5bf262941ca7.jpg": {
+    "title": "Commercial shop supermarket",
+    "description": "Commercial shop supermarket",
+    "source": "https://www.freepik.com/index.php?goto=74&idfoto=1246288&term=commercial%20shop",
+    "licence": "CC-BY",
+    "attribution": "topntp26 / Freepik",
+    "tags": []
+  },
+  "65acb644d6960965f9074d27e3e90b861c833dac.jpg": {
+    "title": "8011.jpg",
+    "description": "World map",
+    "source": "https://www.freepik.com/index.php?goto=74&idfoto=1095019&term=world%20map",
+    "licence": "CC-BY",
+    "attribution": "starline / Freepik",
+    "tags": []
+  },
+  "1fb4a3759a8a5087246e7f4aebcb78bfe8ca7e67.jpeg": {
+    "title": "World map",
+    "description": "World map",
+    "source": "https://www.freepik.com/index.php?goto=74&idfoto=1095019&term=world%20map",
+    "licence": "CC-BY",
+    "attribution": "starline / Freepik",
+    "tags": []
+  },
+  "0aff27048c7040bc8d25a3ef20f76f1798fc69a4.jpeg": {
+    "title": "Boardroom",
+    "description": "Boardroom",
+    "source": "https://www.freepik.com/free-photo/silhouette-of-an-executive-holding-a-clipboard_864239.htm#term=boardroom&page=1",
+    "licence": "CC-BY",
+    "attribution": "Pressfoto / Freepik",
+    "tags": []
+  },
+  "b68bb2b510a65eb5b1e228205c0a584293674db8.jpeg": {
+    "title": "privacy data protection closed personal",
+    "description": "privacy data protection closed personal",
+    "source": "https://www.flickr.com/photos/132053576@N03/17765606909/",
+    "licence": "CC-BY",
+    "attribution": "Owen Moore",
+    "tags": []
+  },
+  "0d599d3aae835480634e1f3b0973911bdd484827.jpeg": {
+    "title": "Trolley shopping",
+    "description": "Trolley shopping",
+    "source": "https://www.freepik.com/free-vector/applications-speech-bubbles-in-a-shopping-cart_713109.htm#term=trolley&page=1&position=17",
+    "licence": "CC-BY",
+    "attribution": "Freepik",
+    "tags": []
+  },
+  "403451836f853eb59b55e64e924b44daf603ff18.png": {
+    "title": "Computer wallpaper with icons",
+    "description": "Computer wallpaper with icons",
+    "source": "https://www.freepik.com/free-vector/computer-wallpaper-with-icons_1087359.htm#term=request&page=1&position=5",
+    "licence": "CC-BY",
+    "attribution": "Freepik",
+    "tags": []
+  },
+  "647bc36a181b6051c7606c3f90d785a03671901c.png": {
+    "title": "Data lifecycle",
+    "description": "Data lifecycle",
+    "source": "https://www.nexor.com/wp/wp-content/uploads/2017/03/Enabling-Secure-Information-Exchange-in-Cloud-environments-white-paper-diagram-1.png",
+    "licence": "All rights reserved",
+    "attribution": "Nexor",
+    "tags": []
+  },
+  "5171f0548033d1898a0322fdb2e9245ff2cad10b.png": {
+    "title": " Anonymous worker",
+    "description": "Anonymous worker",
+    "source": "https://www.freepik.com/free-vector/anonymous-worker_931287.htm#term=anonymous&page=1&position=0",
+    "licence": "CC-BY",
+    "attribution": "Ibrandify / Freepik",
+    "tags": []
+  },
+  "7a4c06c13b0c1e35b78e54475d2d06344d258ebb.jpg": {
+    "title": "Adult phone blur",
+    "description": "Adult phone blur",
+    "source": "https://www.pexels.com/photo/close-up-photo-of-woman-in-black-coat-using-smartphone-787929/",
+    "licence": "CC0",
+    "attribution": "bruce mars",
+    "tags": []
+  },
+  "1ae320099f47473b5aad51b02874e8d011ccecef.jpg": {
+    "title": "Contractual document",
+    "description": "Contractual document",
+    "source": "https://www.pexels.com/photo/sign-pen-business-document-48148/",
+    "licence": "CC0",
+    "attribution": "Pixabay",
+    "tags": []
+  },
+  "5be8b25a122424e19d198e303c4cec38ed9d081c.jpg": {
+    "title": "Adult phone blur",
+    "description": "Adult phone blur",
+    "source": "https://www.pexels.com/photo/close-up-photo-of-woman-in-black-coat-using-smartphone-787929/",
+    "licence": "CC0",
+    "attribution": "bruce mars",
+    "tags": []
+  },
+  "0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg": {
+    "title": "data-lifecycle",
+    "description": "data-lifecycle",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "7b0189443d53d1379793bc1c20941af900d9252f.jpg": {
+    "title": "connected cloud services",
+    "description": "connected cloud services",
+    "source": "https://www.freepik.com/index.php?goto=74&idfoto=1010276&term=data",
+    "licence": "CC-BY",
+    "attribution": "Freepik / ODI",
+    "tags": []
+  },
+  "8d9c9fa45fd59e4353ae949ee564e5498d994203.png": {
+    "title": "lloyds clipboard flat",
+    "description": "lloyds clipboard flat",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  }
+}

@@ -4,67 +4,78 @@
   "_questionWeight": 1,
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
-  "screenSize": {
-    "large": 1024,
-    "medium": 640,
-    "small": 640
+  "_id": "5ae324b67f0f6d130535fe0b",
+  "__v": 0,
+  "_accessibility": {
+    "_isEnabled": false,
+    "_isEnabledOnTouchDevices": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isTextProcessorEnabled": false,
+    "_isSkipNavigationEnabled": false
   },
+  "_courseId": "5ae324b57f0f6d130535fcde",
   "_drawer": {
     "_duration": 400,
     "_hideEasing": "easeInQuart",
     "_showEasing": "easeOutQuart"
   },
-  "_courseId": "5ae324b57f0f6d130535fcde",
-  "_accessibility": {
-    "_isTextProcessorEnabled": false,
-    "_shouldSupportLegacyBrowsers": true,
-    "_isDisabledOnTouchDevices": false,
-    "_isEnabled": false
+  "screenSize": {
+    "large": 1024,
+    "medium": 640,
+    "small": 640
   },
-  "__v": 0,
-  "_id": "5ae324b67f0f6d130535fe0b",
-  "_spoor": {
-    "_advancedSettings": {
-      "_commitOnVisibilityChangeHidden": true,
-      "_suppressErrors": true,
-      "_commitRetryDelay": 2000,
-      "_maxCommitRetries": 5,
-      "_timedCommitFrequency": 10,
-      "_commitOnStatusChange": true,
-      "_showDebugWindow": false
-    },
-    "_reporting": {
-      "_resetStatusOnLanguageChange": false,
-      "_onAssessmentFailure": "failed",
-      "_onTrackingCriteriaMet": "completed"
-    },
-    "_tracking": {
-      "_shouldStoreResponses": true,
-      "_shouldSubmitScore": true,
-      "_requireAssessmentPassed": true,
-      "_requireCourseCompleted": false
-    },
+  "_logging": {
+    "_isEnabled": false,
+    "_level": null,
+    "_console": false
+  },
+  "_inview": {
+    "_allowScrollOver": true
+  },
+  "_devtools": {
     "_isEnabled": true
   },
-  "_tutor": {
-    "_isEnabled": false
+  "_spoor": {
+    "_isEnabled": true,
+    "_tracking": {
+      "_requireCourseCompleted": false,
+      "_requireAssessmentPassed": true,
+      "_shouldSubmitScore": true,
+      "_shouldStoreResponses": true,
+      "_shouldRecordInteractions": false
+    },
+    "_reporting": {
+      "_onTrackingCriteriaMet": "completed",
+      "_onAssessmentFailure": "failed",
+      "_resetStatusOnLanguageChange": false
+    },
+    "_advancedSettings": {
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": true,
+      "_commitOnVisibilityChangeHidden": true
+    }
   },
   "build": {
     "includes": [
-      "adapt-theme-lloyds",
       "adapt-contrib-boxMenu",
+      "579b741bf399990a1aefebe2",
+      "adapt-contrib-text",
+      "adapt-contrib-accordion",
+      "adapt-contrib-graphic",
+      "adapt-contrib-mcq",
+      "adapt-contrib-narrative",
+      "adapt-contrib-assessmentResults",
       "adapt-odi-footerLink",
       "adapt-contrib-tutor",
       "adapt-contrib-aboutPage",
       "adapt-contrib-assessment",
       "adapt-contrib-pageLevelProgress",
       "adapt-contrib-spoor",
-      "adapt-contrib-text",
-      "adapt-contrib-accordion",
-      "adapt-contrib-graphic",
-      "adapt-contrib-mcq",
-      "adapt-contrib-narrative",
-      "adapt-contrib-assessmentResults"
+      "adapt-devtools"
     ]
   }
 }
